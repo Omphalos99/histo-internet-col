@@ -1,7 +1,7 @@
 ﻿# histo-internet-col 🌐👩‍💻
 
 
-El proyecto __Historia del Internet en Colombia 1988-1996__ busca identificar los principales líderes y procesos de desarrollo de internet en Colombia y recoger los testimonios de estos para tener un banco de datos sobre la historia de Internet y la web en este país.
+El proyecto __Historia del Internet en Colombia 1988-1996__ busca identificar los principales líderes y procesos de desarrollo de Internet en Colombia y recoger los testimonios de estos para tener un banco de datos sobre la historia de Internet y la web en este país.
 En este repositorio, buscamos compartir los flujos metodológicos usados en la construcción de los dispositivos digitales del proyecto. Con esto, pretendemos que nuestros desarrollos puedan ser utilizados en otras investigaciones.
 - [Dispositivos](#Dispositivos)
 - [Prerrequisitos](#Prerrequisitos)
