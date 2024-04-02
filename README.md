@@ -23,4 +23,4 @@ En el transcurso de este proyecto, tuvimos la necesidad de procesar datos, organ
 
 
 # Contribuir
-Acogemos contribuciones al proyecto, como reportes de bugs (enviados a [Issues]()), contribuciones al código (enviados a [Pull Requests]()) y actualizaciones de la documentación (enviadas de cualquier manera). Si tienes alguna duda, comunícate con nosotros a través de [Github issue]().
+Acogemos contribuciones al proyecto, como reportes de bugs (enviados a [Issues](https://github.com/Omphalos99/histo-internet-col/issues)), contribuciones al código (enviados a [Pull Requests](https://github.com/Omphalos99/histo-internet-col/pulls)) y actualizaciones de la documentación (enviadas de cualquier manera). Si tienes alguna duda, comunícate con nosotros a través de [Github issue](https://github.com/Omphalos99/histo-internet-col/issues).
