@@ -19,7 +19,7 @@ En el transcurso de este proyecto, tuvimos la necesidad de procesar datos, organ
 
 |         Flujo metodológico       |Python                        |       Microsoft Word              |
 |----------------|-------------------------------|-----------------------------|
-|[Procesamiento de entrevistas](##Conteo_entrevistas)|   [python-docx 1.1.0](https://python-docx.readthedocs.io/en/latest/index.html); re; csv  |     2013 o mayor    |
+|[Procesamiento de entrevistas](https://github.com/Omphalos99/histo-internet-col/blob/main/_entrevistas/Flujo_metodologico_entrevistas.md)|   [python-docx 1.1.0](https://python-docx.readthedocs.io/en/latest/index.html); re; csv  |     2013 o mayor    |
 
 
 # Contribuir
