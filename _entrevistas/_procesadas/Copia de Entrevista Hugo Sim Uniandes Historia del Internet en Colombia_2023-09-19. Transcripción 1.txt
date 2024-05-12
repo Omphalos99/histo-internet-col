@@ -1,0 +1,612 @@
+﻿HUGO SIN
+
+
+0:0:0.0 
+Maria Jose Afanador Llach
+Humanidades digitales, también historiadora, trabajando con el colega Jaime Borja, profesor titular del Departamento de Historia, y Laura Manrique, estudiante de doctorado del Departamento de Historia.
+Conformamos un semillero de investigación sobre historia y humanidades digitales donde hemos el proyecto grande que estamos trabajando en este momento, es la es la es historia temprana del *Internet* y la web en Colombia. Hemos estado trabajando la metodología de las historias orales, recopilando entrevistas, pero también hemos estado haciendo trabajo de archivo y trabajo de seguimiento de prensa,  construyendo, digamos, esta investigación.
+
+
+
+
+0:0:37.100
+Hugo Sin Triana
+Correcto.
+
+
+0:0:37.50
+Maria Jose Afanador Llach
+No sé si, Jaime, ¿quieras añadir algo más?
+
+
+0:0:39.810
+Jaime Humberto Borja Gomez
+No nada más. No, darte las gracias, Hugo, por por acompañarnos y, debe, vamos a insistir bastante, sabemos que es importante, muy importante, contar con tu testimonio. en nombre de cómo tener una conversación. Tenemos unas preguntas que hemos formulado y para nosotros es chévere, tu presencia nos ayuda como a ir matizando problemas de una historia que como tú bien sabes, no está escrita.
+
+
+0:1:12.860
+Hugo Sin Triana
+Correcto.
+
+
+0:1:13.630
+Jaime Humberto Borja Gomez
+No hay, hay un libro, hay un par de artículos de estos 30 años, entonces, si nos interesa recoger como los testimonios, y como historiadores, escribirlo como un poquito mejor que se ha hecho, ha sido muy desde el periodismo, que aporta datos, pero la idea sí es comenzar a darles un valor. Tenemos también como intención el próximo año hacer un evento para la celebración de los 30 años. que ameritaría que de hecho, obviamente, estás invitado, se podrías acompañarnos, queda de una vez extendida la invitación. Estamos pensando hacer un evento académico alrededor de este origen del *Internet* en Colombia, entonces también todo esto nos ayuda a ir recopilando material que después podemos poner en función de esos eventos y las publicaciones.
+
+
+0:2:4.630
+Hugo Sin Triana
+Perfecto, Jaime, muchas gracias. No, para mí es un placer poderlos acompañar. Me disculpo porque ha sido difícil cuadrar esta sesión de trabajo, y cuando ya la teníamos cuadrada, preciso me ataca una viral que me dejó por fuera de camino. Pero bueno, yo espero que mi memoria no me tome mucho del pelo. Yo tengo una pésima memoria, toda la vida la he tenido, pésima memoria. Entonces trataré de recordar lo que más pueda, pero pues ya han pasado 30 años casi, entonces no siempre es fácil recordar, pero trataré de ser fiel a mis recuerdos.
+
+
+0:2:41.830
+Jaime Humberto Borja Gomez
+Sí, no, digo, para que tengas tranquilidad con el asunto, cuando se hace memoria, historia de memoria oral, la idea es básicamente el recuerdo, y la forma como llega el recuerdo es sin intermediarios.
+
+
+0:2:55.690
+Hugo Sin Triana
+Ah, sí, perfecto, perfecto. Bueno, soy todo suyo
+.
+0:3:2.320
+Jaime Humberto Borja Gomez
+Laura, si quieres también puedes…
+
+
+0:3:4.170 
+Laura Viviana Manrique Gomez
+Vale, muy bien. Vale, entonces, pues yo quisiera aprovechar el comentario de Jaime de extender la invitación desde ya temprana a nuestro evento como para pensar en quienes opina usted que deberían estar, salir aquí a colación, como como los grandes protagonistas de esta historia de las primeras conexiones a *Internet* con el mundo. Aparte de Hugo Sin, que ya está invitadísimo, por supuesto. Esa sería como la primera pregunta para que comencemos a entrar en sus recuerdos y en ese ranking de personas que intervinieron  en todo este proceso.
+
+
+0:3:44.80
+Hugo Sin Triana
+Yo creo que yo creo que hay dos tipos de personas que participamos en todo este proceso. Unos que estábamos en el hacer, en tratar de que las cosas se concretarán y generalmente era un grupo de docentes, de personas que estaban vinculadas a las *universidades* o que estaban vinculadas también a algunos entes del Estado. ¿Si? Que tratábamos de hacer que las cosas sucedieran. Y lo otro es aquellos que dieron ese voto de confianza para que las cosas se hicieran. Y entonces ya serían más que todo a nivel directivo, de las *universidades* y, por ejemplo, el rector de *la universidad* *los Andes*, que desde el principio y que tuvo una, tuvo un respaldo permanente a todo esto, el director financiero administrativo de la época. O sea, hay actores de carácter organizacional que fueron muy importantes en esto.
+Los rectores de otras *universidades*; *EAFIT*, *la universidad del Valle*, la *UIS* y otros personas que respaldaron estas ideas y esta acción de las personas que estábamos tratando de hacer que las cosas sucedieran.
+
+
+(0:4:51.260) También obviamente un director de *Colciencias*, que también jugó un papel importante en su momento. El director del *ICFES*, que también previamente había jugado un papel muy importante. Entonces yo pensaría que hay esos dos tipos de roles que podría eventualmente ser las personas que participar en un evento de celebración de un momento que fue importante para el país, indiscutiblemente ¿sí? Y quienes trabajaron previamente a eso porque pues esto no se hace, primero, de la noche a la mañana, sino es todo un proceso, un proceso que costó muchos años, mucho esfuerzo, ¿sí? Pero previo a eso también había habido unos hitos importantes en el desarrollo de las *redes* académicas en el país. Entonces, también allí hay una serie de protagonistas interesantes que podrían eventualmente ser copartícipes de un evento de este estilo.
+
+
+(0:5:40.170) Entonces, yo pensaría que esos dos tipos de drones También podemos hablar que hay.tuvimos el respaldo internacional, o sea, no éramos el único país que estábamos intentando conectarnos a *Internet*. Tuvimos el apoyo de la *National Science Foundation* en su momento, a través de unas acciones concretas. Entonces, yo pensaría que hay actores de diferentes niveles, ¿sí? Tanto nacionales como internacionales- Ahora, la lista de nombres me tocaría sentarme a pensar los nombres porque tengo pésima memoria con los nombres, no me aprendo ni los nombres de mis estudiantes.
+
+
+0:6:15.450 
+Jaime Humberto Borja Gomez
+¿Dónde estás dando clase, disculpa?
+
+
+0:6:19.730 --> 0:6:20.360
+Hugo Sin Triana
+¿Perdóname Jaime?
+0:6:21.140 --> 0:6:22.130
+Jaime Humberto Borja Gomez
+¿Donde estás dando clase?
+
+
+0:6:23.440
+Hugo Sin Triana
+Ahorita estoy dando clases en el Externado. También, dicto clases en *los Andes*, un curso de tecnologías para el sector público, un modulito que dicto allí. También he dictado en la Javeriana, de trans*formación* digital, pero en estos momentos solamente estoy dictando en el Externado en la maestría de tecnologías de in*formación*.
+
+
+0:6:47.450
+Jaime Humberto Borja Gomez
+Hugo, la primera pregunta que nos interesa es que nos cuentes un poco de tu *formación*, y sobre todo en esa *formación*, ¿cómo llegaste a esto de las *redes*, de las *Telecomunicaciones* y, por extensión, comó con el tiempo, llegaste a vincularte con el *equipo* de *los Andes* y comenzar a pensar el *Internet* eso es eso es un punto importante, pero no.
+
+
+0:7:12.840
+Hugo Sin Triana
+Bueno,  yo soy ingeniero de sistemas, soy *ingeniero de sistemas* de *los Andes*. Me gradué en el año 86 y en ese último año de estudio en *los Andes*, pues yo hice mi tesis de pregrado estaba orientada hacia la optimización de consultas de *bases de datos* distribuidos. Entonces, la idea era, con la tecnología del momento, hacer que cuando se consultarán *bases de datos* que estaban en diferentes partes o ubicaciones, las cosas fueran realmente eficientes. Porque tocaba transferir mucha in*formación*.
+
+
+(0:7:48.440) Entonces, en el transcurso del desarrollo de mi red, me gustaban mucho las *bases de datos*, aprendí muchísimo de las *bases de datos*. Pero siempre tuve un pequeño problemita cuando tenía que estimar costos o cuando tenía que estimar esfuerzos, y se refería a la parte de *comunicaciones*, y era que yo no conocía mucho de *comunicaciones*, ¿sí? Entonces trabajando en otro proyecto, que era ya de *redes* de *computadores*, me empezó a gustar ese tema de las *comunicaciones*. Y cuando  antesitos de graduarme y presentar mi tesis de pregrado, y de presentar mi proyecto en *redes* de *comunicaciones*, pues ya tenía esa venita de las *comunicaciones*, ¿sí? Tenía que resolver un problema de desconocimiento para poder atender una problemática que me interesaba muchísimo, que eran las *bases de datos*, y ese tema era la parte de *comunicaciones*, y eso me llevó entonces a indagar un poco más sobre las *comunicaciones*. Terminé trabajando en el *Centro de Cómputo* de *la universidad* de *los Andes*. Antesitos de graduarme ya tenía un espacio de trabajo en el *Centro de Cómputo* de *la universidad* de *los Andes*. Y allí, el director del *Centro de Cómputo*, pues era una persona que estaba formado en temas de de *redes* y de *comunicaciones*, y con él empezamos a trabajar todo el tema del desarrollo de la red interna de *la universidad*.
+
+
+(0:9:7.790) Entonces mi primera función, digámoslo así, dentro del *Centro de Cómputo* fue realmente trabajar temas de *comunicaciones*, temas que todavía tenía bastante desconocimiento, pero tenía una opción gigantesca al estar en *la universidad* de aprender. Entonces digamos  que así empezó todo lo que fuera parte del amor por las *tele*comunicaciones**. Hice una especialización en el año 89 en *tele*comunicaciones**, pero ya para ese entonces, pues yo ya había conocido en campo muchos de los temas de *comunicaciones* porque ahí estaba liderando toda la construcción de la *red de datos* al interior de *la universidad*. Y esa construcción de la *red de datos* al interior de *la universidad* me exigía también poder conectar esa red a otras *redes* nacionales o a otras entidades, principalmente la *Biblioteca Luis Ángel Arango*, porque en esa época todo lo que era la parte de gestión de la biblioteca, del *sistema* de in*formación* de la biblioteca, en realidad se manejaba con la infraestructura de la *Biblioteca Luis Ángel Arango*. O sea, la Luis Ángel Arango proveía ese servicio para *la universidad*. Entonces nosotros necesitamos mecanismos eficientes de comunicación con la *Biblioteca Luis Ángel Arango*.
+
+
+(0:10:21.820) Entonces obviamente desarrollábamos internamente toda la red, interconectabamos con todas las facultades, todos los departamentos. Pero adicionalmente, pues estábamos conectándonos también hacia afuera y principalmente con la *Biblioteca Luis Ángel Arango*, y también hicimos unos ejercicios con otras *universidades*. Entonces digamos que fue en paralelo que íbamos buscando el fortalecimiento de las *redes* al interior de *la universidad*, pero también con otro tipo de organismos y otro tipo de soluciones de *tele*comunicaciones** que permitieran aprovechar aún más todo lo que estábamos haciendo al interior de *la universidad*. Entonces fuimos trabajando en ese sentido.
+
+
+(0:11:1.160) Fue una época hermosa porque había mucho que hacer, ¿sí? Pero también de mucho sacrificio, porque yo duré trabajando en *la universidad* 13 años, pero fueron muy pocos los periodos de vacaciones que yo tomé, y la razón era muy simple: en los periodos de vacaciones no estaban los estudiantes. Eran los momentos en que yo podía canalizar, yo podía meter tubería, meter todos los cables que necesitábamos. Eran los momentos en que podíamos, básicamente, intervenir en las *universidades*, en las oficinas, porque tampoco estaban los profesores, o la mayoría de los profesores. sí. Siempre existía, pues el personal de la parte administrativa, pero pues también había algunos que que desocupaban oficinas. Entonces eran las épocas en que podíamos intervenir físicamente a *la universidad* para desarrollar todo lo que era la infraestructura de cableado de la red de *la universidad*. Entonces hubo sacrificios, indiscutiblemente, pero cada vez que los profesores volvían a reactivar sus actividades, o llegaban los estudiantes, tenían algo nuevo para usufructuar, ¿no?.
+
+
+(0:12:4.310 ) El hecho de que hubiéramos colocado la primera infraestructura de *módem*s para que los estudiantes se pudieran conectar desde sus casas, eso fue un hito gigantesco también. Entonces, cada vez modernizábamos más *la universidad*, desde esta perspectiva, ¿si? Dábamos más opciones a los profesores, a los docentes, dábamos más opciones a los estudiantes, y también al personal administrativo de *la universidad*. Entonces fue una época de desarrollo continuo. E interesante.definitivamente haberla vivido 
+
+
+(0:12:39.740) Y obviamente siempre, además de fortalecer internamente *la universidad*, estábamos pensando cómo hacíamos para facilitar la comunicación de los docentes, de los investigadores con el resto del mundo. Porque para poder intercambiar in*formación* en esa época, pues tocaba con cintas de computador, o sea, con unos medios que exigían que hubiese una transferencia física de algún elemento. Entonces había grupos de investigación con, trabajando con otros países, a nivel mundial, y el intercambio de in*formación* siempre era un poco complejo en esa época. Eran con cintas, grandes volúmenes de datos transportados por estas cintas magnéticas, que era la forma como se podía transferir in*formación* para la investigación, y ya con las *redes*, pues el entorno cambiaba significativamente.
+
+
+0:13:30.350
+Jaime Humberto Borja Gomez
+Bien. Yo te hago una pregunta con respecto a lo que estás mencionando. La *materialidad*, esto qué cuentas del cableado, del contacto con otras *universidades*, o sea, aquí hay un montón de preguntas, pero te quiero preguntar sobre esta *materialidad*. La compra de *equipo*s, ¿cómo llegaban a tomar esas decisiones, sobre todo cuando estaban involucradas otras instituciones? Una cosa es caldear *la universidad*, pero si se va a trabajar en *redes* con la Luis Ángel Arango o con otras instituciones, ¿cómo llegaban a tomar esas decisiones, cuál eran los procedimientos?
+
+
+0:14:7.950
+Hugo Sin Triana
+Bueno, entonces digamos que desde la perspectiva, como tu lo mencionas, desde la perspectiva del desarrollo de *la universidad*, teníamos plena autonomía. Entonces nosotros tomamos las decisiones de forma autónoma de lo que más le convenía a *la universidad*.
+
+
+(0:14:20.630) Ahí tuvimos una característica y es que en esa época había muchas *redes* propietarias, o sea, los fabricantes de *equipo*s de cómputo eran los que también fabricaban los *equipo*s de *redes*, ¿sí? Entonces teníamos, por ejemplo, *computadores* IB, y esos *computadores* *IBM*, pues detrás de ellos había tecnología de *IBM* para el desarrollo de las *redes*. Pero también teníamos *computadores* Borox, que después fueron Unisys, ¿si? Y esa fabricante también tenía tecnología propia para el desarrollo de las *redes*. Y eran Incompatibles, completamente Incompatibles.
+
+
+(0:14:53.310) Entonces nosotros teníamos que desarrollar en paralelo diferentes entornos de *redes*. Entonces, por ejemplo, para la conexión con la *Biblioteca Luis Ángel Arango* utilizamos tecnología *IBM* porque la Luis Ángel Arango también tenía *computadores* *IBM*, y todo el *sistema* de la biblioteca estaba basado en la tecnología *IBM*. Nosotros también teníamos computadoras *IBM*, entonces no era ajena la tecnología para lograr la interconexión. Entonces utilizamos esa tecnología IBM para lograr la conexión con IBM. Pero si queríamos conectarnos con otras *universidades*, las otras *universidades* no tenían tecnología *IBM* necesariamente, ¿si? E internamente en *la universidad* utilizamos también diferentes tipos de tecnología. Entonces estaba la tecnología de *IBM*, teníamos la tecnología de Borox, o de Unisys, posteriormente fue Unisys. Teníamos otra tecnología de *redes* de *computadores* de oficina, *redes* pequeñas de *computadores*, no recuerdo bien cómo era que se llamaba esa tecnología.
+
+
+(0:15:51.820) Estábamos incorporando toda la tecnología de Apple en *la universidad*, teníamos computadoras de Apple en *la universidad*, que tenía una tecnología de *redes* totalmente diferente. Teníamos *computadores* PCEs, o sea de Windows, que tenían tecnologías totalmente diferentes, ¿si? Y entre ellas era dificilísimo interconectarnos. Pero la idea, y el desarrollo, y el diseño que hicimos de la red de *la universidad* era que tenía que haber interacción, interrelaciones entre los diferentes elementos.
+
+
+(0:16:19.50) No podíamos permitir que un profesor tuviese que tener 3 estaciones de trabajo, 4 estaciones de trabajo en su escritorio para poder utilizar todos los *sistema*s y todas las posibilidades que teníamos en *la universidad*. Teníamos que converger en algo. Y ahí fue donde surgió una tecnología que se denomina TCPIP.
+
+
+(0:16:35.970) TCP IP es un conjunto de protocolos que es, digamos, el core de todo el desarrollo de *Internet*. TCP IP es el conjunto de protocolos sobre los cuales se desarrolló *Internet*, digamos que es como la tecnología de base de *Internet*. Lo que hicimos nosotros en los diseños internos de *la universidad* es siempre focalizarlos hacia el uso de TCP IP. Entonces, si teníamos tecnología *IBM*, mirábamos si *IBM* tenía soluciones con TCP IP. Si teníamos tecnología Borox, mirábamos a ver si ellos tenían tecnologías de TCP IP, ¿sí? No eran las tecnologías nativas de ellos, pero dado que TCP IP venía en desarrollo significativo a finales de los 80 era posible que hubieses ese tipo de soluciones
+
+
+(0:17:20.830) En los casos en que no había soluciones TCP IP, buscábamos la forma en el mercado de si existían dispositivos que nos permitieran interconectar tecnologías A con tecnologías B, utilizando en la mitad TCP IP. Entonces en cada caso encontramos algún tipo de solución, así fuera un computador viejito, o así fuera un dispositivo ultramoderno, pero siempre buscamos la forma de llegar al TCP IP. De tal manera que la infraestructura que teníamos en *la universidad*, la infraestructura que utilizaban los profesores, los docentes, el personal administrativo o los estudiantes por debajo, a nivel de *comunicaciones*, fuera TCP IP. Y al interior de *la universidad* hacíamos todas las conversiones que necesitamos hacer para que fuera transparente para las personas.
+
+
+(0:18:9.200) Entonces digamos que el hito principal allí fue decidir que al interior de *la universidad* íbamos a coexistir con diferentes tecnologías, pero que teníamos que tener un mecanismo de integración de las diferentes tecnologías, ¿si? Y así fue que hicimos el desarrollo y así fue que hicimos todo lo que fue la ampliación de las capacidades de la red de interior. Teníamos autonomía completa, ¿cierto? En el caso con otros organismos como, por ejemplo, en esa época había una cosa que se llamaba Coldapaq, que era la red de paquetes de Coldapaq
+
+
+(0:18:47.630) Coldapaq tenía sus tecnologías de X25, ¿cierto? Pero por encima de esas tecnologías nosotros empezamos a implementar TCP IP. Entonces teníamos toda esa red, una red nacional, que era manejada por *Telecom*. y por encima de eso nosotros creamos las capas de *comunicaciones* de TCP IP.. Eso dio la posibilidad para que otras *universidades* en diferentes ciudades del país se conectaran a Coldapaq y, a través de Coldapaq, lograrán conexión con la red de *la universidad* utilizando TCP IP, ¿si? Entonces no importaba qué tecnología tuviese *la universidad* A o *la universidad* B, utilizando Coldapaq y utilizando TCP IP ya estamos interconectados. Entonces, *la universidad* de *los Andes* con otras *universidades* se interconectaron por esos modelos.
+
+
+(0:19:36.250) Implementamos también conexiones con pares aislados, pares aislados es cómo colocar un cable entre un punto y otro. Entonces, utilizando ese tipo de medio físico de transmisión, también implementando TCP IP, logramos conectar a algunas *universidades*: *la universidad* Nacional se conectó de esa manera, algunas  otras *universidades* de Bogotá se conectaron de esa manera. A nivel nacional eso era impagable entonces no era por ese lado. 
+
+
+(0:20:4.340) Pero también implementamos la posibilidad de llamadas telefónicas. Entonces creamos un pull de elementos, de dispositivos, que se denominan los *módem*s, para que otras *universidades* se conectarán a *la universidad* de *los Andes* a través de llamada telefónica utilizando TCP IP.
+
+
+(0:20:15.920) Entonces digamos que el secreto allÍ, la decisión más importante creo yo, en su momento, fue haber adoptado estas tecnologías de TCP IP. Estamos hablando de los ochentas, ¿sí?, a finales de los ochentas, entonces haber adoptado estas tecnologías de TCP IP para poder conectarnos.
+
+
+(0:20:39.870) A esto hay que sumarle que a finales de los 80s, más o menos en el 89, después de varios años de trabajo también, logramos conectarnos a una red académica que se llama *Bitnet*, ¿sí?, because is time. Esta red utilizaba tecnologías de *IBM*. Nosotros ya teníamos tecnologías de *IBM*. Entonces lo que hicimos fue resolver un problema de conectividad entre Bogotá y Nueva York para conectarnos a *la universidad* de Columbia. Entonces esta red de *Bitnet* tenía una característica y es que, cada vez que una universidad se conectaba, tenía que ofrecer por lo menos la posibilidad para dos *universidades* a que se conectaran. Entonces una red que crecía de una manera orgánica, porque si yo me conectaba como universidad, tenía que permitir que por lo menos dos *universidades* adicionales se conectaran, ¿sí? En general uno permitía que se conectarán todas las que pudieran, y dependía, obviamente, de la infraestructura que uno tuviese. Entonces. *Bitnet* no utilizaba las tecnologías de TCP IP. Utilizaba las tecnologías de *IBM*. Nosotros aquí en *la universidad*, hacíamos, en *la universidad* de *los Andes*, hacíamos la conversión entre TCP IP y las tecnologías de *Bitnet* para que todo el mundo se pudiera conectar.
+
+
+(0:21:45.320) Entonces esa red que se llamaba Rockwell, donde tuvo la participación del ICFES, tuvo la participación de otras *universidades* también, fue la primera conexión que tuvimos a nivel internacional. Era una conexión de baja velocidad, pero digamos que fue un hito en el sentido que permitió que tanto docentes como estudiantes pudieran intercambiar in*formación* de una manera expedita, relativamente fácil. con contrapartes en otras partes del mundo. Entonces no utilizaba las tecnologías de *Internet*, pero nosotros hacíamos las conversiones al interior de *la universidad*.
+
+
+0:22:25.210 Entonces digamos que ahí fue como el nacimiento de las *redes* académicas en el país. Esa fue la primera solución que tuvimos. E inmediatamente nos conectamos a esa red empezamos a pensar, ¿qué más sigue? Y seguía una cosa que se llamaba *Bitnet* 2. *Bitnet* 2 utilizaba las tecnologías de *Internet*. Y en paralelo a *Bitnet* 2 se venía desarrollando *Internet*, de una manera interesante, ya desde la perspectiva académica. Entonces, lo que nosotros hicimos es, ya teníamos todas las tecnologías implementadas, lo único que nos faltaba era dar el paso. Entonces pasamos de *Bitnet* a *Bitnet* 2 muy fácilmente porque teníamos todo ya implementado. Básicamente estábamos conectados a *Internet* a través de *la universidad* de Columbia, pero desafortunadamente, *la universidad* de Columbia no nos podía dar la entrada a *Internet*. O sea, nosotros estábamos conectados con todas las tecnologías de *Internet* a *la universidad* de Columbia, pero Columbia no era un proveedor de servicios de *Internet*, por lo tanto, no nos podía dar el servicio a nosotros. Podíamos utilizar todos los servicios que *la universidad* de Columbia ponía a disposición de nosotros, como si estuviésemos conectados a *Internet*, pero estábamos conectados era a *Bitnet*, *Bitnet* 2 para ser exactos.
+
+
+(0:23:39.770) Entonces, digamos que el paso que tocaba dar era, sencillamente, resolver un problema de conectividad, un problema de ¿cómo llegamos a *Internet* entonces? Si teníamos todas las tecnologías, teniamos la infraestructura aquí en el país, ya teníamos muy fortalecida *la universidad* de *los Andes* a nivel de infraestructura y *tele*comunicaciones**. A través de *la universidad* de *los Andes*, las *universidades* entraban a la *Biblioteca Luis Ángel Arango* o entraban a *la universidad* de Columbia. Empezaron a usufructuar. A través de *la universidad* de *los Andes* se tenía toda la red *Bitnet* al acceso de las *universidades*, de los docentes y de los estudiantes. Lo único que faltaba realmente era dar el gran paso de conectarse a *Internet*. Pero el solo canal de *Bitnet*, que era un canal de 9.6 kilobits por segundo, o sea, 9600 bits por segundo, hoy ya hablamos de megas o de gigas, ¿sí?, ahí todavía estamos hablando de apenas casi que 10000 bits por segundo, costaba 20 millones al mes. Entonces ese canalcito, que era un riachuelo dentro de todas estas cosas, tenía ese costo, que lo pagabamos, ahorita les cuento cómo, pero lo pagábamos las *universidades*, pues tratar de llegar a conectarse a *Internet* no era posible con esa capacidad. Tenía que ser un canal de más capacidad. Entonces era impagable por parte de las *universidades* y en eso fue en lo que nos gastamos muchísimo tiempo.
+
+
+(0:25:5.520) En resolver el problema de conectarnos a algún punto de *Internet*. Ahí es donde trabajamos varios países de América Latina porque todos estábamos buscando la conexión a *Internet*, todos los países de América Latina. Unos iban  más avanzados que otros. Chile iba más avanzado que Colombia. Ecuador estuvo más avanzado que Colombia en su momento. Perú tenía un nivel de desarrollo similar al que teníamos nosotros. Y otros países como México que ya había resuelto el problema, que las que estaba le para ellos era un poquito más fácil llegar hasta Estados Unidos. Y ahí fue donde surgió el apoyo de la OEA, el apoyo de la *National Science Foundation*. Por ejemplo, la OEA donó una estación terrena satelital para que nosotros contratamos un espacio satelital, un espacio en el satélite y lograramos conectarnos a Estados Unidos, a un punto de Estados Unidos, para llegar a *Internet*.
+
+
+(0:25:58.680) Esa donación, infortunadamente, no se puede hacer en realidad porque *la universidad* de *los Andes*, por ser entidad privada, no podía recibir la donación. Entonces, *los Andes* no pudo recibir la donación de esa estación terrenea. Se le dijo a *la universidad* Nacional que lo hiciera. *la universidad* Nacional nunca lo concretó, entonces, por ejemplo, esa donación se perdió. Y otra serie de elementos pues pasaron en esta historia.
+
+
+(0:26:20.150) Pero logramos, digámoslo así, después de 4 años, que la *National Science Foundation* colocará un punto de aterrizaje para todos los países de América Latina en Homestead, Florida, de tal manera que fuera fácil para todos los países latinoamericanos conectarse a algún punto, un punto común, de menor costo posible para los países de América Latina. Entonces la *National Science Foundation* colocó todos los *equipo*s necesarios para recibirnos a nosotros, garantizó un puerto de entrada para cada país, con las capacidades que el país fuera fuera, tuviera tuviera a bien poder pagar el canal. Y así fue como se facilitó muchísimo la conexión de los países de América Latina a *Internet*. Entonces un punto financiado por la *National Science Foundation*, que era la que estaba empujando lo que se denominó el eje central de *Internet*, la NFS Net.
+
+
+(0:27:21.80) Y ahí entonces el problema era resuelva como llega hasta ese punto. Contrate el canal de comunicación para llegar allá. Y eso fue lo que hicimos entonces, posteriormente, resolver ese problema, contratar el canal de comunicación. Ya con la participación no solamente de las *universidades* sino también de *Colciencias*, logramos ponernos de acuerdo y crear una corporación que se denominó Interred, en la cual se hacía que no hubiese una dependencia de todos hacia una universidad como es *la universidad* de *los Andes*. Había una dependencia real, ¿sí?, pero lo que estamos buscando era que hubiese independencia. O sea, que las *universidades* realmente se sintieran tranquilas con que no era a través de *los Andes*. Ustedes saben que siempre los celos institucionales aquí pesan, en la academia pesan bastante.
+
+
+(0:28:15.230) Entonces era importante desligar *Internet* de *la universidad* de *los Andes*, aun cuando *la universidad* de *los Andes* hubiese sido un protagonista, aun cuando *la universidad* *los Andes* siguiera proveyendo el servicio. Después de crear la corporación duramos, no recuerdo, tal vez uno o dos años, antes de que esta corporación asumiera todo el papel que tenía que asumir de proveerle servicios de *Internet* a las *universidades*. Siguió *los Andes* proveyendo el servicio a las *universidades*, a otras entidades públicas y privadas para que pudiésemos desarrollar *Internet* en Colombia. Entonces digamos que, si bien es cierto que siempre buscamos esa autonomía universitaria, esa solución que no dependiese de una so*la universidad*, pues *los Andes* jugó un papel relevante en en esta historia, y tal vez fue la razón de ser por la cual el *Internet* se dio.
+
+
+
+
+0:29:15.80
+Laura Viviana Manrique Gomez
+Sí, yo quisiera hacerte una pregunta con respecto a eso, va  parte de nuestra investigación, por supuesto, que es partir de este grupo core de 8 ingenieros que estuvieron ahí trabajando en estos temas, en el *Centro de Cómputo* de *la universidad*. Pero quisiéramos conocer un poco más acerca del papel del sector público, del gobierno de *Colciencias*, de *Telecom*. ¿Ellos qué papel jugaron? Entendemos, de acuerdo con algunas fuentes, que hubo una conexión previa a *Internet* por parte de *Telecom*. Quisiéramos saber un poco ¿cuál es tu experiencia en esa primera fase preparatoria y, de pronto, durante la implementación de estas primeras conexiones con el sector público en Colombia.
+
+
+0:30:1.510
+Hugo Sin Triana
+Listo, en lo que es previo, en la parte de *Bitnet*, el ICFES jugó un papel muy importante como representante del sector público porque fue con el ICFES que armamos algo que denominamos **Runcol**, ¿si? *Runcol* fue como la agremiación, realmente no fue una institución, fue como un proyecto, un proyecto de red. para poder tener conexiones de la academia con *Bitnet*. Era orientado a la parte de *Bitnet*. Yo les dije que el costo del canal era de 20,000 dólares mensuales. ¿Cómo lo pagabamos? Pues lo pagábamos por el ITEC, por el derecho a estar conectado, asumia el 25%.. Teníamos un 25% de descuento de *Telecom*. El 25% lo pagabamos todas las *universidades* que estuvimos en el proyecto, en especie. ¿En especie qué era? Pues cursos para la gente de *Telecom*, o para la gente del ITEC, o para algunos otros organismos del Estado. Y el 25% restante lo pagamos en efectivo. Entonces, digamos que de esos 10,000, pues se convirtió en un costo de 2,500, para efectos prácticos en efectivo a las *universidades*, y 2,500 mensuales en servicios para *Telecom*.
+
+
+(0:31:19.430) Obviamente aquí hubo un desbalance. Porque ¿*Telecom* adónde iba a parar a buscar servicios? Pues a las *universidades* que más les interesaba. Entonces también hubo una carga sobre las *universidades* que estábamos participando , algunas de ellas que estábamos participando allí,  porque *Telecom* demandaba servicios era de esas *universidades*, y de las otras *universidades* no estaba demandando servicios. Entonces había un desbalance allí, pero también había una deuda que iba creciendo. Si ese 25% en servicios no se cubría pues sencillamente estábamos incumpliendo el pago. Y no era por culpa de las que si estábamos proveyendo el servicio, sino que demandaba *Telecom* de una forma desbalanceada sobre ciertas *universidades*. Entonces, la carga del costo se fue hacia otras *universidades*, un cierto conjunto de universidades. Y en la parte de efectivo pues también a veces tocaba hacer de chepito porque las *universidades* no necesariamente pagaban todo su pago. Entonces ahí es donde quien ayudaba a articular ese esfuerzo fue el ICFES. Jugó un papel importante en este sentido.
+
+
+(0:32:26.970) Ya para la segunda parte, que es ya migremos a *Bitnet* 2 y migremos a *Internet*, el ICFES dejó de jugar un papel relevante y *Colciencias* empezó a jugar ese papel que era relevante. ¿Por qué *Colciencias*? Porque era el llamado a estar. *Colciencias* es la *National Science Foundation* colombiana, ¿sí? Y la *National Science Foundation* era la que estaba impulsando el desarrollo de *Internet* en Estados Unidos. O sea, la contraparte aquí eran las secretarías de ciencia o los ministerios de ciencia o lo que eran los entes de ciencia y tecnología al interior de los gobiernos, eran los llamados a tener un papel protagónico, relevante.
+
+
+(0:33:9.560) Nosotros hicimos un diseño y en ese diseño participó la gente del ITEC. Entonces diseñamos la red colombiana para poder aprovechar al máximo lo que ya teníamos, que era *Bitnet*, y poder empezar a migrar hacia lo que se venía, hacia el futuro, que definitivamente habíamos identificado que era *Bitnet* 2 e *Internet*. Entonces nosotros hicimos el diseño con la gente, con el *equipo* del  ITEC, con el *equipo* de profesores de *la universidad* Nacional, de *la universidad*, del Valle, de *EAFIT*, de la UIS. O sea, participaron realmente varias *universidades* en esa construcción del diseño. Lo estamos liderando desde *los Andes*, pero digamos que estaba la participación de todos buscando la mejor forma para que regionalmente pudiésemos atender la conexión de diferentes *universidades*. Porque la idea no era que todas las *universidades* se conectarán a *los Andes*, sino que a nivel regional pudiese haber unos nodos de conexión, de tal manera que fuese más fácil el desarrollo de la red nacional.
+
+
+(0:34:10.120) Ese diseño lo hicimos y utilizamos diferentes tipos de protocolos. Todo el conocimiento que generamos en *los Andes*, pues estaba advertido en ese diseño de red. Y ese diseño lo pasamos a *Colciencias*. ¿Para qué? Para obtener algunos recursos, algunos apoyos para podernos conectar. *Colciencias* no entendía. No entendía de qué estamos hablando. Es que pónganse en esa época, en esa época que de *redes* no existía nada. Que los que conocían algo de *redes* eran los profesores de las *universidades*, que ya íbamos adelante en el desarrollo de las *redes*, que habían aprendido a hacer cosas, que el correo electrónico, que esto, que el otro. Pero la mayoría de las personas no entendían de qué estábamos hablando. ¿Que qué era eso de la red?, ¿qué eso para qué sirve?, ¿qué eso cómo se come?, que eso es perder la plata, que eso es de *Telecom*. Todo ese tipo de cosas pasaban en ese entonces 
+
+
+
+
+(0:35:4.410) Entonces hicimos nuestro diseño, lo presentamos a *Colciencias*, teníamos un momento crítico y era que *la universidad* de Columbia ya había anunciado que iba a eliminar completamente los protocolos básicos de *Bitnet*. O sea, tenemos que pasarnos obligatoriamente a *Bitnet* 2. Obligatoriamente porque *la universidad* Colombia ya iba  a cortar esa posibilidad. Ahí fue donde hicimos lo del registro del dominio CO. Para poder estar utilizando la infraestructura de *Internet*, teníamos que tener el dominio CO ¿sí? Entonces digamos que quien nos empujó a hacer ese tipo de cosas fue *la universidad* de Columbia, cuando decidió que ya se iba a retirar de *Bitnet*. Iba a mantener *Bitnet* 2, pero ya se iba a retirar de *Bitnet*.
+
+
+(0:35:54.500) Entonces teníamos que ya resolver otro problema, que era ya de capacidad desde la perspectiva de conexión entre Colombia, y entre Bogotá y Nueva York. Pedimos el apoyo de *Colciencias* para comprar unos *equipo*s. *Colciencias* nunca entendió para qué era esto de los *equipo*s, entonces tuvimos que comprar nosotros como Universidad *los Andes* los *equipo*s que permitiesen ya conectarse en firme a *Bitnet* 2. Que son *equipo*s de enrutadores, *equipo*s que en esa época pues eran costosos, ¿cierto? Compramos lo que pudimos, con lo que nos alcanzó la platica que teníamos disponible, y con eso pues garantizamos continuidad en la conexión a *Bitnet*, el ingreso a *Bitnet* 2, y la posibilidad de conectarnos a *Internet* completamente.
+
+
+(0:36:41.670) Sí entonces, Pero *Colciencias* se demoró mucho. Colciencias se demoró muchísimo, muchísimo. El diseño de la red yo se lo presenté a *Colciencias* en el año 1991. Y solamente hasta 1993 *Colciencias* entendió que era esto de *Internet*. Y lo hizo porque participó en un foro internacional que se llamaba INET 93, creo que se llamó ese, donde fue el director de *Colciencias* a ese a ese foro, y donde entendió la magnitud y la importancia de lo que era *Internet*. Ya habíamos recorrido muchísimo, muchísimo camino. Ya las *universidades* estábamos interconectadas. Ya nosotros realmente estábamos conectados físicamente a *Internet*, pero no teníamos el servicio de *Internet*. Pero ya habíamos garantizado en el año 93 la existencia del punto de acceso de la *National Science Foundation*. Ya teníamos básicamente todo el camino recorrido. Lo único que se necesitaba era una decisión para financiar el canal de *comunicaciones*, que era costoso. Eso no lo podíamos financiar nosotros solos. Era extremadamente costoso en su momento, y no podíamos pagar en servicios como pagamos el anterior. Pagábamos ya en cash, en platica. Entonces, el principal problema allí era, no técnico, no de organización, sino de financiación.
+
+
+(0:38:8.920) Entonces teníamos también la participación del sector privado, el sector privado no estaba ayudando en algo. O sea, tenía intenciones de ayudarnos, pero obviamente teníamos que tener también al sector público apoyando esta iniciativa para que se pudiera viabilizar financieramente. Entonces digamos que ahí apareció *Colciencias*. Con *Colciencias* organizamos ya la corporación Interred, que es la que les digo que fue la corporación que hicimos para que hubiese una autonomía en la provisión de los servicios, que hubiera una independencia de las *universidades* al conectarse y cosas de ese estilo. Y ahí fue que logramos entonces, en mayo del 94, la conexión a *Internet*. Cuando ya nos pusimos de acuerdo y ya tuvimos el respaldo del sector público, que la hayamos tenido en *Bitnet*, con el ICFES. Ellos también asumían algo de la carga que representaba los pagos a *Telecom*. En este caso, pues ya le pagamos a otra organización, a otra empresa que se llamaba IMPSAT, creo que fue con quien se contrató el canal inicial. Pero habíamos pasado por una donación de estación terrena que no pudimos tener. Habíamos pasado por una donación también de la Unión Europea, que terminó yéndose a adquirir algunos *equipo*s en la Hemeroteca Nacional. Esas cositas que fueron pasando en el camino mientras logramos hacer la conexión.
+
+
+0:39:40.590 
+Laura Viviana Manrique Gomez
+Hugo, como Jaime nos comentó al principio, pues tenemos un interés importante en la *materialidad* de ese pasado del que usted fue uno de los grandes protagonistas ¿Cómo poder acceder a esto? ¿Hay rastros? ¿Cómo se dejaba esta documentación? Por ejemplo, podríamos consultar mapas de esta arquitectura que se hizo en *la universidad*, de este proyecto que se le presentó a *Colciencias*? No sé si parte de esto quedó en los servidores y está desmaterializado y hay backup de eso. O quizás se imprimió y se enterró en el Twingo, en el 98. ¿Qué se le ocurre a usted? ¿Qué sucedía en esa época, digamos, con estos temas materiales? De pronto, los *equipo*s como tal, los *módem*, los *computadores*. ¿Cuál fue su disposición final hasta cuando Hugo tuvo conocimiento?
+
+
+0:40:38.780
+Hugo Sin Triana
+Pregunta difícil.
+
+
+0:40:37.170
+Jaime Humberto Borja Gomez
+Hugo, y yo te hago otra pregunta, a ver si te ayudara a redondear. Me interesa mucho que nos hables de la conciencia que tenías tú en ese momento de *Internet*. O sea, claro, hay una *formación* y un interés como ingeniero que está preocupado con las *redes*, que tiene esta *materialidad* en la cabeza. Pero tu conciencia. O sea, alcanzabas a peso, o sea,  ¿con qué grado percibías la importancia que tenía *Bitnet* 2 e *Internet* en ese momento? ¿Ya se vislumbraba el impacto que tenía, además de la curiosidad profesional? Pero primero sí quieres la *materialidad* y luego nos puedes contar un poco de esta.
+
+
+0:41:20.60
+Hugo Sin Triana
+Me queda más fácil contestar la tuya que la de Laura. Yo te digo, la importancia de las *redes* académicas a nivel mundial realmente me la sembró fue un profesor de antropología. Un profesor de antropología que llegó de hacer un doctorado. Y al estar haciendo ese doctorado por fuera, llegar y decir, oiga, mire esto existe. Las *redes* existen y nosotros los colegas podríamos hacer esto ¿si?
+
+
+0:41:46.870 
+Maria Jose Afanador Llach
+¿Cómo se llamaba él?
+
+
+0:41:51.400
+Jaime Humberto Borja Gomez
+Yo te doy el nombre ahoritica.
+
+
+0:41:48.930
+Hugo Sin Triana
+No me acuerdo del nombre del profesor de antropología, no me acuerdo del nombre de él. Me acuerdo el nombre del director financiero administrativo que es Iván Trujillo, que fue el que me citó a la oficina, y estaba ahí el profesor. Y me dijo “oiga Hugo, venga, esto está pasando. Mire, escuche al profesor.” Entonces, yo atentamente escuché al profesor. La pasión con la que él hablaba, lo que había podido hacer después de hacer su doctorado, de terminar su doctorado, o su estancia doctoral porque estaba haciendo era una estancia doctoral. Entonces, ahí fue donde nació digamos que la chispa de las *redes* académicas, de la importancia de las *redes* académicas. Yo ya estaba trabajando en la tecnología. Ya estábamos haciendo eso en *la universidad*. O sea, el correo electrónico, yo sabía, yo conocía que era el correo electrónico. O sea, ya teníamos una red en *la universidad*, y utilizábamos los servicios naturales de *Internet*, no solamente de *Bitnet*, de *Internet* en *la universidad*. Porque de raíz, desde el año 86 o 87, nosotros ya estábamos construyendo la red de *la universidad* con los servicios que la tecnología nos permitía.
+
+
+(0:42:52.360) Entonces  digamos que ese tipo de cosas, yo era consciente de eso. No era consciente de la importancia de rápidamente conectarnos con las *redes* internacionales. Digamos que estaba enfocado en resolver el problema al interior de *la universidad* y no ir más allá de resolver ese problema, entendiendo que esto era un problema menor frente a lo que teníamos que atender. Entonces digamos que ahí fue el chispazo y que me dijo “oiga, sí. Esto de las *redes* internacionales hay que hacerlo muy rápidamente, digamos que era, hay que hacerlo oportunamente. Estábamos Teníamos, estamos desarrollando la infraestructura de *la universidad*, y ese no era el problema, el problema es ¿cómo le damos más servicios a la comunidad? Y eso eran las *redes* internacionales.
+
+
+(0:43:39.150) Entonces, cuando logramos la conexión a *Bitnet*, lo primero que yo dije fue “¿y qué más sigue?” Porque *Bitnet* era la red académica más importante en ese momento. Entonces la pregunta a continuación era ¿y ahora qué sigue? ¿ahora qué sigue con *Bitnet*? Conocía la tecnología, conocía que había mejores servicios tecnológicos. Pero no sabía realmente qué seguía.  Y me puse a indagar, obviamente ya con acceso a la red, ya tiene uno más acceso a la in*formación* oportuna. Antes era a punta de fax. Antes era a punta de llamadas internacionales para poder saber qué estaba pasando. Antes era a punta de carticas, ¿sí? Ya con la red podríamos tener acceso más rápidamente a lo que estaba sucediendo. Y ahí fue cuando identifiqué que lo que venía era *Internet*. O sea, *Bitnet* 2 era un paso intermedio, no necesario, pero sí intermedio. Yo podía saltar de *Bitnet* a *Internet*. Y lo hubiera podido hacer, si tuviera los recursos, lo hubiera hecho inmediatamente. No tuvimos los recursos, tuvimos que hacer todo el trámite por *Bitnet* 2 y después *Internet*. Pero Internet, yo me yo me fijé fue en *Internet*.
+
+
+
+
+(0:44:47.930) Entonces empecé a mirar qué estaba pasando con *Internet*. ¿Cómo lograba la conexión? ¿Cómo era la estructura de *Internet*? ¿Quién estaba detrás? La *National Science Foundation*. ¿Qué estaba pasando en América Latina? Empezar a contactar a otras personas en América Latina para ver que estaba sucediendo. En diferentes foros se encontraba uno gente, talento humano que estaba trabajando en este tema. Y empezamos a organizarnos a nivel de América Latina, también, ¿para qué? Para armar un bloque que lograra crear presión para tener unas mejores opciones de conexiones a *Internet*. Encontramos una contrapartida interesante, que fue la *National Science Foundation*, pero también estuvo la OEA, también estuvo la Unión Europea. ¿Por qué? Porque estábamos como América Latina trabajando.
+
+
+(0:45:33.770) Entonces nosotros teníamos reuniones de las personas que estábamos empujando esto en los países de América Latina. Eran reuniones de unos 2, 3, 4 días en los cuales, si dormíamos 3 o 4 horas al día era mucho, porque estábamos era entrenando nosotros mismos, aprendiendo nosotros mismos, enseñándonos nosotros mismos, y negociando como bloque con otros organismos a nivel internacional para buscar soluciones para América Latina. Así de sencillo. Entonces yo pienso que eso también fue importante en ese momento.
+
+
+(0:46:11.250) Entonces, claro, cuando tú me preguntas ¿en qué momento se dio cuenta de la importancia? Yo me di cuenta de la importancia con un profesor de antropología. Yo acaba básicamente acababa de graduarme y había entrado a trabajar en el *Centro de Cómputo*, o sea llevaba, no sé, 6 meses tal vez trabajando allí, creando la red de *la universidad*. Sabía la importancia de las *redes*, era consciente de la importancia de la tecnología. No era consciente de la importancia de abrir las fronteras para la comunidad. Entonces, después de este diálogo con el profesor de antropología, que me contaba maravillas de lo que había logrado, tomé conciencia de lo que esto representaba para la comunidad. Y me enfoqué en eso, o sea, me enfoqué en lograrlo. Lograr *Bitnet*, después lograr *Internet*, y esa fue digamos mi obsesión durante varios años, y pues mucho sacrificio y mucha interacción con todo el mundo. O sea, mi nivel de el umbral de tolerancia al fracaso lo elevé al máximo porque eso era así. O sea, día a día, puertas que cerraban, gente que no comprendía.
+
+
+
+
+(0:47:20.570) No había comprensión de los temas, entonces los tomadores de decisiones no entendían para qué era esta cosa, ¿sí? Y a veces es difícil explicarlo, y en esa época era muy difícil explicarlo. Como, ¿qué era el correo electrónico? Si las personas no palpan el correo electrónico, no entendían la importancia del correo electrónico.
+
+
+(0:47:39.180) El primer sitio web que existió en el país, ni siquiera estábamos conectados a *Internet*, estábamos conectados a *Bitnet* 2, lo cree yo. Imagínese ese diseño, diseño de ingeniero. Y ahí llego a la pregunta de Laura. Algunas cosas se salvaron, pero la mayoría de las cosas yo creo que se quedaron sin registro. Tendría que buscar en mi bodega a ver si ese documento que yo le presenté a *Colciencias* en el año 92 o 91 todavía existe. No creo, no creo porque eso fue el documento, pues, obviamente hubo formas impresas porque en esa época con *Colciencias* la única forma de interactuar o entregar in*formación* era papel. Pues, *Colciencias* no entendía qué era correo electrónico, entonces era papel. Y eso que nosotros le proveíamos servicio de correo electrónico de *Bitnet* a *Colciencias*. Tenía cuentas en *la universidad*. Osea, tenían cuentas de correo en *la universidad* para podernos intercambiar in*formación*, pero pues lo utilizaba una que otra persona allá en *Colciencias*. El director no tenía ni idea de que era esta aplicación. Entonces tendría que mirar a ver si en mi bodega, en mi sitio donde tengo todavía una cajita con algunos papeles, si no se los ha llevado el moho, vamos a ver si existe algo. Me comprometo a ver si todavía eso existe, pero no me comprometo realmente a que te pueda llegar a entregar algo 
+
+
+(0:49:16.370) ¿Medio magnético? Yo creo que no, yo creo que todo eso ya fue, a menos que haya quedado algo en la biblioteca de *la universidad*. No lo sabría decir, si hubo algo que haya quedado en la biblioteca. Que yo me acuerde que yo haya entregado algo para los análisis históricos, no. Yo creo que parte del problema cuando uno está haciendo este tipo de cosas es que no tiene en cuenta el futuro, ¿si? No documenta uno adecuadamente todo lo que está sucediendo. Yo sí recuerdo mi discusión con algunos profesores de *la universidad*, que les decía que esto iba a ser un cambio social importante, que tocaba documentar desde el principio. Entonces, había algunos profesores de antropología y psicología, donde yo les decía “Oiga, aprovechen. Este es un momento histórico. Van a darse cuenta que esto va a cambiar, va a transformar a la sociedad, va a transformar a los profesores, a los estudiantes. Empiecen a documentar eso.” Pero yo nunca lo hice, por estar haciendo. O me dedico a hacer cosas, y avanzar, y empujar, y a manejar mi frustración, ese tipo de cosas. O me dedicaba a escribir, y yo pues la verdad no tengo ese perfil que, hoy en día digo, hubiese valido la pena haberlo hecho de esa manera
+
+
+(0:50:32.660) Yo creo que hay algo de la arquitectura. Yo me acuerdo haber escrito algunos artículos para la revista de ACIS, de ingeniería de *sistema*s. De pronto, por allí hay alguna cosa de la arquitectura de la red de *la universidad*, o de esto de la historia también tocaría indagar por ese lado. Recuerdo haber escrito algo hace muchísimos años en ese sentido. Pero conservar ya, yo creo que no. Eso se conservaba en disquetes. Eso es lo que se utilizaba como medio de almacenamiento en su momento, de baja capacidad. Creo que ya casi nadie tiene donde leer disquetes. Es más, yo hace algunos años me deshice de todos los disquetes porque eso era solamente algo de bulto. Mi tesis ya pues no había forma ni siquiera de leerla, porque ya no estaban las aplicaciones que manejaban ese tipo de documentos. Entonces, cosas de ese estilo yo creo que infortunadamente va a ser difícil de encontrar. Aunque yo creo que en alguna parte debe haber algunas cositas.
+
+
+0:51:39.680
+Jaime Humberto Borja Gomez
+Hay un artículo tuyo que se llama *red de datos* en *la universidad* de *los Andes*, que tiene una buena descripción de *equipo*s y de *materialidad*. Hugo, una pregunta que no alcanzo a entender dentro de lo que hemos leído sobre la historia, o lo poco que se ha escrito, y va a esto. *la universidad* logró la conexión en junio del 94.
+
+
+0:52:4.200 
+Hugo Sin Triana
+Mayo.
+
+
+0:52:4.370
+Jaime Humberto Borja Gomez
+En mayo 94, con la red de *universidades*. En el año 95 comienzan a aparecer las primeras empresas que distribuyen, que venden *Internet*. ¿*la universidad* alcanzó a ser un distribuidor de servicio de *Internet*?
+0:52:27.230
+Hugo Sin Triana
+Sí.
+
+
+0:52:27.660
+Jaime Humberto Borja Gomez
+Esa parte nos interesa. ¿Qué pasó después de esa primera conexión? ¿Cómo fueron los siguientes meses antes de que aparecieran las empresas administradoras de servicio? ¿*la universidad* compitió con ellas?
+
+
+0:52:39.630 
+Hugo Sin Triana
+Me voy a devolver 3 meses antes de esa fecha, y es el momento en que *Telecom* nos hizo la jugada. Yo les había dicho que había trabajado con la gente del ITEC, ITEC era de *Telecom*, en el diseño de la red, en la presentación de la solución a *Colciencias*, y todo eso. Por ahí en marzo de ese año, la persona con la que yo interactuaba muchísimo, con la que habíamos trabajado en diseños y cosas de ese estilo, me dijo que *Telecom* había tomado la decisión de no participar en el proyecto. que iban a sacar ellos una conexión a *Internet* comercial. Entonces ahí nos dejó colgados de la brocha porque *Telecom* de todas maneras era un actor importante. La red estaba diseñada también para hacer uso de la infraestructura de *Telecom*. Y por eso fue que terminamos conectándonos con otro proveedor de conexión internacional, porque *Telecom* hizo un acuerdo con alguien, no recuerdo cómo era la firma en esa época, y empezó a proveer un servicio que se llamaba Saitel. Terriblemente malo, terriblemente malo. Y creo que por eso ni siquiera fue exitoso. Esa vaina no la conocía nadie. Entonces eso pasó unos mesesitos antes de que nosotros logramos la conexión.
+
+
+(0:53:52.170) Por otro lado, la conexión nuestra fue retrasada por un huracán. El huracán Andrew,  tal vez, que arrasó con todo lo que estaba en Homestead, entonces ahí pues también nos retrasó mucho la conexión. Pero digamos que logramos tener la conexión.Teníamos el compromiso de entregar la conexión a esta corporación que ya habíamos creado. Pero eso duró mucho tiempo en materializarse. ¿Por qué? Porque la infraestructura la habíamos desarrollado nosotros. Porque nosotros habíamos, en el transcurso de todos estos años, buscando la conexión a *Internet*, habíamos fortalecido la interconexión de *universidades* a nivel país. Utilizábamos Coldapaq, utilizábamos llamadas telefónicas, utilizamos cualquier mecanismo de comunicación disponible en el momento para permitir que las *universidades* se conectarán a nosotros, y a través de nosotros, a las *redes* internacionales, ¿correcto? Entonces, cuando nos logramos conectar a *Internet*, pues fue automático que las otras *universidades* quedaron conectadas a *Internet*, ¿correcto?
+
+
+(0:55:2.130) Pero teníamos una necesidad, porque como ya lo había vivido, una necesidad de evangelizar frente a *Internet*, ¿sí? En esa época *Internet* era netamente académica, netamente académica y eso no quiere decir que el sector privado y el sector gubernamental no pudieran utilizar la red. Lo podían utilizar para temas académicos. Es así que las grandes fábricas de tecnología estaban conectadas a *Internet*, además de tener conexiones en los brazos comerciales, porque en esa época ya se venían desarrollando brazos comerciales de *Internet*. En los 90s ya se venía desarrollando eso. Pero nosotros lo veíamos de una forma netamente académica. ¿Qué teníamos que hacer nosotros desde la academia? Evangelizar en el uso de *Internet*, en la existencia de las *redes*, en la existencia de los servicios de red, en que era un sitio web. En el año 93 ya existía un sitio web en Colombia y no estábamos conectados a *Internet*. Pero era a través del sitio web de *la universidad* que se tenían los servicios de la *Biblioteca Luis Ángel Arango*, que se obtenían los servicios de *la universidad* de Columbia, y cosas de ese estilo. O sea, ya teníamos el desarrollo completo de *Internet* internamente, pero no estamos conectados a *Internet*, ¿sí? No tenemos servicio de *Internet*, estamos conectados físicamente, pero no teníamos servicios de *Internet*.
+
+
+(0:56:21.310) Entonces, cuando logramos la conexión automáticamente ya logramos el servicio de *Internet* para todos aquellos que estaban conectados a *la universidad* *los Andes*. Los estudiantes ya podían trabajar desde sus casas, los profesores también. O sea, toda la infraestructura en *los Andes* estaba totalmente disponible para docentes, para administrativos, para estudiantes de *los Andes*, pero también para las otras *universidades*. Y a través de *los Andes*, proveíamos el servicio, el acceso, el de Atraíamos, Servicio,  con cuentas de correo electrónico y cosas de ese estilo, a otros organismos del Estado, a otras empresas del sector privado. ¿Por qué? Porque nos interesaba que esto se diera a conocer. Porque esto sabíamos, éramos conscientes, de que iba a ser importante para la sociedad. Entonces les proveemos el servicio. Entonces proveíamos servicios para diferentes organismos multilaterales también. No lo hacíamos a nivel individual, pero sí a nivel institucional. Entonces a nivel individual a nuestros docentes, nuestros estudiantes, nuestro personal administrativo, tenían todo ¿cierto? A nivel institucional, las *universidades* que participaban en el proyecto de una sola vez. Pero para otros organismos que nos interesaba que empezaran a entender que era todo esto, les proveíamos el servicio de manera directa. Era institucional, era una o dos cuentas institucionales, pero con eso ellos podían empezar a entender que era todo esto de las *redes*, para qué servía, y el potencial de eso. O sea, creamos el entorno favorable para la inversión privada, que fue lo que se dio después, cuando empezaron a aparecer ya los proveedores de servicio de *Internet* comercial. 
+
+
+(0:57:54.970) cuando ellos llegaron al país ya encontraron ya encontraron un eco*sistema*.que era perfectamente favorable para las inversiones que tenían que hacer. Entonces hicieron las inversiones pertinentes, empezaron a proveer los servicios y rápidamente la gente empezó a consumir los servicios de *Internet*, porque ya existía algo de conocimiento en la sociedad colombiana; el tejido empresarial, en los organismos del Estado. Entonces ahí por eso fue que nosotros preveíamos los servicios de *Internet*.
+
+
+(0:58:29.400) Llegó el momento en que no fuimos capaces de soportar la alta demanda. Cada vez que Yo necesitaba ampliar las capacidades de *Internet*, entonces, cada vez que yo ampliaba la capacidad de conexión a *Internet*, a los 20 minutos se saturaba. Yo duplicaba la capacidad y a los 20 minutos ya se saturaba otra vez, ¿sí? Era tal la demanda, y los costos eran exorbitantes, era tal la demanda que rápidamente se saturaba. Con la llegada de otros proveedores de servicios de *Internet*, o de los proveedores de servicios de *Internet*, realmente, digamos que las cosas se fueron aliviando, y las cosas se fueron balanceando. De tal manera que las *universidades* pues tenían su conexión a *Internet*, su posibilidad de conectarse, pero también tenían la posibilidad de contratar servicios con terceros, con los privados que estaban proveyendo el servicio de *Internet*. Entonces podíamos nosotros como instituciones universitarias seguir trabajando en nuestro proyecto pero superando las barreras de las conexiones, también contratando servicios con terceros, como fue lo que hicimos nosotros en su momento.
+
+
+0:59:31.130
+Jaime Humberto Borja Gomez
+¿Esto se cobraba?
+
+
+0:59:33.640
+Hugo Sin Triana
+A los estudiantes nunca.
+.
+0:59:35.180
+Jaime Humberto Borja Gomez
+No, a las empresas. Este proceso de evangelización.
+
+
+0:59:38.50
+Hugo Sin Triana
+No, cuando nosotros prestamos el servicio no, era sin costo. Era sin costo porque era un tema de evangelización, era un tema de crear esa conciencia en las personas, en los colombianos, entonces no cobramos ni un solo centavo.
+
+
+0:59:52.940
+Jaime Humberto Borja Gomez
+¿Cuánto dura este proceso?
+
+
+0:59:53.660 --> 0:59:58.300
+Maria Jose Afanador Llach
+Es muy interesante porque parece dale, dale tanto grosera.
+
+
+0:59:57.690
+Hugo Sin Triana
+Como dos años, como dos años, ya cuando entregábamos.
+
+
+0:59:59.450
+Maria Jose Afanador Llach
+Ese *Internet* no comercial, y que es otro *Internet*, que es muy diferente al que conocemos hoy. Es muy interesante, porque como que es un punto de quiebre entre un primer modelo evangelizador, como lo dices, y un momento en el que ya llegan los privados, el sector comercial, digamos a proveer servicio.
+
+
+1:0:17.840
+Hugo Sin Triana
+Sí, y tenían una restricción. O sea, los privados a los que nosotros le prestamos el servicio tenían una restricción y tenían que tener conciencia de esto. Y es que el uso era netamente académico porque nosotros estamos conectados a la *Internet* académica, ¿si? Entonces nosotros también teníamos unos compromisos, y los compromisos eran que esto era de uso académico y no comercial. Y académico no quiere decir que *IBM* no pudiera transferir por allí in*formación* de fichas técnicas de sus *equipo*s, cosas de ese estilo. Lo que no podía era pasar una factura, por lo que no podía cerrar un negocio a través de esta red. Pero de resto todo este intercambio de in*formación* que era necesario para que las organizaciones tomarán decisiones de inversión, y cosas de ese estilo, si se podía hacer. Y era un tema de conciencia. No había un mecanismo de verificación de que la in*formación* que se transmitía por *Internet* fuera netamente académica, o sea, nosotros no nos preocupamos por eso. No daríamos a basto para poder hacer eso. Entonces era un tema de conciencia también, ¿correcto? Entonces, a medida que se iba liberando *Internet*, porque *Internet* después dejó de ser académica, ya se convirtió en la *Internet* que conocemos ahorita, entonces pues nosotros ya estábamos completamente conectados a *Internet*, ya teníamos todo debidamente estructurado.
+
+
+1:1:38.230
+Laura Viviana Manrique Gomez
+Queremos cumplir nuestro compromiso de que sea una sesión de una hora, no sin eso decir que muchísimas gracias, Se nos quedan entre el tintero muchísimas preguntas.
+
+
+1:1:50.310
+Hugo Sin Triana
+Pues hagamos otra sesión, si a ustedes les parece.
+
+
+1:1:52.550
+Laura Viviana Manrique Gomez
+Por supuesto, por supuesto.
+
+
+1:1:54.320
+Jaime Humberto Borja Gomez
+Perfecto.
+
+
+1:1:56.630
+Maria Jose Afanador Llach
+Si, claro.
+
+
+1:1:57.840
+Hugo Sin Triana
+Es que yo me emociono hablando de estas cosas.
+
+
+1:1:59.700
+Laura Viviana Manrique Gomez
+No, y nosotros estamos muy emocionados también porque en realidad es…
+
+
+1:2:3.100
+Maria Jose Afanador Llach
+Aprendimos un montón.
+
+
+1:2:5.680
+Laura Viviana Manrique Gomez
+Claro. Y su claridad para explicar toda la situación desde arriba, desde lo macro, pues nos abre un montón de panoramas de investigación nuevos también. Entonces le agradecemos muchísimo. Quedamos muy atentos para que por favor, profesor Hugo, discúlpeme, le vamos a poner dos tareas. La tarea número 1 es pensar en esta lista de invitados que deberían estar, que deberían ser recordados por la historia del *Internet*. Y por otro lado, pues pensar en en mi *materialidad*, ojalá mis planos, en algo que de pronto en su archivo privado pueda recuperar.
+
+
+1:2:43.70 --> 1:2:48.120
+Jaime Humberto Borja Gomez
+Si tienes cartas, copias….
+
+
+1:2:47.20
+Hugo Sin Triana
+Yo creo que esa parte sí no la tengo, o sea correos. Pasaba una cosa con la cuenta que yo tengo de *la universidad*, que es hsin@uniandes.edu.co. Esa fue la cuenta donde se generó el primer correo electrónico de *Internet*. Antes era hsin@andescol, cuando estábamos en *Bitnet*, y en *Internet* fue unidades.edu.co. Entonces el primer correo que salió por la red, por *Internet*, una vez conectados, fue un correo que yo mismo generé, ¿sí? Pero obviamente esa cuenta estuvo en todas las listas de spam del mundo. En todas, en absolutamente todas las listas de spam del mundo estuvo esa cuenta. ¿Por qué? Porque yo era el administrador del dominio . Entonces era una in*formación* pública. Porque además pues por todo lo del reconocimiento que estaba habiendo de lo que estaba pasando en *Internet*, esa cuenta estaba por todos lados. Entonces, claro, llegó el momento en que *la universidad*, cuando yo me retiré de *la universidad*, la universidad suspendió la cuenta. Porque es que era un foco de contagio, digamos de esa manera,  porque llegaba todo el spam del mundo llegaba a esa cuenta. O sea, yo ya no podía utilizar la cuenta porque no sabía ni siquiera dónde estaban los correos que sí valían la pena. Era tal la cantidad de spam que yo recibía que esa cuenta básicamente tuvimos que congelarla durante muchísimo tiempo. Y toda la in*formación* de esa cuenta de correo electrónico se perdió. Infortunadamente correos de eso no existe, sí no existen  Archivos, pues, todo lo de *la universidad*, ¿no? Cuando uno se retira de una organización en general deja la in*formación*. Es posible que a nivel de papel tenga algo. Pero pues, me comprometo a buscar, pero no me comprometo a encontrar.
+
+
+1:4:43.680
+Laura Viviana Manrique Gomez
+O el *módem* de la época, alguna cosa de pronto.
+
+
+1:4:47.550
+Hugo Sin Triana
+Pero es que todo eso quedó en *la universidad*. Todo, todo, todo, todo quedó la universidad, todo, absolutamente todo, quedó en *la universidad*. O sea, si era información de la universidad. Lo único que uno podría llegar a decir es que el correo electrónico, pues uno no hace entrega formal, o por lo menos en esa época no se hacía, no se hace entrega formal de los contenidos de los correos electrónicos, entonces no hay una transferencia de esa in*formación* a la institución. Tal vez por ese lado no, pero todo lo que eran los *equipo*s, los archivos, todo ese tipo de cosas, obviamente todo eso sí quedó en el *Centro de Cómputo*, hoy en día DTI de *la universidad*. ¿Que se haya conservado? No lo creo. No tenemos esa disciplina, nosotros los técnicos por lo menos, no tenemos esa disciplina, infortunadamente. Pero sí deberíamos inculcar esa disciplina en los estudiantes, al igual que finanzas personales, esto de “conserve la memoria histórica”, hay que trabajar en eso para las siguientes generaciones
+
+
+(1:5:42.70) Y es una lástima que los profesores de la época no me hayan parado bolas de documentar. Porque hubiera sido muy bonito haber documentado toda la trans*formación* social de los estudiantes, de los profesores. Esto fue muy duro para los profesores. Muy difícil. Yo le diría a los profesores “profes, párenle bolas a esto porque se les van a parar los estudiantes en clase y le van a decir que lo que usted está diciendo es carreta, que porque el día anterior leyeron un artículo por *Internet*.” Y los profesores no me entendían tampoco esa parte, y les pasó, ¿si?. “Profesor, eso no es cierto. Ayer leí en *Internet*.” Tenga. O sea, eso para los profesores también fue muy difícil. Para los jóvenes estudiantes era más fácil aprender estas cosas. Para los docentes era mucho más difícil, y si el docente todavía tenía una trayectoria mayor, pues imagínense este choque cultural tan enorme. Entonces, yo por eso le decía a los profesores “documentenlo, estudienlo, analicenlo. Miren lo que va a pasar con los profesores, vean lo que va a pasar con los estudiantes. El ritmo va a ser diferente, va a ser completamente diferente.” Y eso pasó, todo eso pasó. Hubiera sido interesante que lo hubieran documentado, hubiera sido una cosa chévere.
+
+
+1:6:54.110
+Jaime Humberto Borja Gomez
+Para eso estamos ahora los historiadores. Podemos documentar
+
+
+1:6:55.640
+Hugo Sin Triana
+Bueno, entonces, ¿para cuándo nos volvemos a ver?
+
+
+1:7:0.760
+Laura Viviana Manrique Gomez
+No, pues su agenda, por favor. Claro, ya estamos acá. Si de una vez tenemos la cita, de una vez. Claro que sí.
+
+
+1:7:7.330
+Hugo Sin Triana
+Sí es que estoy mirando mi agenda.
+1:7:11.240 --> 1:7:12.630
+Hugo Sin Triana
+Hagámoslo, hagámoslo.
+1:7:12.640 --> 1:7:16.370
+Hugo Sin Triana
+También martes, hagámoslo el martes 3, martes 3.
+1:7:16.380 --> 1:7:17.680
+Hugo Sin Triana
+Tengo espacio de 9 a 10.
+1:7:18.760 --> 1:7:19.20
+Laura Viviana Manrique Gomez
+¿Vale?
+1:7:19.900 --> 1:7:20.280
+Jaime Humberto Borja Gomez
+Perfecto.
+1:7:20.10 --> 1:7:22.150
+Maria Jose Afanador Llach
+Sí, perfecto, perfecto.
+1:7:22.210 --> 1:7:23.940
+Maria Jose Afanador Llach
+No aprendimos altísimo, por favor.
+1:7:23.710 --> 1:7:24.650
+Laura Viviana Manrique Gomez
+Sí, sí, señor.
+1:7:24.310 --> 1:7:27.500
+Maria Jose Afanador Llach
+Sí, Claro, te mandamos la situación, sí, perfecto.
+1:7:21.730 --> 1:7:29.160
+Hugo Sin Triana
+¿Me me citan ustedes, please, si ustedes necesitan mejor listo, no?
+1:7:26.960 --> 1:7:29.160
+Laura Viviana Manrique Gomez
+Perfecto, muchísimas gracias.
+1:7:29.400 --> 1:7:30.220
+Jaime Humberto Borja Gomez
+¿Hugo, Sabes?
+1:7:29.170 --> 1:7:33.570
+Hugo Sin Triana
+Y hay muchas cosas que se me han olvidado, detalles que se me han olvidado, pero poco a poco la va recordando.
+1:7:31.840 --> 1:7:35.980
+Maria Jose Afanador Llach
+Sí, no, pero podemos seguir buenísimo para que quede ahí.
+1:7:38.550 --> 1:7:38.840
+Hugo Sin Triana
+¿Listo?
+1:7:36.0 --> 1:7:39.710
+Maria Jose Afanador Llach
+Pensando Hugo para la siguiente sesión de trabajo, muchísimas gracias.
+1:7:38.850 --> 1:7:40.650
+Hugo Sin Triana
+Me comprometo a pensar y a recordar.
+1:7:41.970 --> 1:7:42.820
+Maria Jose Afanador Llach
+Recordar lo que.
+1:7:43.620 --> 1:7:43.690
+Hugo Sin Triana
+Sí.
+1:7:41.880 --> 1:7:45.470
+Jaime Humberto Borja Gomez
+Sí, te agradecemos infinitamente.
+1:8:11.990 --> 1:8:13.480
+Hugo Sin Triana
+Correcto, correcto, de acuerdo.
+1:7:45.480 --> 1:8:17.850
+Jaime Humberto Borja Gomez
+Tenemos otro poco de preguntas, que no digamos por hay muy poco escrito sobre esto YY nos ayuda mucho, por ejemplo, Ahorita no sabe, es un gran tema, esto la evangelización y estos dos primeros años la convivencia con el el sector empresarial Eh, esto es increíble, increíble, los temas que nos comienza a abrir como problema que no se han documentado, entonces vamos a buscar in*formación*, te agradecemos si encuentras algunas cosas y seguimos la conversación.
+1:8:18.500 --> 1:8:20.430
+Hugo Sin Triana
+Perfecto vale desde muchas gracias Laura.
+1:8:22.710 --> 1:8:23.630
+Laura Viviana Manrique Gomez
+Muchas gracias.
+1:8:21.220 --> 1:8:24.350
+Maria Jose Afanador Llach
+Gracias Hugo estos días.
+1:8:20.440 --> 1:8:25.20
+Hugo Sin Triana
+Muchas gracias por Gaby, muchas gracias que estén muy, muy bien.
+1:8:26.640 --> 1:8:27.130
+Maria Jose Afanador Llach
+Chao Chao.
+1:8:24.780 --> 1:8:27.840
+Jaime Humberto Borja Gomez
+Gracias Hugo, gracias, leo para ti, muy amable.
+1:8:28.110 --> 1:8:29.30
+Jaime Humberto Borja Gomez
+Gracias chao.
+1:8:28.260 --> 1:8:29.740
+Hugo Sin Triana
+Chao chao, que estés bien, chao.
+1:8:30.550 --> 1:8:31.60
+Maria Jose Afanador Llach
+Chao Chao.
+1:8:41.150 --> 1:8:41.560
+Jaime Humberto Borja Gomez
+María José.
+1:8:40.860 --> 1:8:41.930
+Maria Jose Afanador Llach
+Ah, bueno, se desconecto.
+1:8:41.940 --> 1:8:44.780
+Maria Jose Afanador Llach
+También Laura, voy a parar la la la.
+1:8:51.0 --> 1:8:51.70
+Jaime Humberto Borja Gomez
+Sí.
+1:8:52.930 --> 1:8:53.740
+Jaime Humberto Borja Gomez
+¿Qué le digo?
+1:8:53.910 --> 1:8:54.620
+Jaime Humberto Borja Gomez
+Le digo a Laura.
+1:8:44.820 --> 1:8:55.490
+Maria Jose Afanador Llach
+La grabación se puede, pero no una cosa increíble, la claridad que tienes de hombre, como de toda la confluencia de actores, *redes*, conversaciones, recursos.
+1:8:59.910 --> 1:9:1.30
+Maria Jose Afanador Llach
+¿Eh?
+1:9:1.40 --> 1:9:12.920
+Maria Jose Afanador Llach
+Hay un problema que aparece que yo creo que es súper clave, esos dos primeros años de un *Internet* académico, o sea, de una ética de *Internet* distinta, no de no.
+1:9:12.930 --> 1:9:13.710
+Maria Jose Afanador Llach
+Pues muy interesante.
+1:9:14.990 --> 1:9:18.400
+Jaime Humberto Borja Gomez
+No, sobre todo esta, este este momento creo que es clave.
+1:9:18.650 --> 1:9:21.430
+Jaime Humberto Borja Gomez
+A ver si Laura, yo le dije que sí.
+1:9:29.10 --> 1:9:29.230
+Maria Jose Afanador Llach
+¿Eh?
+1:9:31.790 --> 1:9:35.870
+Maria Jose Afanador Llach
+¿Por ejemplo, el apoyo de la National Savings Fondation, Eh?
+1:10:8.580 --> 1:10:10.160
+Jaime Humberto Borja Gomez
+¿Puedes parar la grabación, Laura?
+1:9:36.450 --> 1:10:10.510
+Maria Jose Afanador Llach
+Eso pues, es 111 asunto que que toca, no solamente el desarrollo en Colombia, sino en América Latina, no que es una también ahí, esas relaciones internacionales y articulación con instituciones públicas en Estados Unidos para también financiar parte de lo que porque era muy costoso y creo que con la entrevista queda clarísimo que esto era costosísimo, no eran los recursos, tanto el recurso humano como recurso infraestructural como plata mensual para mantener el no, pues mejor dicho, muy interesante.
+1:10:10.990 --> 1:10:11.840
+Maria Jose Afanador Llach
+Ay, sí, por eso.
+1:10:11.150 --> 1:10:15.600
+Laura Viviana Manrique Gomez
+Sí, es que estaba, preocupa, está como por la grabación.

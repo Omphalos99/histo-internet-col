@@ -1,0 +1,538 @@
+﻿GONZALO ULLOA
+
+
+INTRO
+
+
+0:0:-7.-650
+Laura Viviana Manrique Gomez
+Mil gracias por atender nuestra invitación, Gonzalo. Te presento formalmente a Jaime Humberto Borja, él es el investigador principal. Ay, se nos acaba de desconectar, no sé qué pasó.
+
+
+0:0:5.900 --> 0:0:8.930
+Gonzalo Ulloa
+No sé, movió algo y se desconectó.
+
+
+0:0:9.490
+Laura Viviana Manrique Gomez
+Caramba, dame un segundito.
+
+
+0:0:11.380
+Gonzalo Ulloa
+Tranquila, no se preocupe. Tranquilo, que yo tengo tiempo. Yo estoy jubilado, o sea que yo tengo tiempo. Yo antes estaba muy ocupado, pero ahora no tengo ningún problema.
+
+
+0:0:24.740
+Laura Viviana Manrique Gomez
+¿Y hace cuánto se retiró?
+
+
+0:0:26.800
+Gonzalo Ulloa
+Hace un año me retiré.
+
+
+0:0:29.370
+Laura Viviana Manrique Gomez
+Bueno, ya va un añito. Pero bueno, más que necesario y justo el descanso.
+
+
+0:0:35.940
+Gonzalo Ulloa
+Pues yo me sentía bien, pero el asunto es que, primero, yo creo que uno tiene que abrir espacio para que las otras personas participen y colaboren en la universidad. Y segundo, mi mujer estaba jubilada y entonces me hizo mucha presión para que yo me jubilara también. Pues yo pataleé todo lo que pude, pero me jubilé y ya estoy muy contento. Estoy disfrutando de mi nieto, abueleando.
+
+
+0:1:10.130 
+Laura Viviana Manrique Gomez
+Ay, qué bueno, me alegra.
+
+
+0:1:11.320
+Gonzalo Ulloa
+Ya llegó Jaime Humberto.
+
+
+0:1:12.240
+Laura Viviana Manrique Gomez
+Jaime, sí. ¿Nos estás escuchando?
+
+
+0:1:20.360 
+Gonzalo Ulloa
+Jaime, no está oyendo.
+
+
+0:1:23.820
+Laura Viviana Manrique Gomez
+¿No nos escuchas?
+
+
+0:1:25.340
+Gonzalo Ulloa
+No, no, oye.
+
+
+0:1:34.60
+Laura Viviana Manrique Gomez
+Quizás sí le quitas el d*ISP*ositivo de audífonos, puede ser que esté dañado.
+
+
+0:1:42.680 --> 0:1:45.180
+Jaime Humberto Borja Gomez
+¿Me escuchan, ahora sí?
+
+
+0:1:43.180
+Gonzalo Ulloa
+Ahí sí. ya. No, no, pero los audífonos están bien
+
+
+0:1:50.40
+Jaime Humberto Borja Gomez
+¿Me escuchan?
+
+
+0:1:51.110 
+Laura Viviana Manrique Gomez
+Sí, perfecto.
+
+
+0:1:53.280
+Jaime Humberto Borja Gomez
+¿Ahora sí?
+
+
+0:1:55.210
+Gonzalo Ulloa
+Ahora sí, también.
+
+
+0:1:56.500
+Jaime Humberto Borja Gomez
+Esto está rarísimo.
+
+
+0:2:0.300
+Gonzalo Ulloa
+No es que eso tiene sus cosas extrañas. Siempre hace cosas extrañas.
+
+
+0:2:10.830
+Laura Viviana Manrique Gomez
+No se nos fue tu voz.
+
+
+0:2:12.530
+Gonzalo Ulloa
+Se fue.
+
+
+0:2:29.420
+Laura Viviana Manrique Gomez
+Bueno, Gonzalo, yo te voy contando un poquito, te voy presentando el proyecto.
+
+
+0:2:32.870
+Gonzalo Ulloa
+Pero dile a Jaime que yo me conozco el sistema de Teams. Si sigue molestando, que reinicie la computadora.
+
+
+0:2:39.800
+Jaime Humberto Borja Gomez
+Ya, ya. Siempre tengo problemas con Teams. No me funciona, es más el sistema, no sé. Pero ya los estoy escuchando.
+
+
+0:2:54.350 
+Laura Viviana Manrique Gomez
+Perfecto, y te estamos escuchando muy bien.
+
+
+0:2:59.350
+Jaime Humberto Borja Gomez
+Gonzalo, muchísimas gracias por acompañarnos. No sabes cuánto nos alegra.
+
+
+0:3:4.310
+Gonzalo Ulloa
+Bueno, Jaime Humberto. No, con mucho gusto. Apenas Laura me contactó, yo ahí mismo les correspondí con mucho gusto.
+
+
+0:3:12.0
+Jaime Humberto Borja Gomez
+Bien, bien.
+
+
+0:3:13.40
+Gonzalo Ulloa
+Que, como ustedes dicen, creo que hace falta que hubiéramos sido más radicales o más publicitarios en las cosas que se hicieron en un momento determinado. Imagínese, hay una cosa muy desgraciada, que no nos acordamos ni siquiera cuando nos conectamos a Internet. Me han preguntado esa pregunta me la he hecho  De la *Internet Society* me hicieron la pregunta, y les dije, “bueno, averigüen con esa persona, con esta, con esta.” Llamaron a *Hugo*, a Gonzalo, a *Jerry*, a un poco de gente, y no, no fue posible. No fue posible que nos diera  acordáramos en qué fecha nos conectamos. Sabemos un espacio de tiempo. Pero me hubiera encantado haber tenido unas notas como las que tenían los precursores, pues, que tenían una bitácora de todas las conexiones, y qué día y a qué hora se hicieron las conexiones. Y la debíamos haber tenido, pero no, fuimos tan desordenados que no tuvimos esa bitácora.
+
+
+0:4:9.460
+Jaime Humberto Borja Gomez
+Les faltó un historiador.
+
+
+0:4:11.560
+Gonzalo Ulloa
+Sí, claro. Y eso es parte de la disciplina de la investigación. O al menos investigación experimental sí, EH YY no YY no tenemos bitácora. Leonard Kleinrock tiene una bitácora hasta con los dibujos y con la fecha y con la hora. ¿Y qué pasó? ¿Y cuando se dañó la conexión y cuándo volvió eso? En un video sobre eso que Leonard fue una de las personas que que que que contribuyó fundamentalmente en el desarrollo de Internet, hizo la primera conexión a Internet. Pero pero y tiene un habitáculo? Guion, encantado. Poder encontrar una habitación encontraron, buscamos por todas partes, sabemos que fue entre el 93 entre abril. Te sí. Comienzos del 93 tal vez abrí el mayo, pero no, no lo tenemos Claro. No.
+
+
+0:5:2.60
+Jaime Humberto Borja Gomez
+Hay una fecha que hay bueno, hay un par de fechas, las fechas nunca son estables, cuando hace 1 esta investigación, pero algunos mencionan que fue el 4 de junio del 94, que es como la oficial con la conexión con impsat *IMPSAT* con el satélite y con.
+
+
+0:5:18.860
+Gonzalo Ulloa
+No, no, 94. ¿No fue el 93, espera? ¿No, no, sí, 94, perdón no fue el 9394, en el 93 estábamos en Estambul, no?
+
+
+0:5:28.80
+Jaime Humberto Borja Gomez
+Eso es eso allá, gente que no es que, pero hay otros que dicen que fue en abril, otros dicen que fue en mayo. *Hugo*, si no estaba diciendo que había sido en mayo, que lo recordaba porque era muy cerca de su cumpleaños.
+
+
+0:5:38.140
+Gonzalo Ulloa
+Yo creo que sí puede ser una cosa, pero voy a todos, nos pasa lo mismo, no sabemos si el 93 sí. 94. Sí, correcto, porque en el 93 ya logramos convencer a *Colciencias*conciencia de que eso era importante para Colombia y logramos que diera los fondos para que hicieran, hiciéramos la conexión en diciembre del 94 compraron los compraron los equipos con una plata que tenían guardada entre libres y conciencia. Y en el 94 llegaron y nosotros instalamos todo. Yo estaba trabajando en ese momento en u*Univalle* y nosotros teníamos todo listo, no era nomás programar los routers con las direcciones que nos dieron y lo programamos, y ese mismo desconectó, así de sencillo fue o sea. Pero bueno, sí.
+
+
+0:6:26.80
+Jaime Humberto Borja Gomez
+Pues no sé, si quieres podemos comenzar la entrevista a digamos como para hd, no sé si la habrás, ya te contó que qué hacemos quienes somos?
+
+
+0:6:38.80
+Gonzalo Ulloa
+No, no me ha contado, no me ha contado.
+
+
+0:6:39.60
+Jaime Humberto Borja Gomez
+¿Ah, ah, bueno, listo? Pues mira, nosotros somos hd y somos 3 personas. En ese momento, los que estamos liderando este proceso mhm, está la profesora María José Afanador, que es de la facultad de artes de la maestría de humanidades digitales. Esta Laura, que nos está ayudando, es estudiante del doctorado y profesora de humanidades digitales también, y estoy yo, que soy. Jaime Borja, Profesor del Departamento de Historia, tenemos una inquietud desde hace par de años, que es la construcción de esta historia del Internet en Colombia. Curiosamente, no hemos encontrado casi nada, hay un solo libro escrito 
+
+
+0:7:24.580
+Gonzalo Ulloa
+El libro de una persona de el Tiempo, sí.
+
+
+0:7:18.760
+Jaime Humberto Borja Gomez
+Si, un señor que es más un reporte periodístico, más que un trabajo histórico. Se es comosu.es más. Ese tiene ese valor como más periodístico y hemos encontrado un par de artículos. La información está muy d*ISP*ersa, curiosamente para nosotros llegamos, yo vengo de formación como colonialista. Ha sido más fácil de hacer historia la de la colonia que de la que de este proceso precisamente por lo que estabas mencionando ahora YY nos inquieta mucho esta reconstrucción, por lo menos de fuentes, la idea es de coger los testimonios, grabar los testimonios y estamos haciendo también un trabajo de investigación documental. Ha sido más bien poco lo que hemos encontrado, precisamente porque esto fue muy esporádico, muy espontáneo, muy hp poco planeado, pero creo que creemos que generaron mhm, un cuerpo de documental tanto oral como de testimonios escritos, va a permitir comenzar a construir una historia mucho más clara de esta historia de Internet. El interés que tenemos de trabajar contigo es porque tú fuiste como esa persona. El enlace fuera de de Bogotá esto funcionaba muy centralista, mhm, YY es bien importante tu participación para enlazar u*Univalle* con el proceso en entonces que nos interesa mucho. También vemos tu formación, tienes un trabajo académico increíble. Creo que es de las primeras personas que se formó en el de en estos temas de *red*es fuera del país. En o sea, tienes un un proceso de formación muy interesante que tiene mucho que decir en este proceso de formación de de Internet en el país. Entonces quisiéramos escucharte, tenemos algunas preguntas. Creemos que la primera, que puede ser e importantes que nos hables un poco de tu formación, ese periodo que pasaste sabemos que Estuviste, estuviste trabajando en Suiza estudiando en Suiza, un poco esa, cómo llegaste AA esto de las *red*es a las *Telecom*unicaciones, por qué te fuiste para Suiza y después podemos comenzar a hablar un poco del proceso de conexión con *Hugo*, sin con Fernando Salcedo, con ya ya el proceso de cómo se vinculó u*Univalle* a todo este procedimiento.
+
+
+0:10:2.330
+Gonzalo Ulloa
+Ve, ¿Fernando Alf*red*o murió?
+
+
+0:10:4.920 
+Jaime Humberto Borja Gomez
+No, está vivo todavía.
+
+
+0:10:3.800
+Gonzalo Ulloa
+¿No? Está vivo. Ah, sí
+
+
+0:10:7.730 
+Jaime Humberto Borja Gomez
+Sí pues, lo hablamos con él. El año pasado, algo que si te están esa es un poco la es la inquietud. No sé si Laura quiere. Es decir, algo complementar lo que he dicho.
+
+
+0:10:20.400
+Laura Viviana Manrique Gomez
+No, no, darle el espacio completo a Gonzalo, por favor. Poco a poco te iré preguntando cositas.
+
+
+0:10:25.90
+Gonzalo Ulloa
+¿No, eso me parece más bien que sea una conversación fluida y esto, bueno, les cuento un poquito, EH? ¿Cuál es mi información? Yo soy ingeniero electricista, trabajaba en la *Universidad del Valle*, yo no tenía ni idea de *red*es de comunicaciones ni idea. La más mínima sospecha. ¿Yo trabajé en electrónica dura y pura, EH? Y la *Universidad del Valle* tenía un convenio de cooperación con el Gobierno suizo. Las becas de la *Confederación Suiza*. Entonces yo dije, hay una oportunidad con mi señora, era profesora de la *Universidad del Valle*, también. O es. ¿O era era porque se jubiló también la profesora de la *Universidad del Valle*, EH? Y entonces ella tenía también el interés de salir a hacer un doctorado. En esa época estaban cerradas las becas, cerrado todo, no había, pues 1 tiene que irse de su bolsillo, mejor dicho, y nos fuimos a Suiza porque teníamos un amigo común en Suiza que fue profesor de la *Universidad del Valle*, y entonces él me tramitó para que me aceptaran en un laboratorio el laboratorio de informática técnica de la *Escuela Politécnica* Federal de Lozano. ¿Eh? (0:11:32.670) Pues mi profesor me miró con mucha desconfianza y proceso. Cuando hablo de mi profesor es mi profesor en Suiza. Henry no es bombero. Mi profesor me miró con mucha desconfianza, pues Colombia para ellos, en un país cocainómano. Eso era *Pablo Escobar*. Era poca. *Pablo Escobar* era tremendo, entonces, me miraban con mucha desconfianza, pues que éramos ayer. Recibía muchos extranjeros, pero los extranjeros reciban para que fueran a paz y medio a pasear, porque ninguno podía aportar técnicamente algo ¿Entonces, con mi profesor, pues me pusieron un trabajo, yo lo hice y porque yo ya tenía experiencia en electrónica y en programación y cosas, entonces yo lo hice y pero empecé a perfilar qué podía hacer en ese laboratorio, porque allá 1 tiene que casarse con las líneas de investigación del laboratorio del profesor que tiene entonces mi profesor? Pues yo vi que el laboratorio era más fuerte en *red*es de comunicaciones. Mi profesor era fellow de IBMFURI triple era un tipo muy reconocido en Europa, fue el director de la del liceu de investigación de la gota de Francia de entonces, Eh? Él era iben era líder en *Telecom*unicaciones en ese momento. Entonces, pues yo empecé a moverme por ahí, a especializarme, un poquito en eso y entender un poquito cómo funcionaba eso. ¿YYY terminé cayendo en un doctorado, que eran *red*es de comunicaciones para aplicaciones críticas en tiempo, o sea, *red*es que 1 puede determinar cuál es el tránsito de un mensaje de un lado a otro, qué es lo que no pasa en Internet? Aún no lo envía un mensaje y se puede demorar medio. Segundo, se puede demorar 3 minutos y 1. Nunca sabe qué pasa, eso en aplicaciones industriales no se puede hacer. Entonces, 1 se manda un mensaje, tiene que saber que en 10000 milisegundos puede llegar al otro. Tiene que llegar al otro lado. (0:13:19.100) Entonces lo que hicimos fue protocolos especiales para poder lograr eso, entonces hazme un grupo de investigación con veamos como unos 10 personas de investigación, yo tenía un grupo financiado por la industria Suiza porque así el trabajo con la industria es muy de la mano de un grupo financiado por la industria Suiza YY mi profesor levantaba mucha plata, pues nosotros sentábamos en en una tarde escribamos un proyecto. Eran 3 páginas que eso lo había aprender *Colciencias*conciencia. ¿Eran 3 páginas y en 3 páginas pedíamos un millón de francos suizos y nos daban a los 15 días, nos contestaban los guion ya el millón de francos está probado, no es eso, es la cosa, era de ese tamaño? Pues sí, sí. Es una cosa, te puede parecer a 1 increíble, pero eso es era, era la cosa Así, entonces teníamos plata cantidades y pues si se es un país rico, pero pero tampoco nos regalaban, pero tenemos como otras resultados y nosotros mostramos resultados y hacíamos mitin con las empresas y mostramos lo que estamos haciendo. Empresas hicieron productos a partir de lo que nosotros habíamos 3, pero ya entonces, pero llegó un momento y ya terminé el doctorado. Me hice pachorra, todo lo que pudo por quedarme en Suiza porque mi señora es bióloga, entonces para ella todos los animalitos estaban aquí porque él todos los animales en Europa están estudiados ellos, entomóloga. Entonces ella tenía hizo la tesis curiosamente con una hormiga que estaba en la parte de abajo de la Universidad de Laboratorio, que ya tenía la *Universidad del Valle*. Entonces yo era una ermua muy importante en términos de placa YY desaparición de especies, entonces ella estuvo trabajando con eso y entonces ella se regresó para Colombia, dijo. Yo no me aquí en Suiza que me acaba haciendo, me tengo que regresar para Colombia. (0:15:1.140) Yo le dije, andate, yo voy aterrizando lentamente y eso efectivamente, hizo, voy aterrizando lentamente, sobre todo cerrando las brechas con no no, no había Internet. La única comunicación que yo tenía era por fax y por teléfono, entonces usted se imagina una carta por entrega inmediata que mora 15 días es que es una cosa que los muchachos ahora no se dan cuenta de lo como eran las cosas entonces y lo más rápido era el fax, no me manda una una comunicación escrita y manda un fax, pero era carísimo, las comunicaciones era muy caras. ¿Entonces, EH? Me queda ya un tiempo cerrando el grupo de Investigación OO, dejando la gente encargada de de lo que teníamos porque teníamos yo tenía proyectos financiados para 4 años más y tenía un poco de gente que dependía de mí. Pero recibí regresar, regresar en total por motivos familiares, porque mis padres estaban viejos, estaban solos. Yo tengo dos hermanas, pero mis dos hermanas estaban en Europa, entonces yo decidí regresar mis papás, estas situaciones de mis papás estaba un poquito complejo, mi papá muy, muy discapacidad. Oh, ya, EH ya mi mamá le resultó, le diagnosticaron un cáncer prácticamente terminal. Entonces yo yo, cuando me vine aquí yo, pues mi profesor me dijo, Le guardo el puesto un año ese yo le guardo el puesto un año y quiero volver. ¿Vuelve y cuando yo me iba a sentar a escribirle la carta diciendo Vea, no me aguanto más, este país me devuelvo, EH? Le recetaron, le diagnosticaron el cáncer a mi mamá, entonces ya no me podía regresar. Entonces, entonces le escribí a mi profesor, dice que ahí tenía sus familiares, que te implicaban, que yo estuviera aquí y me quedé aquí en Colombia y me me tocó tropical. ¿Izarme a la fuerza entonces dijo, Bueno, cuando me empecé a pensar, qué hago (0:16:57.700) entonces? Yo notaba Colombia y lado, yo tenía mi Grupo, yo tenía Internet, pero yo tenia Internet hacía más de 10 años, yo me conectaba por Internet, me comunicaban todo el mundo por Internet, todo el mundo hablaba por Internet, teníamos un grupo de colombianos en el exterior, teníamos de todo y aquí en Colombia estamos completamente aislados, completamente aislados. Lo único que teníamos en Colombia no única conexión con el exterior era *Bitnet*binet, que era una *red* de IBM que era en ese momento quiero aclararles en ese momento había muy poquitas *red*es estándares YYBM los fabricantes, todos grandes fabricantes básicamente. He IMI dec Digital Equipment que ya desapareció. Deben existe, todavía tenían unas *red*es privadas que eran sus protocolos propios. ¿Entonces, Eh IMIMO le ofreció a Colombia tal una conexión a esa *red* privada que ellos tenían y esa *red*, esa conexión salió por*Uniandes* unidades, tenían una conexión, Eh? ¿Que por teléfono a, creo que Columbia y ahí se conectaban y ahí salían AA lo que era ya Internet, ya Internet ya estaba en todo el mundo, pero nosotros estábamos todavía aislados, entonces, cuando yo vi eso, esa situación, pues empecé a tratar de armar un proyecto y no llamaron de **Sintel, Centro de Investigación, de comunicar de t*Telecom*unicaciones, EH? Llamaron a la *Universidad del Valle* a decir que por qué no hacíamos una propuesta para la conexión a Internet y entonces ya un *Uniandes*y antes había estado trabajando en eso, entonces yo, pero pues yo me yo ya sabía cómo se hacía eso. Yo para mí no era un misterio, pero aquí era un misterio, porque aquí es aquí la única *red* que existía. Una *red* que funcionaba el equipo *Windows* es *Windows* no es una compañía que ha tenido *Windows* no perdón *Microsoft* de OS eso no tenía conexión con nada. Entonces yo sabía que eso tenía que hacer esos servidores. ¿Y u*Unix* y todo eso que, como nosotros teníamos todo en en la PFLY (0:19:2.960) entonces entonces el nos empezamos a trabajar en eso, con con Uniandes y eso yo le dije, bueno, por qué no metamos a Medellín también? Y entonces me hablé con los países de. A ver cómo se llama. ¿*Antonio Restrepo*, Antonio Restrepo, Eh? Que, entre otras cosas, lo mandé para Suiza y allá se casó y se quedó allá y ya no quiere saber nada de Colombia. ¿Por qué le murió el papá y la mamá? Y ya no quiere saber nada de Colombia y se casó con una Suiza y está está muy bien allá en Suiza. Antonio era el paisa que representaba a *EAFIT*fit. Sí, entonces, entonces yo dije, pues hagamos por lo menos a las 3 conexiones. Nosotros empezamos a trabajar. Por fortuna, había una coyuntura especial en u*Univalle*. Y ahora que *Univalle*unió ayer, en ese momento tenía dinero de la estampilla por universidad y logramos convencer al rector de que nos diera una parte de ese dinero para montar una *red* de área local en la universidad, entonces eso hicimos, entonces montamos una *red* de área local que tal vez fue la primera *red* de área local que se hizo en una universidad colombiana, pues montamos una *red*, conectamos todos los edificios con *fibra optica*, eso todo el mundo iba a haber esperado de la maravilla del mundo, entonces montamos, montamos las últimas tecnologías, que había estructurado todo y montamos los servidores para estar listo en Internet. Nosotros, al final en *Univalle* teníamos toda la *red* de la Universidad trabajando en Internet, pero no teníamos conexión hacia el exterior con los protocolos de Internet, pero no teníamos las conexiones al exterior, entonces para nosotros fue muy fácil cuando cuando llegó la conexión internacional con *IMPSAT*Imsa Th ya habilitar el puerto y por ahí salimos todo, inmediatamente salió todo. (0:21:6.470) Bueno. Mientras tanto, lo único que hacíamos era las colecciones del exterior. Lo hacíamos por vía *Bitnet*bidet, una pasarela por *Bitnet*Bennett, pero pues la cosa era tan increíble que no podíamos mandar más mensajes de cierta extensión. Las los mensajes eran de 2 líneas o 3 líneas, no podíamos mandar imágenes, evidentemente está prohibidísimo porque no escuchamos el canal. Sí, Eh, esas cosas que se hacen hoy en día, como lo más normal del mundo, eso no era era absolutamente imposible de de hacer. Entonces teníamos restricciones, sancionamos los profesores que mandan. Mensajes muy largos o con muchos destinatarios, los sancionamos y les cortamos la conexión. Sí, y una cosa también muy buenas que hicimos. Fue que empoderamos. Lo estudian, entonces leímos la la, el Gobierno de toda esa *red* se las dimos a los estudiantes, que eran los que sabían en ese momento, eran los que mejor malo es que los profesores, los profesores no sabían entonces los que sabían los estudiantes les enseñamos y u*Unix* les enseñamos todo y pusimos las máquinas a funcionar y al servicio de ellos. Y ahora, los administradores de la máquina, entonces para ellos fue primero un aprendizaje muy grande, eso de ahí salieron a montar todas las *ISP*y ese pez muchas, y después de Colombia sí. YYY pusimos una *red* a funcionar y pusimos toda la *red* de la Universidad , todos los edificios conectados con *fibra optica*. Teníamos muy poquitos puntos que no teníamos mucha plata, pero muy poquitos puntos. Puntos para poder conectarse a Internet no tenemos la Reina Alámbrica no existió la primera, la primera versión, demostración de una *red* inalámbrica Wifi como la tenemos hoy en día. Yo la vi en tal vez están foro en el 94, en el 93 la universidad está por el 93, eso fue el show, lanzamiento de la *red*Reina Alambre y esos de ahí se demoró un poco de tiempo en estandarizarse y en popularizarse que los equipos fueran más asequibles. Yo no pudiera comprarlos y todo eso, pero pero eso está. Eso es época de bárbaras naciones. ¿Estuvimos, no sé si estoy muy técnico en las cosas que les diga, no?
+
+
+0:23:18.880
+Laura Viviana Manrique Gomez
+No, está muy bien.
+
+
+0:23:20.40
+Jaime Humberto Borja Gomez
+No tenemos contexto, te hago un par de preguntas a propósito, ahora que estás mencionando *Stanford* en ya, lo has mencionado varias veces, qué fue lo que hiciste en *Stanford* y cómo te ayuda esto a vincular con el proceso? ¿Y lo segundo que te quiero preguntar es, si nos puedes dar algunos detalles de ese de ese vínculo con *los Andes* de que sé que sabemos que en *los Andes* ya se venía desarrollando como desde el 88 conexiones de en la universidad, unas primeras pruebas de *red*es, cómo se cómo se dio ese contacto tuyo con *los Andes* y cuál era tu tu papel en ese momento? Eras, profesor o estabas en el centro de computo de *Univalle*, eso es con preguntas como para precisar un poco tu relato.
+
+
+0:24:9.170
+Gonzalo Ulloa
+No, eso es lo más simpático porque. ¿Yo era profesor de la universidad, yo era profesor del Departamento de Ingeniería Eléctrica, no tenía nada que ver con el centro de Computo, ningún nada, porque curiosamente los que estaban no pasó como en *Uniandes*unidades que en *Uniandes*unidades los del centro de Computo como era *Hugo*, sí, ellos son los que impulsaron la cosa que nadie pues el centro de computo no querían saber nada de Internet, decía que por ahí se les metían los virus, que todo esto yo dije pues lo montamos nosotros, por otro lado eso no es el problema, yo no voy a dejar que la Universidad atrase por eso entonces la relación con *Uniandes*unidades fue por intermedio de *Colciencias*conciencias EH? Como teníamos la relación con *Colciencias*conciencias, entonces, cuando yo les hice más o menos uniforme, *Colciencias*colciencias quería entender un poquito que era eso y cómo se podía conectar. Colombia Internet. ¿Entonces yo les hice unos diagramas por con una asesoría que el Sintel le compró u*Univalle* y yo fui del asesor entonces eso el informe debe estar en alguna parte, en una parte perdida las cosas y lo mismo cuando decías, nosotros montamos después una corporación que se llama *Inter*red**Internet y nosotros llamamos actas, pero yo no sé esas actas, qué pasó, qué pasó con esas actas? Pero hacíamos actas, o sea, yo no sé si la leyeron alguna vez o se perdieron en en el pasado, pero pero yo sé que hacíamos actas de las reuniones y le damos toda la ceremonia de las actas y todo eso. (0:25:38.100) Bueno, Eh, entonces ahí empezamos la relación y entonces, como eramos tan poquitos, pues entonces yo hablé con hablaba con *Hugo*, conocí a *Hugo*, conocí a *Gonzalo Romero*, empezamos a armar un grupito con *Antonio Restrepo* y entonces, Eh. Y empezamos a trabajar informalmente. Así, completamente informal, nos reuníamos a veces. Teníamos que viajar a Bogotá y todos hacíamos reuniones en Bogotá. El *ICFES*icfes ayudaba a coordinar esa situación. ¿El *ICFES*icfes en la Biblioteca Nacional y hacíamos las reuniones allá en en Bogotá y tratamos de coordinar las actividades de todos, EH? ¿Entonces, qué vamos a hacer para dónde vivimos que estábamos haciendo? ¿Y hay un, establecimos una, un vínculo y una relación y entonces te planeamos todo lo que iba a hacer, la conexión que 1 central iba a estar en Bogotá, pero entonces el problema es que en *los Andes*, pero el problema es que la nacional también quería, pero la nacional no participaba, entonces habían celos ahí? Entonces les dijimos, bueno, pero ustedes hagan, hagan lo que quieran. ¿Conéctense, no? Como se conecten están ustedes. AA una cuadra de *ICFES*lifes que el icfes está. El hemeroteca *nacional está dentro del campus de la *Universidad Nacional*. Entonces, le dije, Conéctense, Conéctese, eso es tirar una *fibra optica*, eso no cuesta nada, tienen una fibra y se conecta, pero no entorpecieron otro que entorpeció mucho Le acabo de *Telecom* *Telecom*, no nos quería darle canales, no quería, pero lo hicimos por *IMPSAT*Isaac. Es que es otra cosa increíble, lo tuvimos que hacer por *IMPSAT*Isaac, porque *Telecom*el teléfono nos dio canales, nunca *Telecom*. Decía que para qué necesitamos más de 64 kilobits por segundo para toda Colombia, entonces 64 kg. Imagínate la locura entonces, porque ahora lo que ellos tenían era lo que ellos tenían. Un protocolo X 25 que estaban tratando de promocionar que eso fracasó al final en el mundo, pero, *Telecom*pero el. No quería darnos más canal y *Telecom* tenía todos los canales de comunicación, *Telecom*telefonía, *fibra optica* tenía de todo, pero pero no, no, no da canales. Bueno, el hecho es que el hecho es que ahí nos nos nos hicimos amigos y empezamos a trabajar juntos hasta por un propósito común que era conectar Colombia y tener una cosa que nos angustiaba mucho. ¿Tanto hubo la *Hugo*más angustiado? ¿Eh? ¿Yo yo recuerdo YY como salio cancelado, si ustedes ya lo entrevistaron, verán que se sigue siendo igual de acelerado porque yo he tenido más contacto con Gonzalo que que con *Hugo*, al después Eh (0:28:9.780) Entonces estaba muy angustiado porque Colombia era el último país de América Latina en conectarse a Internet. Estaba conectada, Venezuela estaba conectado para Mae está conectado. Ecuador está conectado a Perú, Chile, Bolivia, Argentina, Brasil. Evidentemente, todo y Colombia está aislado de Internet y peor todavía, teníamos un una conexión gratuita entregada por la National sin Foundation en en en en en hostalets de Florida. ¿Para tenemos un puerto donde podíamos llegar y conectarnos a Internet, un puerto de conexión a Internet que nos costaba nada y entonces, y no? Y ese puerto estuvo de desaprovechado entonces. ¿A raíz de eso OA un congreso? Es que no mejor. Y ahí Net como siga. ¿Cómo? ¿Cómo se traduce eso Pero no me acuerdo. Un congreso a inet que hicieron en *Stanford*, para países en vías de desarrollo, entonces nos invitaron, entonces ahí dijimos, es la oportunidad. Había una niña en *Colciencias*conciencia muy querida que María *Maria Emilia Correa*, María Emilia estaba trabajando allá en *Colciencias*conciencias y le dije a María, Emilia, tenemos que por eso las pilas y llevarnos a **Clemente* Forero*clemente forero, que era el director de *Colciencias*Conciencia, la vicerrectora vice, el director de *Colciencias* todo el mundo, a que entiendan que es esto para que nos desbloqueen los fondos, no tengamos 1 peso. No teníamos nada, todo estaba corriendo por el bolsillo o las universidades donde nosotros estamos trabajando. Entonces organizamos el viaje a *Stanford*, al *INET*Ainet de *Stanford*, y ahí nos pusimos a todos. AA que entendieran que era Internet. Sí pues, yo llevaba 10 años, más de 10 años trabajando en Internet. ¿*Hugo* y Gonzalo también habían trabajado en Internet, o sea, ya estaban haciendo, ya habían hecho sus pinitos entonces? Pues eso fue lo que pasó en esta muriendo *Stanford**Stanford* para no para ellos fue la entendieron que son un fenómeno global que el país no se podía quedar por fuera. De eso entendieron que eso era importante para Colombia YY cuando llegó eso fue en octubre. Sí, y cuando llegó, que cuando llegaron de de *Stanford* ya se vinieron dedicados a tenía La Plata guardada El Dios tiene La Plata guardada por favor, y entonces, entonces convencimos. A fácilmente a todos ya, pues le cuento la historia de *Pablo Escobar* YY **Clemente* Forero* está. (0:30:41.730) Nosotros estamos alojados en la residencia universitaria de *Stanford*estafa y entonces he ahí estuvimos y ahí estamos todos y conversábamos cuando vimos una un en 1 de los ejercicios que nos quisieron hacer un ejercicio era de usar el correo electrónico como nosotros ya habíamos usado el correo electrónico años, entonces nosotros pusimos con Gonzalo *Gonzalo Romero* por hoy, yo le digo el malo, *Gonzalo Romero*, nos pusimos AAA dialogar por debajo del del del programa de Mail de de de Internet 1 puede hay un demonio y 1 puede dialogar por debajo del programa de Internet, entonces se salta todas las reglas de seguridad, entonces abrimos una cuenta de correo que se llama Pablo punto Escobar Arroba Medellín. Punto cartel, sí y les mandamos un mensaje a clemente **Clemente* Forero*, a la correo electrónico tenía *Clemente*clemente que le habían creado en *Stanford*. Nosotros sabíamos cuál era el correo, le mando un mensaje que si no nos habilitaba la conexión a Internet vería lo que pasaba y como una amenaza de *Pablo Escobar*, en ese momento era terrible, pues imagínese entonces por la noche, nosotros hicimos la travesura y mandamos el mensaje y nos olvidamos de él y entonces y entonces, después por la noche vimos alboroto de la gente de *Colciencias*conciencia, y que qué pasaba, y pedía monedas para poder llamar porque había que llamar. ¿Es con monedas a Colombia, veía monedas para poder llamar y entonces, y entonces le preguntamos qué pasó? ¿Me dijo, no es que han hecho una amenaza gravísima? ¿*Colciencias*, *Clemente*esta gente está buscando pasaje para regresarse y hoy juepucha, y qué bueno que pasó, no? Pues que *Pablo Escobar* mandó un mega, yo dije no embarrada que hicimos, nos toca ponernos colorados y a decirle que le vente, *Clemente*mira esa esa, esa lo mandamos nosotros por Molestarte. Puedes pagar si no desbloqueaba la causa y realmente apurado, pero al final *Clemente*solamente muy buena persona y al final no pasó nada. ¿YYY siguió el seminario y no pasó nada y entonces, y ya, pero ya sensibilizamos a las direcciones de *Colciencias*conciencia y logramos que nos dieran La Plata, entonces yo en diciembre de ese año, en diciembre de ese año yo me acuerdo que estaba por fuera de Cali, cuando me llegaron me dijeron, véase lo están llamando, están buscando de *Colciencias*conciencia entonces que necesitaba que yo levantara las explicaciones de los equipos para que *Colciencias*conciencia las pudiera comprar, entonces yo yo estaba vacaciones ella y yo me bajé a Cali y mandé las especificaciones por falsa *Colciencias*conciencia, y entonces cómo sigue? ¿Cuánto costaba la cosa? Hice todas las cosas para saber cuánto más o menos costaba YY mandamos las especificaciones y *Colciencias*conciencia. Hizo la orden de compra. o sea, tenía que ejecutar el presupuesto antes de que el 31 de diciembre. (0:33:22.170) Entonces entonces hicieron una orden y comprarnos y compramos primero en Rotadores, cobramos 3 enrutadores y compramos las conexiones a *IMPSAT*Internet, eso ya lo teníamos listo, eso está más que listo, era solamente mandarlo y entonces, y así y así logramos desbloquear los fondos y tener eso el 93 diciembre, el 93 y entonces el 94 llegaron los equipos. ¿A comienza el 94 y fue más o menos en esa fecha que ustedes tienen, EH? No muy bien determinada que que nos conectamos, que llegaron los equipos y lo conectamos ahí mismo, nosotros conectamos ahí mismo, yo me iba a levantar unos equipos, yo tenía una ventaja, es que yo de la PFL yo me di cuenta que iban a cambiar los equipos de red de infraestructura de *red*, entonces yo se los pedí yo le dije, por qué no me lo mandan y me mandaron todos los equipos, mandaron equipos buenísimos todavía que para Suiza eran obsoletos, pero para nosotros era lo último en Guarachas, entonces yo pude poner equipos en toda la universidad, yo tenía mi equipos por toda la universidad, yo necesitaba pedirle. Equipos a nadie, ni tener ni siquiera plata, porque yo lo único que hicimos fue nacionalizar los equipos y los conectamos y es una donación de la PFL que nos dieron los equipos que cambiaron entonces yo conecté todos los equipos y conectamos los equipos y pusieron en cada centro más o menos gráfico en la universidad pudimos enrutadores y pudimos conexión y pudimos de todo lo que todavía no teníamos. La conexión hacia afuera, pero ya teníamos toda la infraestructura de la *Universidad del Valle* lista entonces en y. Y allí nos conectamos, ahí. Ahí hicimos la conexión al final de de esa de ese año. (0:35:0.920)  Al a mediados de ese año hicimos la conexión a Internet y ya todo empezó a funcionar bien y ya éramos la única sitio que tenía entonces por teléfono. Todo el mundo tenía que entrar y pusimos conexiones de espectro d*ISP*erso de de una *red* inalámbrica. Pues pusimos para que las otras universidades se conectaran a hacia la biblioteca de la universidad, que era el sitio más alto y más fuerte. ¿Teníamos más espacio a la *Universidad del Valle*, para qué? Para que se conectara y todo el mundo se conectó allí YY eso es una cosa muy abierta para que todo el mundo usara las cosas YY se conectaran y damos cursos de capacitación y inclusive yo me traje a un suizo que sabía mucho de Internet, era un técnico muy bueno y sabía mucho de servidores *Unix*y unix, y todo eso que él inclusive dio cursos, yo no sé, usted lo tiene referenciado j*Jerry* de rap, él no se acuerda de nada, él no se acuerda, yo hablé con él, él no se acuerda de nada, él como que Blanqueó Blanqueó el sur para su paso por Colombia, pues no es por nada, pues no le pago nada, aquí él estuvo muy feliz aquí, pero él se vino por un año y terminó quedándose 4 se casó con una colombiana, vive ahora en en Seattle. Yo aproveché que su hobby era escalar montaña. ¿Yo le dije, tenemos una montaña, la berraca aquí en Colombia y el hombre se vino con todo el equipo de alpinismo, aquí no hay nieve entonces entonces el tipo decía no, aquí los barros, aquí hay barro, hay, no hay nieve y qué voy a hacer con las montañas? Y entonces entonces, pero sí le le encantaba subirse a las montañas y hacerse caminadas de 3 días y todo en la época de no teníamos pruebas de seguridad que teníamos ahora. ¿Entonces, j*Jerry*, imagine un suizo de 2 metros suizo de 2 metros, andando por ahí no? Pues imaginen entonces a él lo gallinazo, una calella, una niña que era alumna mía. Yo le dije mucho cuidado con j*Jerry* que me lo desbarata sentimentalmente un muchacho muy inocente, entonces es verdad, eso lo hice. Es verdad que yo lo hice porque yo tenía que proteger ayer y era no el tipo. ¿Los activos más valiosos entonces? ¿Jerry y *Jerry*? ¿Yo les montó a *Colciencias*conciencia el entrar a Internet, le montó a todo el mundo, a todo el mundo que le decían, yo voy, pero entonces hay montañas por allá? Sí entonces, al oso a los oratorios sismológico del Suroccidente*, le montó toda la *red* de Internet, le montó y entonces el oso llevaban a todas las montañas donde estaba y donde están los repetidores y los y los sismógrafos, y toda esa vaina los llevaban y  el hombre era feliz allá. Cobraba por el paseo al a la montaña. Entonces me hacen el paseo a la montaña y yo les voy listarlo las cosas. Le estaban las cosas y lo llevan de paso, esa era y tuvimos una así, una una cosa muy, muy abierta, muy tranquila. Eso era sí.
+
+
+0:37:54.70
+Jaime Humberto Borja Gomez
+¿11, pues dar una una pregunta, este proceso estás contando la conexión de Internet? ¿Una pregunta previa, qué sucedió con esa conexión que se hizo desde *los Andes* por b*Bitnet* cuando Columbia, que se hizo el, han dicho, la conexión con Columbia? Y desde *los Andes* se estableció el *nodo* que repartía b*Bitnet* a otras instituciones. ¿Entre ellas tenemos entendido a *Univalle*, tú conoces algo de ese proceso? ¿Estabas en ese momento vinculado?
+
+
+0:38:24.930
+Gonzalo Ulloa
+Pues no, yo no estaba en la *Universidad del Valle*, yo no estaba en Colombia en ese momento, yo no me acuerdo muy bien, pero yo sé es repartida, pero si usted viera la repartía que era, era la repartía era con un computador personal que recibían, se se conectaban por un *modem* a al servidor de *Uniandes*unidades donde estaba en *Uniandes*unidades y bajaban los mensajes de texto y se lo entregaban en pesos a los profesores, ese era el correo electrónico de teniamos, se los entregaban impreso los profesores, era el correo electrónico por lo menos lo que a mí me consta que que existía, yo dije, esto no puede ser pues o sea. ¿O podemos seguir así y entonces si andaban con eso, era persona, eso? Eso, esa conexión se acabó porque eliges dejó de pagarla. Esa conexión valía un poco plata y el *ICFES*ife dejó de pagarla. Entonces, como ya teníamos Internet, ya no teníamos por qué estar pagando esa conexión a *Bitnet*inet, sí ahí a los servidores de Columbia y nosotros por el otro lado tenemos conexión gratuita a Internet. Sí, entonces, entonces, porque pineta había que hacer Armando saltos a Columbia y Colombia, tenían un servidor que para poder pasar sin Internet, sí era más con 1,1, vía más, más compleja. Bueno, entonces, ¿qué otra cosa?
+
+
+0:39:40.670
+Jaime Humberto Borja Gomez
+Y no, si quieres, nos puedes seguir contando de lo que sucedió después con que trajiste suizo y el vínculo. Tu interesante que nos hables de la respuesta institucional, la vinculación digamos, de la infraestructura que tenía la universidad, con los equipos que tu lograste para capturar, porque después también otras universidades comenzaron a entrar en el proceso de la Asamblea aventura, por ejemplo, en Cali del Pacífico. Desde que nos hables un poco de ese proceso.
+
+
+0:40:16.520
+Gonzalo Ulloa
+¿Eso fue una marea, eso realmente fue una marea? ¿Realmente nosotros replicamos lo mismo que que había en Internet, o sea, realmente replicamos? Era un *nodo* y ese *nodo* se a ese nodo, se conectaban los otros, y ese *nodo* se conectaba con otro *nodo* y así lo lo fuimos haciendo en todo Colombia. Entonces logramos que en todas las ciudades eso es una época que yo viajé mucho y estuve dando conferencias en todas las universidades para tratar de explicarles que era lo que hacíamos y cómo era de esa conexión y qué era lo que qué, qué, qué, qué requerimientos teníamos y que se necesitaba, porque el problema no era de plata. El problema era decisión política, sí, problema. ¿No era que necesitáramos mucha plata? El problema era que nadie le daba todo el mundo. Miedo me decidir políticamente sobre eso y nosotros veíamos que Ecuador, yo, yo, yo digo yo siempre he dicho la Colombia tiene el dudoso honor de ser el último país de América Latina en conectarse a Internet y fue efectivamente el último antes de después de que conectó Colombia se conectó a Haití para que vean el nivel en que están. Cuba estaba conectada, que es que es una cosa increíble. ¿Usted imagina? ¿Yo venía del primer mundo de Suiza, donde estamos al lado del ser del ser nel no central de Europa, de Internet sí, estamos al lado del CERN en la PFL, donde se montó la primera *red* local del mundo y todo eso YYY venir aquí a Colombia, donde donde no no, no había nada, no ¿Eso era desesperante? Sí, entonces, bueno, seguimos en ese cuento de. )0:41:51.840) ué hicimos, entonces estuvimos montando capacitando a la gente en las universidades para que administraran los equipos que se necesitaban para conectarse, realmente los enrutadores eran muy lo único que había comprar es un enrutador y 1 y unos equipos muy sencillos para las conexiones que teníamos en ese momento. ¿Es que las condiciones eran contadas en el día de la de la de la mano, o sea, en un edificio poníamos 5 puntos a Internet o 7 puntos de interés o 10 puntos de Internet, entonces eso pues no había mucho, lo el único problema que tuvimos es que tirar las redes de no habían *red*es ni el alámbricas en ese momento todas las *red*es eran cableadas, entonces no habían *red*es inalámbricas sido? Facilita mucho, pero, Eh, esas *red*es cableadas, pues habría que instalarlas y entonces nadie sabía instalarlas. Y entonces tuvo capacitarlas compañías para que instalara en esas *red*es aprendieran AAAAA, usar los cables YY les mostramos cómo se hacía. Y hay una varias compañías que se especializan en eso, instalaron las *red*es en muchas universidades y pusimos los servidores en las universidades. ¿Todavía no había ni *ISP*ese pez, no habían proveedores de acceso a Internet, no habían en esa instancia no había nada, ya fue como en el 96, tal vez que entraron los primeros *ISP*y ese peso, pero en todo ese periodo estamos. La universidad es conectando, conectando universidades y lo único para nosotros lo único que tenemos que tener un puerto libre y conectarlos, eso es todo lo que tenemos que hacer YY como yo tenía unos equipos de vuelo menos u*Univalle*, tenemos equipos de buena capacidad de la de la PFL, pues entonces conectamos a todos los que quisieran restauraban puertos. ¿No teníamos ningún problema, entonces tú publicamos, la gente conectamos las universidades en algunas universidades funciona mejor que en otras y eso? Pues evidentemente fue una transformación para los estudiantes, para los profesores. (0:43:47.580) Los profesores empezaron a ver que son una maravilla, ya estamos hablando del Pues sí, el 949698 ya empezaba. ¿El comercio electrónico, EH? ¿Ya empezaban los navegadores ya los navegadores ya porque antes no existía la World Wide Web no existía Eh? ¿Los protocolos de de de de la web entonces, EH? Cuando nosotros montamos el primer servidor web, eso era, nos hacían romería para ir a ver el servidor web, pues como se podía, y eso era texto, nomás era una cosa Alba, eso era texto, es un servidor que marlins y ahí lo montamos y los fuimos a funcionar bien, y entonces todo el mundo iba y invitaban a jerry. *Jerry* era el hacker de nosotros y *Jerry* Instalaba todo y era un tipo más amable, más querido que un diablo. Entonces le sellaba todo el mundo y él no le importaba nada y él ahora dejó el imperio del mal. Yo le digo, desde el imperio del mal él trabaja para *Microsoft*. ¿Entonces? No, y lo molesto mucho. Yo tengo muy buena relación con j*Jerry* todavía y con la mujer bonica Machado, y conozco los hijos y él viene a veces y me visita, pero tenemos esa esas conexiones. Entonces instalamos todo. (0:45:15.350) Conectamos todas las cosas nuevas e instalaban todos los servicios nuevos. El el un antecesor del Twitter o del Chat Hd escoger lo montamos los News Group. Los montamos todo eso lo montamos todos esos servicios que fueron creciendo en la utilización, entonces ya los profesores lo empezaron a usar y todo el mundo y todo el mundo, los estudiantes, empecé, ya. Los estudiantes tenían derecho a tener cuentas de Internet y entonces los estudiantes lo empezaron a usar y etcétera. Lo que nos faltaba era la capacidad, más computadores para poder darles acceso a los a los estudiantes. Eso era todo, pero eso fue creciendo considerablemente y todas las universidades de China u*Univalle* se conectaron y por fortuna u*Univalle* estaba estratégicamente con. Ha situado en el sur de la ciudad de Cali, donde está la mayor concentración de universidades de Cali. ¿Entonces, todas las universidades que daban cerquita y todas las universidades tenían línea de vista con con la biblioteca de *Univalle*? Entonces era facilísimo, hasta hasta la universidad hay una sede de la *Universidad del Valle* en San Fernando, y allá la conectamos nos encontramos un huequito por donde pasamos en medio de los edificios y por ahí nos conectamos por por la conexión inalámbrica. Por ahí nos conectamos. YYY bueno, ya después fue evolucionando todo y ya ya cada 1 fue tuvo poder suficiente para manejar y desarrollar. Las os ponéis en el Internet como quería. Pero eso güey, eso yo yo fui a muchas partes a Caquetá, Amazonas a. Ah, no, no, tampoco es parte de arriba aquí. Ah, no, eso es un poco de parte de fuerza difundiendo de p*red*icador de lo que estábamos haciendo.
+
+
+0:47:5.540
+Jaime Humberto Borja Gomez
+Esa es una pregunta. Hay nada, expresión que a veces utiliza *Hugo* sin, y es evangelizador antes de la aparición de los de los prestadores de se Tú sientes yadier, los preguntas, tú sientes que tal y tu trabajo fue como el epicentro de expansión de Internet para el sur del país, es una pregunta. ¿YY lo segundo está vinculado con esto, tú, qué conciencia tenías del impacto que iba a tener Internet en la sociedad? O sea, alcanzamos a vislumbrar, tenías un conocimiento previo de de Suiza, Claro, pero alcanzabas a vislumbrar el impacto que esto iba a tener, EH culturalmente.
+
+
+0:48:0.930
+Gonzalo Ulloa
+Como como dice 1 de los padres de Internet, nosotros hicimos un protocolo y lo pusimos a funcionar y nosotros nunca nos imaginamos que se iba a transformar el mundo. Y realmente eso es. ¿Eso es parte de lo que nos pasó a nosotros, pues sabíamos que era muy importante, sabíamos que era muy importante para la labor académica que nosotros estábamos haciendo, EH? Sabíamos que podíamos hacer muchas cosas, pero no nos imaginamos que cuando eso se fuera, ojo, en esa época, en el 92, Internet se permitió circular información comercial en Internet, antes Internet estaba prohibida la información comercial. Entonces, en esas épocas no se podía, nosotros prohibíamos que mandaran en un mensaje diciendo Vendo mi bicicleta, eso está prohibido y el que le encontramos mesa diciendo vendo mi bicicleta, le suspendimos la cuenta. Así ese punto, pues porque no se podía usar Internet, era un poquito ortodoxos, pues no se podía usar Internet para y eso, y eso era bastante penalizado en Estados Unidos, también porque decía en la *National Science Foundation* nos nos nos financia la conexión a Internet. Nosotros no podemos lucrarnos privadamente de la conexión a Internet, es que no está financiando el Estado y lo misma política la usamos nosotros aquí, ya después, cuando la nacional refundido dijo. Bueno, Internet ha alcanzado la madurez, ya no necesitamos el apoyo del Estado. El Estado suspendió los apoyos, solo dejó unos apoyos muy tangenciales Antes estuvo durante 20 años, la *National Science Foundation*nación ha enfundado estuvo financiando las conexiones de Estados Unidos a Internet, que solo decía conciencia, pero mire que eso lo ha hecho nacional fundado, que son los padres de ustedes. Tienen que hacer lo mismo aquí en Colombia, pero pues tú sabes que planear a largo plazo con eso no existe aquí en Colombia y seguimos en la misma, pues nos planeamos para para mañana.(0:50:10.20) ¿Hicimos eso, la national, segunda guion, suspendió los los fondos, ya le suspendió los fondos? Que nos obligó a todos a que nos falto. Nosotros nos planteáramos solos. ¿Y entonces, Eh? Conecta, pagamos las conexiones. Ahí Colombia empezó con nosotros. Ya pagamos la conexión internacional, no pagamos el puerto, nos tocó pagar el puerto, pero eso era muy barato. Al final eso no era mucha plata. El puerto de conexión a Internet YYY lo y lo seguimos haciendo. Pero nunca nos imaginamos que eso podía. Cuando llegó a las empresas, cuando la gente de las empresas nos empezaba a tener como la las universidades eran los *ISP* en ese momento, entonces nosotros empezamos a dar cuenta. La gente de empresas que era ya venía al exterior y que sabía que era lo que era, Internet y todos empezamos a dar cuenta.Claro que eso era terrible, pues nosotros no. Una universidad pública haciendo Andrei, ese pez, con las dificultades de comprar equipos, se nos quedaban comprábamos un conmutador de para 24 líneas telefónicas y deseó a los a los 8 días estaba lleno y entonces volvíamos a hacer una solicitud, pero la la solicitud se quedaba, se demoraba 4 meses, 5 meses, 6 meses para comprar el equipo, para poder crecer. Lo y entonces los usuarios estaban bravos con nosotros porque no podían entrar. Eso se conectaban la hora. Mikrotik no podía conectarse a las 3:00 de la mañana y a las 3:00 de la mañana estaban ocupadas todas las líneas de la universidad. Todas las líneas eso era una cosa loca. Yo entraba en mi casa, yo entraba por una línea que era privada, que era, pues que la conocíamos nosotros, unos poquitos, pero no era pública. O sea, que para poder estar conectado, para poder saber qué pasaba, lo mismo que *Jerry*jerry para poder administrar los equipos y todo. ¿Bueno, nos tocó administrarlo a nosotros así y qué vamos a hacer? (0:52:6.170) Eso es ahí salimos al fin, al fin y al cabo, salimos, resolvimos todos los problemas.Las universidades empezaron a aparecer, los primeros prestadores de servicio de Internet, que somos un alivio para la universidad porque eso era insostenible la situación. La universidad tiene una estructura, eso no es comercial, eso no tiene moja y no teníamos agilidad. ¿Hacía pública o privada, eso no importa, eso no había agilidad para comprarlos? Cómpralo equipos y en y manejar las cosas a la velocidad que el mercado lo lo necesitaba entonces. Fuimos entonces aparecieron los primeros *ISP*y ese pez que tu estas cosas fueron, perdón, fueron manejados por estudiantes de nosotros. ¿O egresados de nosotros? ¿Qué fueron los administradores que lo montaron? Hay un capitalista que que llegó, hijo, ya yo tengo plata, montemos una cosa. Esa y yo digo yo, lo monto y lo montaron, lo montaron. Comprar unos canales y hicieron todo. Ya estaban capacitados, ya lo estaban, ya lo habían hecho en la universidad, entonces lo fueron a hacer empresas privadas. Así así apareció telesat allá col col. Satya es un poco de *ISP*de ese mes, por lo menos aquí en el Oxxo, en el suroccidente, y se lo llevaran ahora buena parte de esos muchachos están viendo en Estados Unidos y trabajando en compañías de *Telecom*unicaciones, entonces. Eso es una época que para para mí fue muy buena. Y, sobre todo, muy, muy gratificante. Ver estos muchachos saliendo de arancha, empoderándose como lo logramos, que lo hicieran entonces. El, pues lo hiciese, pues empezaron a surgir y ya 1 empezó a comprar conexiones de Internet para las casas, porque tanto todavía era por *modem*, no era por *banda ancha*, no era por *modem*. 
+
+
+(0:53:55.730) yo posteriormente me fui. En la *Universidad del Valle*universidad, vaya, ustedes saben en el 90 y. 6, 97 cm. Una crisis financiera tremenda. ¿Entonces me ofrecieron un puesto por por fuera de la universidad y yo dije con mucha tristeza, yo me tengo que ir de aquí a la Universidad, sobre todo que yo veía como robado en La Plata, EH? Yo dije, no puedo estar de acuerdo con que se roben La Plata de esa forma, y entonces yo no sigo participando en esto porque me querían hacer firmar cosas y contratos con tipos que de dudosa ortografía no, no era terrible. Entonces yo me fui. AAA trabajar a una empresa de *Telecom*unicaciones que también la vi con mucha visión porque era una empresa que estaba montando *banda ancha* en Cali. Conexión de *banda ancha* en Cali.Que eso no existía. ¿La única empresa de cable en Bogotá, que eso existe todavía? TV cable. No, ya no existe.
+
+
+
+
+0:54:46.910
+Laura Viviana Manrique Gomez
+No, ya no, ya no.
+
+
+0:54:47.860
+Gonzalo Ulloa
+¿No? Ah, bueno. del cable en Bogotá estaba también montando el problema, línea y yo monté al proyecto de *banda ancha* en Cali de todo el montamos *banda ancha*. Eso era un sueño, pues tener nosotros trabajamos en ese momento 9600 1000 por segundo. Ahora nosotros montamos conexiones AA 20 megabytes, 30 megabits por segundo, qué es lo que más o menos ahora sé que 1 puede tener un poquito más, pero pero pero a 30 megabits, eso es eso, era la Revolución en mi casa porque todo el mundo iba allá.nConectarse a Internet. Hacían tareas, mis, sí, mis hijos, mi sobrino, los compañeros de mis hijos. Es una locura porque tengo una conexión de *banda ancha* por Califa, yo sí decía hablar condiciones que yo tengo, tengo en la primera conexión aquí en Cali, de *banda ancha*, entonces yo tenía la primera conexión de *banda ancha* en Cali, en mi casa y entonces, y eso fue una época que ya cambió la perspectiva. Ya no salimos de la *red* telefónica y entramos con ediciones dedicadas de de alta capacidad. Ya es la primera de una tecnología rudimentaria todavía que hoy está desplazada por la *fibra optica* ADSL. ¿Después y después, *fibra optica* qué es lo que tenemos hoy?
+
+
+
+
+0:55:55.710
+Laura Viviana Manrique Gomez
+Gonzalo, quisiera hacerte una pregunta sobre el tema de las seguridades, EH? ¿Cuando recuerdas que comenzaron a suceder, Eh? Eventos de seguridad de jakers de personas que querían intervenir, llegar a los servidores, dañar. ¿No sé recuerdas esos primeros?
+
+
+0:56:13.860
+Gonzalo Ulloa
+Uy sí, buenísimo, sí, sí, sí, sí, Claro, como no lo ha recordado que con unos estudiantes de *Uniandes*unidades te lo hicimos a expulsar. ¿Claro, entonces había una guerra entre los estudiantes de u*Univalle* y los estudiantes de *Uniandes*unidades, como lo hizo antes de u*Univalle* estaba manejando los servidores, los de *Uniandes*unidades querían entrar a los servidores a piratearlos entonces entonces? Yo tenía un muchacho que el alumno mío era muy inquieto, pero era de esos que es lengua negra. Es horrible, todo le parecía mal. Hoy nos criticaba todo el tiempo, le dije, Mira, Gustavo, en esta en Estados Unidos, Gustavo, Mira lo puedo mencionar. Como puedes ver, no importa, el sabe, usaba reto, le dije Gustavo Mira en vez de criticarnos, ayudarnos. Sí, ayúdanos sentate a trabajar con nosotros en vez de estar criticando, Eh, es que esto no funciona, es que se les cayó. Es que tiene un hueco de seguridad, no hay que ayúdenos, entonces se volvió nuestro oficial de seguridad y él era muy inquieto en el tema de seguridad. Entonces se dedicó a perseguir a los *Uniandes*dirigentes que querían entrar a los servidores de nosotros. Nosotros llegamos servidores bien, bien configurados, pero de todos modos teníamos huecos de seguridad. Entonces Gustavo los pilló, le hizo la perseguidora y los pilló, y recogió pruebas para y lo mandamos a *Uniandes*unidades.¿Y allá como que le hicieron un proceso disciplinario y le expulsaron a los muchachos, yo no soy partidario de expulsar un muchacho cuando seas travesuras, porque todos los todos los que hicieron Internet hicieron travesuras, todos fueron inquietos y eso es una muestra de la inquietud de un muchacho, EH? Eso es más bien una muestra. (0:57:58.580) Yo tuve un muchacho que yo lo expulsamos de la universidad, yo era el decano de ingeniería, ni sé si y yo escuchamos de la Universidad porque hizo un fraude, se le metió al computador de un profesor y le sacó un examen? Pues sí, pero el profesor tuvo la culpa de arese. El examen está bien que sancionemos lo, pero no lo expulsamos de enero, un muchacho brillante. Nadie había ocurrido que él podía entrar por ahí. Puede ser o entró y se y lo y lo pirateó. Y hoy en día tiene una compañía en Internet, no se graduó, no se graduó en nada y se de una compañía. ¿Es servicios de Internet? ¿Sí, YYY es un tipo villa y un tipo sigue siendo un tipo brillante, una autoridad? ¿Te brillante, sí, entonces, como vamos a echar esa gente, entonces les digo en esa, en esa, en esa, en esa situación, ustedes AA Steve Wozniak los hubieran echado de la universidad, EH? A Steve Jobs hubiera echado bueno, Steve Jobs me hizo travesuras. Pero si ellos se retiró muy temprano, pero estoy bonita, así lo echaron, lo lo cogieron pirateando la *red* telefónica YY haciendo la caja azul para hacer llamadas internacionales, pero todo el mundo hace esas travesuras. Larry Ellison de Oracle, también todos. ¿Entonces, cómo vamos AA cortar la creatividad de la gente? Entonces yo sí soy muy liberal en ese sentido, hay gente más conservadora, pero no pude ganar en mi sexy no pude ganar. Todos lucharon, intenté que lo repitieran. No, no fue posible, pero bueno, lo lamento y sigue siendo, amigo mío. Ahora somos fotógrafos de pájaros ambos y nos vemos en el campo. Pero tengo buenas relaciones con ellos. Y con Gustavo Arrieta, que es el hijo, el muchacho, este que nos hacía travesuras, pues Gustavo, muy querido, pues es medio hijo mío, hijo putativo.
+
+
+0:59:53.300
+Jaime Humberto Borja Gomez
+¿Y Gonzalo, te hago dos preguntas a propósito, que está mencionando un dentro de las universidades *Icesi*e hice sí, a veces aparece como también precursora de este proceso, tu sabes algo del vínculo que tuvieses y tempranamente con el desarrollo de Internet? Esa es una. Lo segundo es en el diseño de las primeras páginas web, porque una cosa es tener Internet, otra cosa es cómo aprender a manejar la web y el diseño de las primeras páginas. ¿Es tienes alguna información de Eh? Cómo se conceptualiza AA tener contacto con HTLM para el diseño de las primeras páginas web, que creo que las primeras fueron en u*Univalle*, de hecho en y bueno deja te dejo esas dos preguntas, pero pronto no sé si Laura también quería hacer una.
+
+
+1:0:44.320
+Laura Viviana Manrique Gomez
+No, no. 
+
+
+
+
+1:0:44.890
+Gonzalo Ulloa
+¿No? Bueno. Sí, *Icesi*y sexy, tu conexión realmente en *Icesi*mi cel si han sido relativamente inquietos o yo no. Yo tenía una referencia muy vaga, dice sí, yo solamente había ido dos o 3 veces a dictar unas conferencias. Había, dices, y yo no conocía, y sexy no sabía nada. ¿Yo sabía que era una universidad privada, pero yo era profesor de una universidad pública puro y duro, EH? ¿Entonces yo decía, entonces yo decía, no, yo no voy allá y yo bueno, el hecho es por Internet y un profesor que fue profesor de electrónica mío en u*Univalle* que él se fue después de retirar jubilarse, se fue a trabajar y se empecé vínculos con *Icesi*C Sí, entonces les ayudé, les di conferencias, les dimos clases, el le dimos, les ayudamos a que le conectaran al *nodo*al no de u*Univalle* y ellos empezaron a montar una *red* pequeña, Eh? Evidentemente, con el dimensiones muy distintas, porque ni sé si en esa época tenían solamente una carrera de ingeniería de sistemas. ¿No tenían más, Eh, entonces? El pues, la situación era así y ellos fueron muy inquietos. Siempre entonces, después la relación se estableció cuando yo, después de pasar por la empresa privada estar como 6 años en la empresa privada montando conexiones de *banda ancha*, me aburrí de estar allá en el mundo comercial o ni como comercial, pues me decía. ¿Industrial YYY estuvo y por un amigo me vinculé con izzy, un amigo que desde la Junta Directiva de *Icesi*decir Consejo Superior me dijo, Por qué no te vas? ¿Parece, y yo le dije Ah, pero bueno, y entonces hablé con el rector de la universidad, quiero a Francisco Piedrahíta en ese momento YY Francisco me convenció, yo tenía referencia con Francisco, ya lo había conocido y Francisco me contactó y me ofreció que me fuera a trabajar y sabes? YY desde hace 2121 años o 22 años me fui a trabajar y se sí a la facultad de ingeniería. ¿Y esa raíz también es que mi hijo se graduó del colegio y entonces yo dije dónde lo va a mandar? ¿Yo le dije, lo voy a mandar a un y A*Uniandes* a estudiar, pero por qué lo va a mandar? Guion de estudiar si hay buenas universidades en Cali, que no sé qué, que no sé cuánto. Yo le dije porque yo no conozco ninguna que sea buena, me dijo, No, ni sé si le dije no, todavía no creo que sea buena. Entonces andate a trabajar allá esa abuela, entre otras cosas. Eso fue el camino, más o menos por el cual llegué y me dijo, empezó a estudiar*Icesi*.. O sea, logramos bajar las tarifas 10 veces, porque antes le cobraban según el marrano a todo el mundo. Entonces a ciertas universidades que tenían más capacidad de negociación, les cobraban menos, a las universidades que tenían menos capacidad de negociación, les cobraban más. Entonces hicimos un broker y negociamos un paquete y fuimos… Un momento, yo no me acuerdo de las cifras. En ese momento fuimos el comprador más grande de Internet que había en Colombia. Entonces, claro, los profesores tenían que bajarnos las tarifas, y comprabamos el internet mas barato que todo el mundo. Y ese modelo se extendió por otras partes y lo hicieron y lo hicimos. Y lo y lo publiqué y mostramos, como las los, las, las *RFP*, las las especificaciones para contratar los canales y todo se las publicamos a todo el mundo. Eso era público, así como Internet. Yo era muy del espíritu de de Internet, entonces todo era público y todo le entregaba en la información, le entregamos la información porque la información para que la tenemos guardada y eso favorece a todo el mundo. Todo lo hicimos. Bueno, qué otra pregunta.
+
+
+1:7:59.547 
+Jaime Humberto Borja Gomez
+Lo del diseño de las páginas web.
+
+
+1:8:2.227
+Gonzalo Ulloa
+Ah, las páginas web. Bueno, nosotros en el. No me acuerdo en que año que nació Kimberly Kimberly hizo la primera muy rápido. Eh, muy rápido, montamos los servidores de las páginas web que realmente eso de XM, de XML había muy poquito, pues era un lenguaje todavía incipiente. Que y se empezó, o sea al principio. Se podían insertar imágenes, pero no habían imágenes como tal, como ahora ya he escrito, no existía nada. Existía, esas cosas eran muy muy rudimentaria, pero para 1 era una maravilla poder tener un texto y poder clicar sobre un enlace y caer en otra página y navegar sobre una *red*, como fue la idea inicial de Tim Berners Lee. Entonces empezamos AA formar estudiantes para que aprendieran a usar HTML muy, muy rudimentario. nPrimero, casi a pie, o sea, codificando a mano. Ya después empezaron a aparecer programas que permitían generaban el código automáticamente como dos programas de *Adobe* y todas esas cosas. Entonces empezamos a montar los las páginas montadas en *Adobe* y ya los diseñadores gráficos se empezaron a interesar. En estas cosas tuve mina, de la cual tan increíble tenía una comunicadora social que me ayudaba en la universidad. Le dije, mira metas en esto, que esto va a hacer la Revolución del mundo no es que yo no sé qué, estoy muy arriesgado, no es que no quiso hacerme cargo después Claro, y después eso explotó YY ya todo el mundo aprendió a hacer esas cosas y muchos diseñadores. A dieron hacer unos mejores que otros, pero aprendieron a hacer páginas web YY se desarrollaron YYY ya mucha gente diseña páginas web bien YY pues 1 tiene que darlas, los criterios que 1 tiene, porque ahí todavía muchos errores, yo estaba ahora haciendo papeles de declaración de renta y yo me santiguo esas páginas tan horrible, sí hay un conocidísimo, o. Anco no, no tienen los criterios mínimos para que una página web sea compatible. Yo soy mackintosh, yo soy yo. Uso, macintosh. ¿Y entonces juepuchas, qué problemas tiene? ¿1 porque todo lo hacen pensando en *Windows*, que eso es lo único que existe en el mundo y entonces? Pues no funcionan los solicitudes, que 1 les da el banco, no funcionan y necesitan entrar en una máquina *Windows*. No, no, eso es lo más horrible. ¿Eso es descuido el banco, descuido del banco y no probar que las que las cosas funcionen en todos los navegadores  (1:10:40.187) y como una guerra nos dice, ustedes saben una guerra entre *Microsoft* y Mozilla? Y Oh Seguro se volvieron más Incompatibles todos. Entonces, cada vez que hacen cosas que se cierren más el mercado, aunque eso la idea es que eso se sabe, se ha abierto y que sea todo funcione con todo, pero no, eso es eso todavía, todavía no estamos allá, por lo menos los que funcionan en el mundo de *Windows* todavía viven muy cerrados.
+
+
+1:11:15.797
+Laura Viviana Manrique Gomez
+Gonzalo este yo ya se nos acabó el tiempo, pero quería hacerte una última preguntita si nos regalas unos minutos más y es. 
+
+
+1:11:23.37
+Gonzalo Ulloa
+Se lo se lo vendo, hombre, como le ocurre, no tengo tiempo, estoy, estoy, tengo tiempo, estoy de estoy desocupado.
+
+
+1:11:31.327
+Laura Viviana Manrique Gomez
+Muchas gracias. Es con respecto al *hitec, al al al papel del Itek en su formación de técnicos hay u*Univalle* como estaba. Ustedes forman profesionales y también técnicos de alguna manera, porque se requería gente que también hiciera todos estos temas técnicos, no solo ingenieros, por supuesto.
+
+
+1:11:49.67
+Gonzalo Ulloa
+Sí, no dice no, eso, ni el *Sena ni el *itech elite, que eso es manejado por *Telecom* y eso estaba en el siglo pasado. Tele telefonía a larga distancia era lo único que les importa, es el que le da La Plata, por lo menos en la referencia que tengo yo. Yo no vi ninguna ninguna. A referí, decía del itech. Hay allí el *Sena ha debido coger el liderazgo, pero el Sena lo cogió muy tímidamente. Empezó a formar gente, pero muy tímidamente. Yo le digo porque cuando yo fui AA trabajar en la empresa que estaba montando *banda ancha*, nos tocó capacitar a todos los técnicos, a todos los formatos, cogíamos técnicos del *Sena. ¿De decíamos, bueno, afortunadamente no tenía ninguna información de parte del tema del Sena, entonces lo formamos de cero, EH? Y de cero para enseñarles a instalar *red*es de *banda ancha*. R*red*es de brotan. Entonces lo formamos a todos en la compañía, nosotros lo que hicimos fue formar mucha gente, muchos técnicos, entonces eso fue realmente eso, eso no tuvimos. Lo que tratamos de formar son los mejores profesionales. Igual formaban los técnicos YY eso fue lo que hicimos afortunadamente, pues. Bueno, tuvimos, tuvimos escasez de gente porque estos muchachos, todos, se cotizaron enormemente enormemente, todos los muchachos tienen trabajo y tuvieron trabajo y yo le digo cualquier muchacho que se meta en una cosa de esas, en una tecnología nueva, novedosa, eso es eso, es futuro para ellos, eso es tiene el futuro asegurado. Entonces, pues ahí van ahí, ahí fuimos, ahí, fuimos bien, pero pues vamos lentamente, pero vamos.
+
+
+1:13:40.617
+Laura Viviana Manrique Gomez
+Gonzalo y como para profundizar en este tema, un poquito de la educación, cómo cambio esta formación de los ingenieros en en el momento en el que comenzaron a explotar todos los temas de *red*es, interconexiones y se requería más ingenieros, seguramente, pero a nivel académico, usted como profesor, como cambio de pronto los programas o la universidad como cambio, los programas, la los temas en los que deberían capacitarse los los ingenieros que están formándose en ese momento.
+
+
+1:14:11.867
+Gonzalo Ulloa
+Sí, Eh, bueno le voy a contestar en dos partes. La primera es que pues metimos. Eso tuvo impacto en necesariamente en los currículos tanto de *Univalle* como *Icesi*dice. Evidentemente yo me fui. Pizzi ya ya había permeado eso y ya se había, entonces yo fui a dictar el curso de *red*es de comunicaciones en la universidad *Icesi*y sencillo, voy a dictar en, pero también en otra cosa, también muy importante, lo importante, lo más importante es no eran al final no son los contenidos. Lo más importante una de las cosas que aprendí con la madurez es que lo más importante son las competencias. O sea, de qué es capaz de hacer un muchacho después y que no tanto lo que sepas, sino que es capaz de hacer y nos enfocamos mucho en formación por competencias. Entonces para eso, para eso nos pusimos AAA transformar los currículos para que los I enseñarle a las profesoras a que trabajaran, y que evaluarán las competencias Sí, porque eso también es difícil. Los profesores no saben muchas veces evaluar contenidos, pero no saben evaluar competencias, pero eso quiere que le repita. Una estudiante le repita lo que él dijo en clase y normalmente lo que necesitamos es que el estudiante entienda y sepa hacer más allá de lo que es lo que hizo el profesor, y eso es lo que está, hemos estado tratando de hacer, por lo menos en *Icesi*CE. Sí hicimos eso. Por otro, tenemos bueno ustedes también, pero nosotros tenemos ac*red*itación. Hey, Betty, todas esas cosas, ya no que lo que hace *ABET*el betis. Evaluar las competencias básicas de un ingeniero Claro es una cosa muy, muy básica, sí, pero de mínima. Yo le digo, no se hagan mucho, no echen mucho pecho porque *ABET*algo a lo mínimo, lo mínimo que necesita un ingeniero, eso es la raya por debajo. Después, ya por arriba, mejor en todo lo que quieran, pero la red por debajo de pena. Estamos tratando de alcanzar la raya por debajo de las competencias mínimas que me quiero en inglés, pues ya los alcanzamos yo creo que ya hemos hemos mejorado mucho en ese sentido, si hemos mejorado con respecto a la universidad que me tocó vivir a mí. ¿A mejorado mucho la enseñanza universitaria y los currículos universitarios, EH? Porque ya los profesores son más conscientes de lo que enseñan, de lo que va luan. ¿Cómo los evalúa? ¿Los cómo evalúa los estudiantes para que no repitan lo que hace el profesor o el paro? Para profesores antiguos yo no sé en *Uniandes*unidades como será para los profesores antiguos el que le copiaba al pie de la letra el profesor a veces acaba 5 y sin saber que probablemente no había probado el CPU, no había procesado nada, pero no importa. Con tal de que dijera lo que el profesor sabía, lo que lo que lo que había dicho está bien, está bien, eso acaba bien, pero no aquí los estudiantes tuvieron que hacer y vivir. Una de las cosas que hicimos por Internet es que le entregamos los estudiantes del poder de hacer eso y les explicamos, y bueno, capaz de hacerlo y aprendieron. ¿Se equivocaron muchas veces? Sí, Claro, pero pero, pero salimos adelante. Salimos adelante y se formaron bien y yo creo que esa época, esa formación dejo muchacho fue muy buena.
+
+
+
+
+1:17:29.807
+Laura Viviana Manrique Gomez
+Gonzalo, pues muchísimas gracias, hime, no sé si tienes alguna última pregunta por hacerle a Gonzalo.
+
+
+1:17:42.397
+Jaime Humberto Borja Gomez
+Una sola, Gonzalo en si tienes nombres de otras personas que tú conozcas de este periodo, te lo agradeceríamos muchísimo. Lo segundo si tienes documentos, papelitos, una servilleta con anotaciones, lo que tengas que no lo puedas. Que no lo puedas prestar, no sé de pronto cartas guardadas porque 1 de esos guarda cosas que no sabe el valor que tiene para reconstruir un proceso. Si llegas a tener alguna información tanto en hombres como personas, se lo agradecemos muchísimo. Lo segundo es lo segundo. ¿Es estamos pensando hacer un evento para celebrar los 30 años el próximo año, Eh? Nos encantaría de que nos pudieran acompañar, así sea virtualmente no, no tenemos idea. Diseño del del evento pero si queremos hacer algo, precisamente para celebrar estos este proceso, el próximo año se celebra serían los 30 años. ¿Entonces, estarías invitado desde ahora?
+
+
+1:18:44.397
+Gonzalo Ulloa
+No,  con mucho gusto, me encantaría volver a ver a todo el mundo aquí. A **Clemente* Forero* que yo cuando lanzaron el libro, por ejemplo yo estaba en Europa en ese momento y yo no, yo no, yo no. Yo no pude asistir a la la sarmiento, Libro me dio mucho pesar no haber encontrado con *Hugo* y con *Gonzalo Romero* ni con **Clemente* Forero*clemente Forero ni con todos esos viejos amigos, pero pues EH. En el libro le digo de documento en el curioso mente, yo no me acuerdo, si es eso, yo voy a buscar yo en una Navidad inquieto por eso tratamos de con una niña que trabajó con *Inter*red**Internet, tratamos de volver a establecer el Grupo, digamos el grupo gestor chiquito, que era *Hugo* *Gonzalo Romero*. *Antonio Restrepo* y yo tratamos de reconstruirlo. Al final nadie colaboró, nadie participó nada. Entonces yo en una Semana Santa yo estaba en la finca y me senté a escribir y a los dos días tenía más o menos la historia desordenada, pero me sentía, le escribí con una cosa de unas 10 páginas sobre lo que yo acordaba de Internet. Ese papel dio la vuelta al final. ¿Este periodista, el tiempo lo publicó en el libro en un capítulo del libro, Eh? ¿Un capítulo del libro, está está ese ese, pero no le Quito una coma? Mi redactado, bien *red*actado, más *red*actado. Yo se lo mandé porque yo dije, bueno, yo tengo esto, a ti también me pidió como usted, yo le yo tengo esto aquí, otra perdón. Yo traté, no está acostumbrado a hablar mucho, entonces ya no doy clase, entonces.
+1:20:27.297 --> 1:20:27.457
+Jaime Humberto Borja Gomez
+Sí.
+1:20:29.457 --> 1:20:29.747
+Jaime Humberto Borja Gomez
+¿Eso?
+1:20:30.517 --> 1:20:35.807
+Gonzalo Ulloa
+Entonces vi entonces, yo le dije, yo tengo esto y le mandé el archivo bruto. Y él lo cogió y lo publicó tal cual. 
+
+
+1:20:39.227
+Jaime Humberto Borja Gomez
+Si lo tienes, te lo agradeceríamos, si nos lo puedes prestar.
+
+
+1:20:43.827
+Gonzalo Ulloa
+Eso sí, eso sí, lo debo tener. Tengo una foto que puede ser interesante para usted, que es la foto que nos tomaron en *INET*ainet en el 93 en octubre del 93 es está en mi Facebook, tal vez ahí lo puse, ahí está, ahí se aparece *Gonzalo Romero*, *Maria Emilia Correa* y aparezco yo en esa foto *Hugo* no estaba ahí, no sé por qué no está, creo que hay 1 de c*Colciencias* debe estar, pero yo no me acuerdo de ellos, así ya después de tantos años. Ah, pero pero sí está en esa foto, estaba. Estaba con Salo, María Emilia YYY estoy yo. Sí, estamos de expresos en una grupo grande de *INET*Inés 93 YY tiene el letrero de Inés 93. Que bueno, que estuvimos en parte de los que estuvimos en *Stanford*, que eso fue, digamos para mí, eso fue el evento más importante que porque logramos, logramos. ¿Qué por lo menos la Directiva de *Colciencias*conciencia se diera cuenta de la importancia de lo que estaba perdiendo el país? Qué fuera muy importante para nosotros era muy importante lograr que por fin se desbloqueara la situación. No te decía 1 de Internet este Ay, se llama bueno, me acuerdo que estás gordito, ya estaba sordo en ese momento y ya está, ya está. Está muerto. 1 de los creadores de Internet. ¿Si no me acuerdo, cómo es? ¿Cómo se llama ahora? Pero no te decía, es increíble. No puedo entender que ustedes, ustedes teniendo el canal, no lo hayan usado, tiene una conexión a Internet, no lo hayan usado, que no se pongan de acuerdo. A mí, pónganse de acuerdo y nosotros conectamos, pero es que *Telecom*, por un lado la universidad nacional, por el otro *Uniandes*unidades, por el otro, por eso formamos la corporación esa *Inter*red**Internet, porque necesitamos ser una voz frente a Internet y eso es lo que nos pedían los de la *Internet.Society*, pónganse de acuerdo ustedes en Colombia, usted ni siquiera se ponen de acuerdo, es que la guerra de nosotros no. No, no, no empezó de 50 años, pero vos seguido como en guerras. Así chiquititas YYYY, eso es parte de lo que nos pasa a nosotros.
+
+
+1:23:5.867
+Jaime Humberto Borja Gomez
+Gonzalo, te agradeceríamos infinitamente esa información. Y de verdad estamos muy agradecidos por esta entrevista. Esperamos si en algún momento tenemos alguna pregunta, esperamos que nos puedas ayudar si llegas a tener un momento más de tiempo.
+
+
+1:23:23.507 
+Gonzalo Ulloa
+Sí, sí, Claro, no hay problema.
+
+
+1:23:26.477
+Jaime Humberto Borja Gomez
+Perfecto.
+
+
+1:23:27.357
+Gonzalo Ulloa
+El documento, pero yo anoto porque no me olvido. Ese si lo debo tener el documento sí, lo tengo porque lo hice reciente, digamos hace unos 8 años, pero esos archivos no me pierde papá, es que los otros documentos sí.
+
+
+1:23:46.727
+Laura Viviana Manrique Gomez
+Y la foto también.
+
+
+1:23:48.357
+Gonzalo Ulloa
+La foto sí, no está, está en un disquete. ¿Estaban en disquete ¿Usted se imagina un disquete, un disquete? Lo que había de de 3:30 pulgadas no, eso no lo lee nadie allá y no habían capacidad de almacenamiento grande ni nada. ¿No había nubes, no hay nada de eso entonces? Pues eso es eso. ¿Es en alguna parte, en un backup no se perdió? Yo no, no, muchas veces no tiene tiempo para yo no tengo esa esa mente. Historiador para para. Para para recuperar todas esas cosas ni ni ponerles fecha ni todas esas cosas. No tengo, no tengo esa ese espíritu, pues aunque hubiera sido bueno, yo creo que es parte de lo que yo le digo a los estudiantes. Es parte de lo que usted tiene acostumbrada a abordar, una bitácora que eso los científicos saben hacerlo muy bien, mi señora salió al campo y llevaba una libreta y anota todo lo que pasa. En qué bus Cogimos que hicimos qué dos del transporte, quién es el señor del transporte, cuánto nos contó todo eso lo nota y yo, entre otras cosas. Yo agradezco mucho que yo ahora estoy pateando viendo pajaritos, pues porque estamos en una zona muy rica de pajaritos y tomó fotos, y entonces yo ahora no. Yo agradezco mucho un un libro que escribió Jungle Becker 111 belga, sobre su recorrido en Colombia, para ver pajaritos y para mí es utilísimo porque aunque está desactualizado es buenísimo, todos los sitios con todo, donde llegó. ¿A qué posada está?  ¿Cómo? ¿Cómo lo trataron? Con la comida fue buena, si le cayó bien, si no le cayó bien todas esas pendejadas que puede ser muy triviales. Pero para una persona que nunca ha dicho, eso es valiosísimo. Entonces yo empecé a pajear con ese libro de Young Albercas. Sí, entonces sí, yo ahí estoy, me fui a tal parte y allí nunca. Él dice esto, esto esto y esto y estoy ya, y seguir pateando ya eso. Ese mercado se ha desarrollado muchísimo aquí en Colombia, no ya eso ya ya, eso es, pero cuando yo empecé a patear asi con unos 7 años o 10 años ya no había nada, entonces había que empezar AA buscar AA tumbar monte. Sí, y buscar la gente que ya sabía, sí, pero 1 era demasiado inexperto porque no para meterse con esos que sabían entonces. Ahora me divierto mucho, esa es mi diversión. Cuidar al nieto YY tomarle fotos a los pajaritos. Entonces eso, eso eso hago, pero pero, pero sí, ese es hábitat. Hora es importante para los muchachos, para que que guarden esa información. (1:26:24.737) ¿Lo único me arrepiento, sí de que no hicimos, EH? No hicimos y no lo no lo guardamos, no guardamos registros. ¿Pero bueno, qué vamos a hacer? Y cómo cambiaron los medios, los medios de almacenamiento cambiaron por ahí contra unos discos de de 100 megabits por segundo. ¿Me escuchas? ¿Quién va de 100 megabits? ¿Perdón, quién va a leer ese disco? Pon una interface rarísima. No, no, no, que yo tenía en Suiza, por ejemplo, me trae bandas magnéticas de Suiza con sistema operativo. No, eso no lo lee nadie. Hoy en día es que eso es un problema del que conserva la información. ¿La ventaja de papeles que no se degrada con el tiempo, se mantiene? Sí o se degrada muy poquito con el tiempo, el problema con él, los alemanes, medios de almacenamiento digitales que se degrade con el servicio absolutiza. Ya le pongo la entidad, yo le doy un dividió a usted y probablemente hay algunas computadoras, yo ya no tengo computadoras que tengan lector de dividir, tengo un lector de vida aquí tirado por aquí, pero pero, pero yo no tengo computadoras que le dan dividís y eso ya ya que no lo tenga en la noche perdió, estoy almacenando las fotos de familiares también en la nube porque se me pierden, se me daña un disco duro y se me pierden. Entonces no es parte del eso, es parte de lo que estamos tratando de hacer, pero bueno, pero hay que formarlos, muchacha.
+
+
+1:27:47.667 
+Laura Viviana Manrique Gomez
+Exactamente. Pero de todos modos, si encuentra  algún tipo de esta información. De pronto del informe que preparó para *Colciencias* en su momento para convencerlos.
+
+
+1:27:58.637 
+Gonzalo Ulloa
+Uy, no, eso sí, no.
+1:28:0.917
+Jaime Humberto Borja Gomez
+Así lo tenga en tecnología obsoleta podemos hacer algo.
+
+
+1:28:8.97 --> 1:28:12.507
+Gonzalo Ulloa
+¿No, pero usted cree que yo voy a encontrar el informe? Yo me he trasteado 3 veces cuando yo llegué de Colombia, me he trasteado 3 veces a Colombia, me tratado 3 veces, mi mujer es obsesiva con el orden y con las cosas que no sirven y entonces me vota todo. Sí entonces, si hasta las camisas me las botas, me las camisas me las esconde. Y a los 3 meses no he pedido por ella la bota. Sí, entonces, ya cuando voy a buscar la camilla no ya, uh, la regalamos. Muchas veces los papeles con los papeles pasa eso, como ya dejé la universidad, ya dejé todo mi oficina en la universidad. ¿Entonces, no, yo votamos cosas, qué me voy a estar, qué voy a guardar todas esas cosas? ¿No? Pues no, pero yo yo sí. En esa búsqueda la hice ya cuando cuando es que de Internet, la *Internet Society* me contactaron precisamente para preguntarme eso que estaban escribiendo a otras cosas. Busca en *Internet Society*esos ariete, debe haber, debe haber una historia porque ellos estaban con un proyecto en *la Nacional 6 Foundation*. Estaban escribiendo una historia de Internet para los países de desarrollo y creo que escribieron algo sí, a mí me contactaron y tuve una entrevista. Estuve conversando con ellos, pero después no supe nada más.
+
+
+1:29:30.937 -
+Jaime Humberto Borja Gomez
+Muy buen dato.
+
+
+1:29:41.37
+Gonzalo Ulloa
+Porque yo sé que me entrevistaron. Entrevistaron a *Hugo*, entrevistaron a j*Jerry* de rata, entrevistaron a *Gonzalo Romero*, yo sé que lo hicieron porque yo les di los datos y yo YY ellos me dijeron que ya habían entrevistado alguno.
+
+
+1:29:56.577
+Jaime Humberto Borja Gomez
+Bien.
+
+
+1:29:56.997
+Gonzalo Ulloa
+Yo son de Estados Unidos. Entonces cualquier cosa, yo ya tengo anotado, yo te lo mando.
+
+
+1:30:4.877
+Laura Viviana Manrique Gomez
+Gonzalo, justamente, de pronto tendrá la información de estas personas que lo contactaron allá de la *Internet. ¿Society* o el correo electrónico alguna cosa?
+
+
+1:30:13.647 
+Gonzalo Ulloa
+Oh, pues vamos a ver si ha sobrevivido tantos cambios de celulares. Sí, eran unas personas de una universidad en Estados Unidos. Pero bueno, yo la voy a buscar y se lo mando.
+
+
+1:30:29.427
+Jaime Humberto Borja Gomez
+Bueno.
+
+
+1:30:28.847
+Laura Viviana Manrique Gomez
+¿Quizás que esto es muy un poco más reciente, Gonzalo nuevamente, muchísimas gracias por atender nuestra llamada, nuestra invitación y tal como, pues Jaime, te te comentó? Entonces se muy pronto, te estaremos contactando nuevamente, esperemos que puede que para más preguntas, pero sobre todo para poderte invitar formalmente a nuestro evento del próximo año en de para celebrar todo este tema.
+
+
+1:30:54.997 
+Gonzalo Ulloa
+Con mucho gusto.
+
+
+1:30:55.257 
+Laura Viviana Manrique Gomez
+Muchas gracias, Gonzalo.
+
+
+1:30:56.217
+Gonzalo Ulloa
+Bueno, no, muchas gracias a ustedes y bueno, que les vaya bien. Espero que haya sido Claro y cualquier pregunta que tengas me la hacen.
+
+
+1:31:2.767
+Jaime Humberto Borja Gomez
+No consigo gran conversación. Muchísimas gracias de corazón. Ha sido con mucha riqueza y nos aclara muchos de los temas que tenemos en mente y nos pones otros además.
+
+
+1:31:20.507
+Gonzalo Ulloa
+Bueno, bueno, muchas gracias. Hasta luego, chao chao.
+
+
+1:31:23.627 
+Jaime Humberto Borja Gomez
+Gracias chao, nos vemos, que estés bien, chao.
+.

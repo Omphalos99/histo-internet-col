@@ -1,0 +1,389 @@
+﻿Entrevista Historia del Internet Colombia Uniandes Claudia Sastre-20230824_070455-Meeting Recording.mp4
+
+
+María José Afanador Llach [00:00:02] De humanidades de un campo que se llama Humanidades Digitales. Aunque soy historiadora de formación. Con Jaime llevamos ya desde el 2019 con un semillero de investigación que se llama Historia y Humanidades Digitales, en donde encontramos un tema importante del cual no encontramos mucha información que tiene que ver con la historia del Internet y la web en Colombia en su primera etapa, a finales de los ochentas, primera mitad de los años 90. Venimos trabajando en hacer un rastreo de fuentes para el caso colombiano, también latinoamericano, pero ya nos estamos concentrando más en esos inicios de los primeros años del Internet y de la web en Colombia. Es un proyecto que nos interesó, primero porque hay un vacío grande. El próximo año se cumplen 30 años de la primera conexión oficial de Colombia al Internet y estamos pedaleando la investigación también de cara a tener un evento donde podamos también celebrar, recopilar y reconstruir aspectos de esta historia que está, como te digo, muy fragmentada. Entonces decidimos que la metodología inicial con otras paralelas iban a ser las entrevistas o historias orales para que pues los protagonistas , que estuvieran en *Uniandes* en el *Centro de cómputo* y todavía están por ahí, entonces nos parece que es una fuente de información importante. Venimos haciendo algunas entrevistas exploratorias, hemos empezado a llenar fichas de este rompecabezas para comprender mejor, aspectos digamos de de las redes de personas que estuvieron participando, de cómo veían ustedes en ese momento, en ese momento histórico, lo que estaba pasando. Si se imaginaron lo revolucionario que iba a ser el internet y la web para la historia de la humanidad, porque pues es algo que toca todos los aspectos del mundo de lo social. Venimos haciendo entrevistas, obviamente tu nombre ha aparecido constantemente en las diferentes entrevistasy estuvimos en esta tarea de poder contactarte. Es una entrevista en la que tenemos algunas preguntas de base, pero también nos interesa mucho que tú puedas, digamos, mirar hacia atrás, tu memoria, porque pues esto se reconstruye a partir de unas memorias que cada cual tiene sobre sus primeros momentos para poder empezar a entender cómo ocurrió todo en*Uniandes*. Pero nos han aparecido, pues, diferentes temas también de relación de *Uniandes*con otras universidades, con instituciones como la*Biblioteca Luis Ángel Arango*, la relación con *Telecom*, con el sector, digamos público, la relación con universidades en Estados Unidos, con una comunidad de personas que empezaron a gestar estos primeros momentos del internet y la web. Hemos hecho trabajo también de  *webscraping* y para ver qué páginas web de las originales de las más tempranas están. Hay mucho que se ha perdido. Con Jaime siempre hablamos, nosotros somos historiadores, del periodo colonial y a veces es más fácil encontrar fuentes para para del Imperio español que fueron súper sistemáticos en el archivo que para estas primeras etapas de la web, hay mucha información que nadie se preocupó por archivar y por cuidar para esto que estamos haciendo ahorita la reconstrucción. Entonces esto como a manera de contexto, no sé si Jaime quiere añadir algo más. 
+
+
+Jaime Humberto Borja [00:03:12] No, ya lo dijiste todo, creo que eso es lo básico. Solamente recalcar algo que dice María José y es que no hemos encontrado nada de información sobre esto. Hay dos cosas , encontramos un artículo tuyo creo que el 94. De resto es información muy fragmentaria que está como perdida. Sobre todo esto de recoger el testimonio oral, yo creo que esto es muy interesante, que sale de la memoria de quienes participaron en el proceso. Hay muchas veces que esas personas se asustan y dicen no sé qué decir y de pronto comenzó a hablar y es imparable, nos comienzan a botar un montón de datos. Entonces esto es que nos cuentes tu memoria ¿qué recuerdas? Si quieres comenzar a contarnos un poco de tu formación y cómo te vinculaste a este proceso? Sería increíble. Y creo que eres la única mujer que estaba en ese momento en el panorama. Lo que te da un valor mucho más alto. Ahora hay mucho trabajo alrededor de relaciones de género en campos tan masculinos como es la ingeniería y más sistemas. Entonces de que entonces, si Laura quiere. 
+
+
+Laura Manrique [00:04:39] No, no. Abramos el micrófono para nuestra entrevista. Por favor. Claudia, no sé si nos quieres. 
+
+
+Claudia Sastre [00:04:45] Primero que todo, me siento muy honrada porque  yo no me sentí tan importante en el proceso, para ser honesta, porque todo el proceso fue, yo me imagino que ya han hablado con ellos, liderado por *Fernando Salcedo*, *Hugo Sin*, *Gonzalo Romero*,  *Mauricio Pinilla*. Bueno, yo  digamos que yo hice parte, sí, hice algo. Yo estudié en *Uniandes* *Ingeniería de Sistemas*, me gradué en el 90 y mágicamente fui invitada por *Fernando Salcedo* a trabajar como *ingeniera* en el *Centro de cómputo*. Fue una emoción muy grande porque justamente yo dije: “uy, son solo hombres”. Yo erala mujer que invitaba y yo: “que maravilla, muchas gracias”. Me invitó a trabajar. Yo empecé trabajando no en el grupo de *telecomunicaciones*, que era como el grupo que estaba eh liderando todo el proceso de de *conexiones*, de manejo de las *redes* en *Uniandes*, porque en ese momento cuando yo entré todavía *internet* no sonaba para nada. Yo entré al grupo de la parte de *aplicaciones administrativas*, más de de acá, del de aplicaciones académicas, todo el manejo  -!uy ya se me estaba olvidando¡- del galpón, del manejo de horarios. Eso era con los *mainframes* de  las cosas súper viejas, eran unas máquinas gigantes en la parte en el primer piso del *Centro de cómputo*. Era una belleza de unas máquinas que parecían lo mejor del universo. Yo me acuerdo de entrar al*Centro de cómputo* y eran unas cajas gigantes y una impresora gigante. Y aquí es donde está el manejo de toda la parte de información de los alumnos. Todas las bases de datos eran manejadas con las… con las máquinas de… -Dios se me está olvidando-*IBM*, pero estaba la otra. Las otras grandes máquinas que eran *Unisys*, creo, eran super viejas. El lenguaje de programación era. -Oh, Dios mío. Mi memoria. Me olvidó.- 
+
+
+Jaime Humberto Borja [00:07:31] No te preocupes. 
+
+
+Claudia Sastre [00:07:32] Bueno, era algo super, super viejo, pero parecía lo último. Yo me acuerdo de eso. Era muy interesante. Empecé a trabajar con eso , el manejo del *galpón*. Recuerdo que el reto era que el *galpón* se hiciera en diferentes puntos *Uniandes*. Antes el *galpón* eran puras hojitas y se llenaban unas tarjetas y era con tarjetas todo el proceso de ajuste de horarios. Mi trabajo inicial fue que pusiéramos pantallas. Claro que yo no puse las pantallas, yo solo trabajo en el *software* para que los estudiantes desde diferentes sitios de *Uniandes*, diferentes galpones hicieran el ajuste de horarios. Empecé a trabajar en ese momento en esas *aplicaciones*, en la parte administrativa de la universidad. Trabajé también con la nómina. Me acuerdo que como en el 94 empezó, bueno, antes yo ya empecé a tener contacto con *BitNet*, que  inicialmente fue con el *email* de *BitNet*, pero yo en ese momento no formaba parte del grupo más cool del *Centro de cómputo* que era el de *telecomunicaciones*. En ese momento, me acuerdo, yo estaba en las reuniones, pero yo estaba en la parte administrativa,  las prestaciones administrativas. Entonces era el grupo de *Hugo Sin*, con *Gonzalo Romero*, con *Mauricio Pinilla*, los que estaban de verdad conectándose.. Yo creo que ahí ya conecta con la historia que imagino que ellos les han dado a ustedes. Todo lo que tuvieron que hacer y me acuerdo que era una labor y decir: “¡Qué pilera!,, por eso me siento súper, digamos humilde en el sentido que yo no conecte nada. Yo llegué hasta cuando ya ellos hicieron todo el trabajo gigante de  la conexión. Yo estaba en las reuniones y escuchaba lo que estaba pasando, todo el esfuerzo tan grande que tuvieron que hacer liderado también por  *Fernando Salcedo* y con el soporte de la *Uniandes*, de *Iván Trujillo* me acuerdo. Sin ellos no se hubiera logrado tampoco. Ya cuando  vi que estaba más desarrollado, le dije ¿será que me puedo cambiar de equipo de trabajo? Me encantaría, me encantaría formar parte de eso, pero yo estaba un poco aburrida, ya llevaba cuatro años trabajando en el área administrativa del *Centro de Cómputo* de las aplicaciones administrativas y la parte académica y  Huguito, *Hugo Sin* me dijo: “Listo, listo. Sí, arranca”. Me acuerdo que el ambiente de trabajo era delicioso. Trabajar en el *Centro de Cómputo” fue una de las mejores experiencias de mi vida. Era supremamente cálido. Yo era la única mujer. Bueno no era la única. La otra mujer era *Martica*, que era la secretaria. En el *Centro de Cómputo” eran súper respetuosos, consentidores, me daban las oportunidades, confiaban en mí. Digamos que hablando desde el punto de vista como mujer y cómo me fue con todo ese montón de hombres en esa época. Fue fantástico, fantástico. Son unos tipazos Fue muy rico, fue un ambiente muy sano, muy enriquecedor, fue muy bonito. *Hugo Sin* me dijo si arranca y me dijo listo, te puedes hacer cargo de la *web*. Porque en ese momento, cuando nos conectamos a *Internet* había más, no era solo la *web*, eran un montón de servicios. Entonces, nos los distribuimos. Estaba toda la parte de *email* y es -Me estoy olvidando de tantas cosas. Pero bueno, ustedes me perdonan, son 30 años-. Yo me hice cargo de lo que en ese momento se llamaba *Gopher* de la *web*. Entonces yo era la administradora del *Gopher*y del *web*. Otros en el equipo estaban con*STP*, con *SMTP* -Ya no recuerdo qué más-. *Gonzalo Tomero* y *Mauricio Pinilla*.  Me dijeron tú te haces cargo de la *página web* y de *Gopher*. Entonces empecé a estudiar de qué se trataba eso. En ese momento se llamaba *webmaster*. Yo fui la *webmaster* de *Uniandes*. Cuando yo ya empecé ellos ya habían hecho la primera paginita en la que ya había información, había una página de sobre Colombia y la página de *Uniandes*. Yo empecé a aprender del *manejo del servidor* como tal, o sea toda la *configuración* del *servidor HTTP*, eso era puro *Unix* tocaba a mano, los *archivos de configuración*, todo el manejo de las *páginas web* era a mano, entonces construir las páginas era escribiendo todo el *código*. Obviamente *HTML* en esa época, pues siempre ha sido y es todavía algo muy sencillo no es muy complicado. Digamos que el reto era decir oiga , qué quiero comunicar en estas páginas sobre *Uniandes*. Inicialmente las páginas en *Unix* eran blanco y negro,  al puro comienzo, después muy rápidamente empezó la interfaz gráfica. Entonces ya después el reto era todavía más grande. En ese momento uno veía las páginas web solo como información. Yo en  ese momento no imaginé que necesitaba un diseñador gráfico o un equipo de trabajo, así como ahora se requiere para hacer un buen trabajo. Yo era la diseñadora gráfica y  las primeras *páginas web* fueron espantosas. -Lástima que no tenga una foto de esas páginas-. Era la página de *Uniandes* y me acuerdo que pretendíamos ser un un *índice de páginas*. En ese momento no existía, Yahoo no existía Google, no existía nada. Entonces era: “!Ah¡ *Uniandes* tiene la lista de las páginas web”. Nosotros lo que teníamos era una lista. En ese momento solo eran *páginas web planas*. No era nada dinámico todavía, no había una lógica detrás. Construiamos las páginas con los links y eso era todo al puro comienzo. Me acuerdo que*Hugo Sin* me dijo:”Tienes que hacerte cargo de construir el *WAIS*de *Uniandes*”. Y yo como: ¿qué es eso?. Empezó todo un reto de empezar a usar el mismo *internet* para aprender cómo construir lo que nosotros queríamos poner ahí. En ese momento tuvimos 3 objetivos. Uno era la *página web* de *Uniandes* como universidad hacia afuera y hacia los estudiantes, una *página web* de Colombia para ver hacia afuera y más adelante empezamos a generar un espacio para los estudiantes, que era el *sitio web* de estudiantes en el que le dimos la oportunidad a los estudiantes de crear su propia *página web*. Ellos creaban ahí lo que querían. Tenían su propio sitio. Me acuerdo que hubo estudiantes que empezaron a construir cositas interesantes. Me acuerdo que yo misma usando *Paint*de *Microsoft*, de *Office* básico construí unas imágenes de unas cosas para que hicieran clic. Era muy chistoso porque era horrible. En la *página web* el fondo era gris, el logo amarillo de la universidad encima y unas gráficas. Me acuerdo de ese círculo con unos links. Era feo, pero a todo mundo le parecía divino. Yo no sé como. Empezamos a trabajar así. Más adelante yo traté de empezar a vincular a las diferentes facultades me acuerdo que empecé a hacer como campañas en *Uniandes*, porque empezó a hacer muy claro que lo importante para construir el *sitio web* de *Uniandes* en general es la colaboración. Eso digamos que al final fue lo que se vio y es que *Internet* es la colaboración de muchísima gente y por eso fue que se multiplicó y por eso fue que creció de la manera como creció. No se trataba de que el *webmaster* construyera las *páginas web*. Si no que empezamos como, oiga no, esto hay que multiplicarlo y necesitamos que mucha gente empiece a *producir* su *contenido* y entre más gente se reúna, mejor. Entonces me acuerdo de hacer entrevistas con las diferentes facultades, de ir a los diferentes departamentos y empezar a enseñar el potencial de  esta nueva *herramienta* . Me acuerdo que yo hacía citas con diferentes departamentos, empezamos a *dictar clases de cómo construir las páginas* y tratamos de empezar a *construir herramientas* para que la gente produjera las páginas ellos mismos, no solo lo que nosotros podíamos hacer. De forma simultánea empezamos con *Fernando Salcedo* a trabajar en el *galpón* en *Internet* y eso fue una maravilla, porque bueno, ya fue algo mucho más complejo. Yo no sé, si todavía existe el concepto de galpón en *Uniandes* o eso ya no, ya no. 
+
+
+Jaime Humberto Borja [00:18:41] No, sí se le llama popularmente galpón. 
+
+
+Claudia Sastre [00:18:44] Ah, bueno, pues se trata del ajuste de horarios. El ajuste de horario siempre fue un karma. O sea, cuando yo entré a *Uniandes* era terrible. Tú tenías que ir al segundo piso de la cafetería, hacer unas filas eternas con las dichosas tarjetitas y en los listados tiene cupo en tal clase, si o no, entonces tú te anotabas ahí entregabas la tarjetica y a los varios días podías ir a reclamar tu horario en esos listados de páginas. Yo no sé, ustedes son más jóvenes, no sé si lo recuerdano si lo conocieron y entonces ya después empezamos a decir oiga, *galpón por internet*, o sea, está esta la *herramienta*, cómo así que los muchachos tienen que venir a *Uniandes*, a las pantallas, intentemos galpón por *internet* y ese fue un proyecto súper chévere porque teníamos que conectar todo.
+
+
+María José Afanador Llach [00:19:48] Se desconectó Jaime. 
+
+
+Laura Manrique [00:19:51] Ya. Ya está. Ahí está.
+
+
+Claudia Sastre [00:19:55]  Entonces, toda  la *web* de *Uniandes* estaba en *Unix* y todas las bases de datos administrativas y académicas de información académica estaban en *Unisys*. Entonces la idea era conectar esas dos. Esas plataformas no eran conectables, en teoría. Entonces fue un trabajo de *programar la conexión*. Yo trabajé en la parte de *UNIX* del *servidor HTTP* generando *programas* en *C* en super bajo nivel con *sockets*, se llamaba en esa época, para hablar con la parte *Unisys*, que en ese momento la estaba haciendo *Fernando Salcedo*, quien hizo toda la parte y nos conectamos y logramos hacer el *galpón* por *internet*. Yo me acuerdo de los mensajes de los estudiantes diciéndole: “Hay muchas gracias, gracias a ustedes no tuve que salir corriendo de mis vacaciones y eh, y venir a la universidad hacer el ajuste de horario”, sino que se pudo quedar en donde estaba. Obviamente en ese momento todavía era difícil conectarse a internet, era con un *módem* súper lento, . La gente empezó a hacer el ajuste de horarios como me imagino que es ahora la única manera como se hace. 
+
+
+María José Afanador Llach [00:21:27]¿En qué año fue eso más o menos Claudia?En qué año pasó más o menos En qué año se logró hacer el ajuste horarios por *Internet*. 
+
+
+Claudia Sastre [00:21:36] Yo creo que por el 96 estimo. 96-97, yo creo. Para mí eso fue espectacular. Como abrir, permitir, de verdad sacarle el jugo al *internet* y  a las *páginas web*. Fue un *servicio* para los estudiantes súper importante Fue muy chévere poder hacer  el ajuste de horarios y  los estudiantes en ese momento ya podían imprimir su horario en el momento. No tocaba esperar ni ir a admisiones y registro para tener su horario.  De forma también simultánea en todo ese proceso,  me acuerdo que me invitaban, -que me sentía súper importante- me invitaron a dictar conferencias para hablar sobre cómo crear páginas. Digamos que no había mucho de donde investigar, era más hablar de la experiencia propia. Había un muchacho,  se llamaba *Carlos Varela*, ¿les han hablado de *Carlos Varela*?. *Carlos Varela* fue un estudiante de *Uniandes* que tuvo contacto también. Él no trabajó con nosotros en o con el *Centro de Cómputo* en la conexión, pero digamos que tuvo contacto con gente acá de la universidad[a], . Nos enseñó cosas y me acuerdo de hablar con él para aprender y para todo. Me empezaron a invitar a Bucaramanga, empecé a dictar charlas sobre el tema. Me acuerdo de dictar dos charlas grandes en la *Asociación Colombiana de Ingenieros de Sistemas* (ACIS). Una fue sobre cómo hacer *páginas web* me acuerdo. Me da ternura recordar eso porque era una conferencia con 300 personas  para decir qué es lo importante de construir una *página web* y yo me acuerdo del PowerPoint [b]tan importante.  Yo tendría como unos 24, 25 años en ese momento. Al año siguiente también me volvieron a invitar a hablar sobre la *multimedia* en *Internet*. Ahí ya uno empezaba a ver, *videos*, *animaciones*, *juegos*, cosas muy sencillas para lo que se tiene ahora, pero en ese momento espectacular y era. La charla que me tocó dictar fue sobre qué se ve hacia el futuro, ¿qué puede pasar con *multimedia*? Imagínense, era como tratando de preguntarse qué se podrá hacer con esto que están haciendo. Era como tratar de tener una bola de cristal y decir oiga mire, ya se puede tener *audio* y *video*. Yo me acuerdo que en ese momento era play y uno veía el *video*, oía el *audio* o un *video* muy corto, una *animación*, pero nada como lo que tenemos justamente en este momento, digo que de todo lo que ustedes ya saben se pudo hacer. Me acuerdo que trabajando en *Uniandes* en el *Centro de Cómputo* llegó un señor, no me acuerdo ni cómo se llamaba y me dijo:  “yo quiero que usted me ayude, porque yo quiero poner una tienda y vender cosas por internet”. En ese momento sonó muy interesante. Nos contrató a nosotros para que lo ayudáramos a construir su página para *vender* cosas por *internet*. En ese momento ni carrito de compras ni nada. Eso era todo a mano. Yo finalmente no participé en ese proyecto, no me acuerdo exactamente por qué. Él siguió solito con su idea. Yo no sé hasta dónde habrá llegado porque en ese momento ya me cambié a trabajar con  la *Casa Editorial El Tiempo*.  Me invitaron a pasarme a la *Casa Editorial El Tiempo* y yo me fui de *Uniandes* y empecé a trabajar con ellos más o menos por un año. Fue un reto.Yo no fui bilingüe nunca. Yo no fui a colegio bilingüe, pero me tocó. Obviamente yo tenía el inglés de la universidad,  no sé si todavía hay cuatro niveles de inglés o lo que yo hice de inglés en la universidad. Entonces era un reto porque tocaba escribir y leer en inglés mucho. Cada cosita que uno necesitaba hacer tocaba preguntar, de pronto esas son las pocas cosas que ustedes se pueden encontrar, mis preguntas, “¿Cómo hago para tal y tal?” Y era una *comunidad* de muy poca gente que estábamos empezando a tratar de hacer las cosas, de construir las *páginas web*, de generar los *programas* para interactuar con *bases de datos*. Entonces  se pueden encontrar, yo ya he tratado buscar y me acuerdo que yo buscaba mi nombre y me salía un montón de páginas, porque al final de cada *página web* de *Uniandes* estaba mi nombre. Era muy chistoso. Ya no encuentro nada en esa época. Entonces lo que creo que pueden encontrar es preguntas mías hacia los gurús diciendo ¿Cómo hago esto?  Fue un reto también para mí el idioma, pero lo logramos. Yo me acuerdo que era la página de *Uniandes* y todo era la pionera en ese momento.
+
+
+Jaime Humberto Borja [00:28:05] Laura me dejas compartir pantalla, por favor. Para hacer una pregunta con Compartiendo pantalla. 
+
+
+Laura Manrique [00:28:10] Claro, Sí, señor. 
+
+
+
+
+
+
+Jaime Humberto Borja [00:28:14] Claudia tengo una pregunta que van en ese sentido. . 
+
+
+Claudia Sastre [00:28:32] Se me olvidó hablar de mis mentores. Hay gente con más gente[c]. 
+
+
+Jaime Humberto Borja [00:28:37] Tenemos una página web que me gustaría saber si es tuya. La tenemos sin fecha. En te pongo en el chat la tomé de Internet Archive. Aquí creo que es más fácil. Que tiene más o menos la información que nos estabas contando. Tiene el acceso a Colombia y la información de comunidad estudiantil. Es de lo más antiguo que hemos escuchado. 
+
+
+Claudia Sastre [00:29:22] Esta no es la primera. Qué belleza. En esta yo ya estaba. Te cuento, resulta que la primera fue creada por mi, a mano . Me acuerdo de ir a la *Facultad de Arquitectura* que yo estaba como catequizando, digamos. En una reunión estaba  *Pablo Franciso Arrieta* era en ese momento estudiante de arquitectura de la universidad y me dijo oye, a mí me interesa ayudar. Y yo dije pues un arquitecto. Me dijo, yo sé manejar *Photoshop* . Dije, ay, Dios mío, eso es lo que yo necesito, yo todavía soy muy ingeniera, yo soy muy cuadriculada. Dije sí, esto es lo que yo necesito. Fue una maravilla y darse cuenta de que se necesita un equipo multidisciplinar. Yo necesitaba un diseñador gráfico. Lo más cercano que tuve a un diseñador gráfico es que tuve la oportunidad de trabajar con monitores. No sé si todavía existan los monitores en *Uniandes*, son muchachos que trabajan con la universidad, y el *Centro de Cómputo* tenía sus monitores. Yo tenía a mis dos monitores que trabajaban conmigo, ellos también eran ingenieros. La ventaja es que uno de los dos, *Mauricio Barreto*, lo pueden encontrar por internet, , él trabajaba con *herramientas gráficas*. Ya no era yo trabajando en *Paint*, haciendo los muñequitos, sino que él me empezó a ayudar. Él ya trabajaba con *Photoshop*, o con que sería en ese momento *Illustrator[d]*, no sé qué sería lo que en ese momento se usaba, ya no me acuerdo. Él fue mi monitor para *construir* los *botones* y los *letreros* y ahí digamos que fue la página anterior a esta. Conmigo también trabajaba *Francisco Martínez*, él era súper cacharrero, pero él se encontraba los *comandos* y las cosas. Él me ayudaba mucho en en otros aspectosDespués en la Facultad de Arquitectura me encontré con  *Pablo Francisco Arrieta*, no sé en donde esté viviendo él ahora. Él tenía obviamente mucha familiaridad con *Photoshop* y con las *herramientas de Adobe*. Fue una maravilla. Empezamos a trabajar juntos y esta página es la nueva versión de la horrorosa con fondo gris que teníamos antes, que era horrorosa, yo la tengo en mi cabeza. Pero empezamos con esto y él ya creó esta página con fondo blanco. Me acuerdo. Fijate que tenemos la primera *animación* de ese nuevo y era la manera de llamar a lo a lo nuevo. Me da emoción ver esta, porque si tiene exactamente lo que estaba. La comunidad estudiantil fijate que está y la descripción del campus. Empezamos a tomar *fotos* de todo el campus y queríamos hacer un *mapa sensible* yo no sé si esto todavía lo tengan. Me tocaría empezar a navegar esto para acordarme. Acá teníamos un mapa de *Uniandes*y la idea de hacer un *mapa virtual*. Teníamos muchos planes. O sea, empezó a ser delicioso todo lo que podíamos hacer. ¿Si uno hace click ya no pasa nada?. O ¿si? Me voy a dar gusto mirando esto. 
+
+
+María José Afanador Llach [00:33:32] Estás con el micrófono apagado Jaime. Creo que hay unas cosas que funcionan y otras que no. No. 
+
+
+Jaime Humberto Borja [00:33:37] Hay unas cosas que funcionan y otras que no. La *página  web* de Colombia, por ejemplo, sí está activa. No todo está activo porque como estos son screenshots sí. 
+
+
+Claudia Sastre [00:33:49] Fíjate que esta versión que ustedes están viendo, yo ya me había salido, porque si ustedes miran ya no está. Cuando yo la creo aparecía mi nombre y ahora está *Erika Mancilla*, que ella entró cuando yo todavía estaba en *Uniandes*. Ella empezó a trabajar en el 96, 97 que ya ingresaron más mujeres. Erika, *María Clara[e]*. Pero *María Clara* estaba con el grupo de biblioteca que era todo un esfuerzo gigante, pero no la biblioteca no estaba en Internet todavía. *María Alejandra Godoy* también empezó a trabajar en la universidad, después muchas más en el área administrativa. Pero fíjense si ustedes ven por el *administrador web*, aparece *Erika Mancilla* en ese momento, o sea que esta *página web* ya es después. Pero sí, esta fue mi página y a lo mejor de aquí  ya empezaron las mejoras después, cuando yo ya me fui. O sea que esta puede ser una *versión* un poco más nueva de cuando yo estaba. 
+
+
+María José Afanador Llach [00:35:09] Pero ahí apareces tú como grupo de trabajo histórico. Ahí abajo sale la coordinación. *Mauricio Barreto*, *Francisco Martínez*. 
+
+
+Claudia Sastre [00:35:18] Ahí están, ellos.. 
+
+
+María José Afanador Llach [00:35:20] Miren en esta es que los iconos tampoco son tan claros. Ahí la que les mandé sale el grupo de trabajo activo, grupo de trabajo histórico. Entonces, más o menos ¿esto sería como 97? Esta versión. 
+
+
+Claudia Sastre [00:35:37] Debe ser. 
+
+
+María José Afanador Llach [00:35:39] Ahí está *Pablo Francisco Arrieta* que estabas también mencionando ahorita. 
+
+
+Claudia Sastre [00:35:43] A mí por lo menos me acuerdo de los nombres. Me alcanza la memoria para eso. *Erika Mancilla* ya estaba claro. *STI* era el grupo solo *Aldemar[f]*, *Mauricio Barreto*, *Flavio Arciniegas*, *Javier Varela*. Yo creo que eres el hermano de Carlos Varela. *Ingrid Correa*. *Alejandro Flores* *Anita[g]*, necesitábamos a alguien para traducir. 
+
+
+María José Afanador Llach [00:36:20] Claro, la versión en inglés. 
+
+
+Claudia Sastre [00:36:21] No teníamos. Sí. Entonces contratamos a Anita. Ya me acuerdo.
+
+
+Jaime Humberto Borja [00:36:32] Hay dos preguntas importantes a partir de esto. Una es ¿Cómo aprendiste *HTML*? Porque era difícil tener acceso a esa información por libros, por gente que conocías, cacharreo,  por el internet mismo. 
+
+
+Claudia Sastre [00:36:52] Obviamente en el *Centro de Cómputo* había libros. Me acuerdo que es un libro como para cada servidor, para *FTP*, libro *FTP*. Cada libro venía con un animalito. Si le preguntan a *Gonzalo Ulloa* o a *Hugo Sin*, ellos deben recordar perfectamente la marca o la editorial porque eran una serie de libros. Entonces, *SMTP*, mi libro; *FTP*, mi libro. Pero yo no recuerdo el libro de *HTTP*. . Me acuerdo de empezar obviamente por lo que ya estaba hecho, porque cuando me entregaron a mí ya había una *página web* construida que yo creo que  fue *Hugo Sin*quien la había construido, no sé quién la construyó antes que yo¿O *Diego Londoño*?, que era otro ingeniero que trabajaba, creo que era *Diego Londoño*. Yo empecé a simplemente *buscar* en *internet*, preguntar.  Me metía a las a las *páginas web* de otras universidadesSe me está olvidando. Yo me acuerdo de encontrar *grupos de información*, ¿cómo los encontraba yo’. Y uno *preguntaba* y *miraba* y *copiaba*. Tu veías el *source* de las *páginas web* y copie. Pregunté mucho, o sea la fuente misma que ayudó a crecer fue *internet* mismo. Obviamente, los libros ayudaban, pero me acuerdo que había un libro así gordo sobre *HTML*, pero era mucho más fácil, mucho más ágil buscar en *Internet* mismo y resolver las cosas usando el internet mismo. }. Teníamos un listado de 100 *páginas web* en *Internet*. Éramos el *sitio web* de referencia porque teníamos 100 páginas, ya luego crecimos 150 páginas. *Página web* que encontrábamos manualmente la agregamos. Era una lista de páginas[h] que debe estar por aquí. El buscador no, porque este buscar ya empezó a ser dinámico sobre las páginas de internet. Muy chévere. ¿Qué más les cuento? No sé ustedes. 
+
+
+Jaime Humberto Borja [00:39:28] Yo tengo otra pregunta. Cuéntanos de tu paso por El Tiempo.  En *Uniandes* comenzaste tu con este conocimiento. Después comenzó la expansión de Internet por otras áreas, sector bancario, empresarial y medios de comunicación. El Tiempo creo que fue uno de los primeros periódicos que se pegó Nos interesa que nos cuentes tu experiencia ahí ¿Qué hacías? ¿Cómo te vinculaste? 
+
+
+Claudia Sastre [00:39:59] Bueno, cuando yo trabajaba todavía en *Uniandes* , ya *El Tiempo* era una de las páginas fuera[i]. Empezaron muy pronto, ellos ya tenían una *página web* y eran los que movían más *tráfico[j]*. Ellos eran los que tenían más visitas y tenían una *página web* muy sólida. Yo en mis campañas que hacía por *Uniandes* me acuerdo de ir al departamento de administración a dictar mi clase de *HTML*, así como lo hacía por todo lado y a la clase asistió . *Ricardo Pombo Gaviria* era estudiante o trabajaba en la Facultad de Administración Facultad y  Él se fue a trabajar con la casa editorial *El Tiempo* y llegó a mi oficina a preguntarme si me interesaba trabajar para *El Tiempo*. Él fue el que me hizo la conexión con*El Tiempo*. Ellos me entrevistaron. En ese momento lo que pasó fue que su *webmaster*, que en el caso de ellos no era un ingeniero, en el caso de ellos era un periodista, se llamaba ¿*Miguel*?[k]Ya no recuerdo el nombre. Un hombre muy inteligente, muy capaz que ya había logrado tener a *El Tiempo* en ese nivel. Era *Uniandes* arriba, pero pronto *El Tiempo* empezó a subir  porque *manejaban* mucha *información*. Ellos eran la *fuente de información* para toda la gente en el extranjero. Ellos tuvieron mucho tráfico. Él [l]renunció a su puesto. Entonces buscaron un reemplazo y fui yo. Digamos que fue muy interesante que el reemplazo fuera yo porque él era un periodista y reemplazado por una ingeniera. En resumen, mi experiencia en *El Tiempo* fue como medio tenaz, porque yo tuve que empezar a trabajar como editora de nuevos medios. Era era una unidad de negocios de *El Tiempo* que consolidaba todo lo que eran los *medios digitales*, que no era impreso. Entonces ellos tenían la línea del tiempo, quizá ustedes la recuerdan. Era una línea telefónica, a la que uno llamaba, tecleaba el código y estaba la información del tiempo por teléfono. Era la línea T. Tenían los quioscos de información en Unicentro. Y todo lo que eran *servicios web*. Pero no solo era *El Tiempo*, sino que yo entré de editora de todos esos medios. Ser editor es una palabra muy grandetocaba manejar las revistas, multi revistas, El Tiempo y Portafolio. Era un cargo demasiado grande para mí, yo estaba jovencita y entré como jefe, como editora, pero trabajaba con un equipo de trabajo. Estaba *Ricardo Pombo* como la parte de mercadeo, de manejo de pauta publicitaria en los *nuevos medios*. Trabaja con, se me están olvidando los nombres, había alguien que trabajaba para la parte técnica, *manejo del servidor* y las *conexiones. Yo era la editora y entonces me tocó trabajar con la parte técnica, manejando las *páginas web*y coordinando todo eso, y trabajar con periodistas. Eso me quedó grande, porque trabajar con periodistas, me tocaba ir a la reunión de editores, me acuerdo de estar con *Enrique Santos Calderón*, yo soy ingeniera, e iba a la reunión de editores fue una responsabilidad grande. Ahí trabajamos en la creación de un proyecto grande que era *construir* una *ciudad virtual*, que era como el predecesor a lo que ahora son las *Social Media*. Queríamos construir una *ciudad digital* en la que la gente *encontrara* todo tipo de *información*, que tuvieran *chats*, que tuvieran de todo. Fue un proyecto muy grande con*El Tiempo*. En ese momento se llamó *Eureka*. Me imagino que de eso sí pueden encontrar mucha información. Yo trabajé siendo parte del grupo de periodistas con *Julio César Guzmán*, que él ahora es un personaje en CityTV. En CityTV,. Él sería una persona interesante de entrevistar porque escribió un libro. Yo trabajé con *Julio César Guzmán*y él es un periodista a todo taco. Él es fantástico. Ya un poco más adelante, hicimos un cambio y él se hizo cargo de la parte periodística de todo este esfuerzo afortunadamente, porque yo no era periodista y no tenía ni idea de cuál va a ser la noticia para sacar, no tenía ni idea de eso, fue un karma. Pero fue muy chévere la experiencia de construir ese proyecto. Ahí ya había un equipo súper extra disciplinario para construir la *ciudad digital* e hicimos un cambio grande en la página de *El Tiempo* y fue una catástrofe porque hicimos un cambio y teníamos *fallas técnicas*. Ahí tampoco sabíamos mucho de lo importante de ese *testing*, del control de calidad. Ya empezamos a decir oiga, saque la *página web* y resulta que antes de sacar la página tienes que probarla muchas veces, hacer pruebas aquí, pruebas allá, diferentes escenarios para asegurarte de que el producto que sale al aire es bueno. En ese momento hicimos algunas pruebas y salimos al aire con un montón de errores. Teníamos tanta población internacional echando ojo que pues teníamos muchos errores. Fue dura esa salida al aire con esa *ciudad digital*, incluyendo en la página de *El Tiempo*. La *página web* de *El Tiempo* era como decir cuidado, ese es Dios, no lo toque y lo tocamos. Entonces fue complicado, pero toda una experiencia en la que aprendí un montón. En ese momento trasladaron a mi esposo, yo me casé en ese momento, recién casada, y nos trasladaron para Chile. Entonces yo renuncié a *El Tiempo* y me fui para Chile para trabajar allá con otra empresa de *Internet* también. Y ya se acabó mi historia en Colombia en ese momento. 
+
+
+Jaime Humberto Borja [00:47:48] A propósito, hay dos preguntas que me generan inquietud. Una, ¿tú tuviste algo que ver con el *Banco de la República*? Con los *procesos web* también del *Banco de la República*. Segundo, es tu experiencia en Chile comparada con Colombia, ¿qué recuerdas? ¿están más o menos en el mismo nivel? Serían las dos preguntas la del Banco y la de Chile. 
+
+
+Claudia Sastre [00:48:10] En en el *Banco de la República*lo que hice en el banco fue, como siempre, catequizar. Yo creo que mi experiencia con el *Banco de la República* ,si mal no recuerdo, fue ir a *dictar* cursos, ir enseñar, pero yo no participé en *construcción* de *páginas web* o de *información* de ellos. Me contrataban para ir a dictar cursos. Fue lo que hice mucho en ese momento de la vida. Yo iba a diferentes sitios, me contrataban para ¨*enseñar* cómo *construir* las *páginas web* o cómo hacer las cosas. Yo no recuerdo tener una participación más activa, pero sí me acuerdo de ir al*Banco de la República*, por alguna razón fui a dictar cursos y no me acuerdo quién era mi contacto tampoco. Más adelante alguien de *Uniandes* que trabajó en el *Centro de Cómputo*, *María Clara¨Pavón*  trabajó allá en el *Banco de la República*. No sé si ella fue mi contacto para eso. Yo me acuerdo que solo si fui a *enseñar*. Yo iba a enseñar, *construir* la *página web*, tenía mi cursito y *enseñaba* y yo ya tenía eso estandarizado  para todo lado ir a enseñar. Enseñar supuestamente las mejores prácticas y  eran lo que según mi experiencia era lo mejor en una mejora progresiva, en una participación de mucha gente. Eso era lo que yo trataba de enseñar. Yo me acuerdo. Y con respecto a Chile. 
+
+
+Laura Manrique [00:49:48] Claudia perdóname, te interrumpo. Antes de que sigas para Chile, tú nos puedes contar brevemente ¿cómo era el proceso de adquirir una nueva ¨*URL*? ¿Qué tenía que hacer una persona o una empresa que quisiera poner una nueva página? En la época en la que trabajabas en el *Centro de Cómputo*. 
+
+
+Claudia Sastre [00:50:06] Lo que sucede es que el *Centro de Cómputo era el *administrador* del *dominio* para Colombia. Entonces, quien mejor debe responder esa pregunta sería *Gonzalo Romero*. Ese es el duro. *Gonzalo Romero* era el que administraba el *dominio* en ese momento y tú lo que necesitabas era *solicitar* tu *dominio*. Yo no sé si en ese tiempo ya se pagaba por el *dominio* o no. Pero básicamente tu *registrabas* tu *dominio* y si tenías tu *servidor* y lo *conectabas* a *internet* ÿ ya lo tenías todo. Era cuestión de *montar* el *servidor* y tener el *dominio* para que todo el *tráfico* se *enrutara* hacia tu *servidor*, lo registraban en el *servidor DNS* y eso era lo que tenían que hacer en esa época. Ahora es algo similar solo que el dominio lo maneja otra empresa. Eso es lo que yo recuerdo
+
+
+Claudia Sastre [00:51:19] Paso a la pregunta de Chile. Yo creo que en el momento que yo me fui a Chile estábamos muy parecidos. Pero me pareció que en Chile las cosas empezaron a moverse más rápido. Yo viví en Chile siete años y me acuerdo de sentir como, qué pasó con Colombia que nos estamos quedando un poco atrasados. Yo me acuerdo que empecé a navegar cosas en Colombia y yo quería que Colombia fuera al mismo ritmo que Chile. En ese momento empecé a ver como que Chile se nos estaba adelantando un poco en la calidad de las *páginas web* y en lo que uno podía hacer. Yo empecé a trabajar ya con una empresa que se llama *Nova Red* que prestaba *servicios* de *páginas web* y *seguridad*. En ese momento todavía existía el concepto de: Le creo, su *página web*. Mi trabajo fue con el equipo de *diseño* de *páginas web*, de *construcción* de *páginas web*. Ahí fue cuando me di cuenta que ellos empezaron a crecer un montón más rápido, porque los *bancos* tenían *servicios* por *internet*. En ese momento era 1999 y ya los *bancos* estaban empezando a prestar *servicios* en *internet* y yo veía que en Colombia todavía no. En Colombia los *bancos* se metieron a prestar *servicios* en *internet* más tarde que en Chile. Ese fue mi sensación. Me acuerdo que estaba un poco triste de ver que nos habíamos quedado un poquito, pero básicamente estábamos muy parecidos. Fue una experiencia también muy interesante. *El Tiempo* fue el que me conectó con la empresa en Chile. Se me olvidó mencionar que con *El Tiempo*tuve la grata experiencia de trabajar con *Netscape*. ¿Ustedes han oído hablar de Netscape? Sí, claro. En esa época *Netscape* era lo último. O sea, eran los *servidores*. Ellos tenían sus propias *aplicaciones* desarrolladas para el manejo de *contenido* en *Internet*. Me tocó trabajar con los consultores *Netscape*. Fue muy chévere. Muy interesante. Tratamos de usar su *software*. No nos sirvió, pero fue una experiencia muy interesante el trabajo con *Netscape* en ese momento en el 98 Entonces gracias a eso, como nos habíamos contactado con *Netscape* y había una conexión también con esta empresa *Nova Red*, no me acuerdo como, fue por eso que *El Tiempo* me recomendó a *Nova Red* y es por eso  conseguí trabajo en Chile, graciasa *El Tiempo*. Trabajé allá siete años. 
+
+
+Jaime Humberto Borja [00:54:10] Claudia, una última pregunta que echa mucho más atrás de este rollo, pero es un tema que nos interesa bastante. La formación de un *ingeniero de sistemas* en a finales de los años 80, porque la *Uniandes*  estaba comenzando a comprar equipos, está comprando el primer equipo grande de *IBM* que lo compró en el 88. Viene el proyecto *Hermes*. Es en un momento en que *Uniandes* se está comenzando a tecnologizar. ¿Por dónde sientes en ese momento que apuntaba a la formación de un ingeniero de sistemas? Siendo también una carrera nueva, para ese momento yo creo que tú eres como la segunda generación de *ingenieros de sistemas*. ¿Cuál es tu experiencia como estudiante? Y si sientes que esa esa formación que recibiste te sirvió para el trabajo, para tu primer trabajo, que comenzaste en el sistema de la universidad? 
+
+
+Claudia Sastre [00:55:11] Yo creo que en*Uniandes* me formaron para enfrentarme a lo que venga. Porque siendo *ingeniero de sistemas*, si estudiaste *C++*, no te puedes quedar con eso. Yo siento que ellos nos formaron, y me imagino que forman a la gente, para enfrentarse a lo que venga a la *tecnología* del momento y aprenda a sacar con las uñas lo que se necesite, aprender lo nuevo. Si le tocó trabajar con *DotNet*. Vaya a ver cómo aprende, porque es que toca aprender. Yo siento que mi formación en la universidad fue prepararnos para aprender lo nuevo en tecnología, obviamente con todas las bases de *programación*, de *algoritmos*, de *compilado*. Eso sirvió, fue como para darle a uno las herramientas para prepararse para lo nuevo que venga. En el momento en el que yo estudié *internet* todavía no se veía ni por las curvas. Yo no aprendí nada de lo que yo hubiera necesitado después para trabajar en toda mi vida, porque he trabajado toda la vida en este medio. Yo no recibí nada de eso, pero sí fui entrenada para aprender. Fui entrenada para buscar los recursos que necesito para eso. La Facultad de Ingeniería me enfrentó a muchas cosas que yo tuve que aprender de esto, de esto, esto, esto, esto, diferentes lenguajes. Por ejemplo, teníamos una clase que se llamaba Lenguajes en la que uno no tenía tiempo de convertirse en un experto en un lenguaje específico. Era un paseo por los diferentes lenguajes y fue un poco el entrenamiento de decir usted sabe de programación. Usted estructuró su mente para trabajar en esto. Este lenguaje, ok? Lo aprendo. Este lenguaje, lo aprendo. Es más como estructurar y resolver. Nos preparan para analizar y construir, estructurar y resolver. Es como un buen ejemplo de lo que significa ser ingeniero. Yo creo que es una muy buena preparación y me imagino que ahora están todavía mucho mejor. Me acuerdo de empezar con el *Hermes*. El proyecto *Hermes* era un grupo separado, un poco “competencia” del *Centro de Cómputo*. El *Hermes* tenía toda la *tecnología* de *Mackintosh* de *Apple*. Entonces ellos eran los duros en ese sentido. Me acuerdo que me acuerdo del Hermes. No sé qué más contarles de él. 
+
+
+Jaime Humberto Borja [00:58:18] *Hermes* No era del centro de cómputo, entonces era un proyecto aparte. 
+
+
+Claudia Sastre [00:58:23] Yo creo que era un proyecto, a lo mejor me está fallando la memoria. Ahí ya entonces tocaría preguntarle a *Fernando Salcedo*. Ya hablaron con Fernando? 
+
+
+Jaime Humberto Borja [00:58:35] Hablamos con Fernando, pero toca volver a hablar con él porque nos prometió segunda parte. 
+
+
+Claudia Sastre [00:58:46] Fernando tiene mucho. 
+
+
+María José Afanador Llach [00:58:47] Hay mucho por contar.. 
+
+
+Claudia Sastre [00:58:47] Con *Hugo Sin* ya hablaron? 
+
+
+Jaime Humberto Borja [00:58:52] No hemos podido. 
+
+
+Claudia Sastre [00:58:54] Virgen Santísima. 
+
+
+María José Afanador Llach [00:58:55] Hugo ha sido más difícil de conseguir y de concretarlo para la entrevista. 
+
+
+Claudia Sastre [00:59:00] Y con *Mauricio Pinilla*? 
+
+
+Jaime Humberto Borja [00:59:03] No. 
+
+
+María José Afanador Llach [00:59:04] Tampoco. 
+
+
+Claudia Sastre [00:59:05] Mauricio. 
+
+
+María José Afanador Llach [00:59:06] Sí. 
+
+
+Claudia Sastre [00:59:07] *Mauricio Pinilla* es muy importante. 
+
+
+María José Afanador Llach [00:59:09] En esta historia. 
+
+
+Claudia Sastre [00:59:11] Muy importante. *Mauricio Pinilla*, *Gonzalo Ulloa*, *Hugo Sin*, *Fernando Salcedo*. *Erica* recibió lo que yo dejé y sería muy interesante porque ella fue el siguiente paso. Ella empezó trabajando, interactuando con *bases de datos*. Despuésya se quedó a cargo. Ella debe tener una buena historia. Me acuerdo de un proyecto que *Mauricio Pinilla* trabajó con un grupo de estudiantes que trabajaron creando la primera página de cine. Se llamaba *CiNet*. 
+
+
+María José Afanador Llach [00:59:48] A esa la vimos con Jorge. 
+
+
+Jaime Humberto Borja [00:59:54] Jorge. 
+
+
+Laura Manrique [00:59:58] Giraldo. 
+
+
+Jaime Humberto Borja [01:00:00] Cierto. 
+
+
+Claudia Sastre [01:00:01] Ya hablaron con *Jorge Giraldo*? 
+
+
+Jaime Humberto Borja [01:00:03] Sí. 
+
+
+Claudia Sastre [01:00:03] Sí. Jorge. Jorge era la parte de *seguridad*. Es toda una historia interesantísima, los *hackers*. Eso fue espectacular. O sea, todos esos muchachos mega genios y la manera como el *Centro de Cómputo*los manejo y trato de convertirlos a la buena fe. Fue muy chévere, muy interesante. Imagino que hablaron de eso con *Jorge Giraldo*. 
+
+
+Jaime Humberto Borja [01:00:26] Sí, a él lo entrevistamos. 
+
+
+Claudia Sastre [01:00:30] La esposa María Alejandra  trabajó con nosotros también. 
+
+
+Laura Manrique [01:00:36] Claudia. Disculpa. Una última pregunta. De casualidad, ¿tienes contactos de algunas de estas personas que nos pudieras facilitar? Porque a veces no es tan fácil obtener esos contactos, correos electrónicos. 
+
+
+Claudia Sastre [01:00:50] Yo tengo el WhatsApp de Mauricio Pinilla. Va Mauricio Ya lo contactaron? 
+
+
+Laura Manrique [01:00:56] No, todavía no lo hemos contactado. 
+
+
+Claudia Sastre [01:00:59] He. ¿Qué te parece si yo le pregunto? porque me dice que no va a estar cómodo que no comparta? 
+
+
+
+
+
+
+Claudia Sastre [01:01:13] Es imposible, súper importante. *Hugo Sin*. 
+
+
+Jaime Humberto Borja [01:01:19] ¿*Mauricio Pinilla* dónde vive ahora?. 
+
+
+Claudia Sastre [01:01:21] Creo que está en Orlando, Florida. 
+
+
+Jaime Humberto Borja [01:01:24] Sí nos contó Gonzálo. 
+
+
+
+
+
+
+Claudia Sastre [01:01:28] *Gonzalo Ulloa*. *Mauricio Pinilla*, y definitivamente *Hugo Sin* es el papá de internet en Colombia, según hablan. Él fue el que el que jaló todo ese proceso. Pero si hablaron con *Gonzalo Ulloa* tienentodo un. 
+
+
+Jaime Humberto Borja [01:01:47] También prometió segunda parte. 
+
+
+Claudia Sastre [01:01:51] Claro. 
+
+
+María José Afanador Llach [01:01:52] Si con *Gonzalo Ulloa* toca volver a hablar porque faltaron muchos temas por revisar. Pero si nos haces ese  favor de contactarlo a él, contarle que estamos en este proceso y si prefiere lo contactamos por correo y quedamos pendientes. 
+
+
+Claudia Sastre [01:02:07] Yo no tengo el correo electrónico de él, que sería como lo más fácil. No sé dónde está trabajando, es que tenemos un grupo en WhatsApp del *Centro de Cómputo*, entonces él está en ese grupo. 
+
+
+Laura Manrique [01:02:18] Por favor, Claudioa ayúdanos a promocionar la iniciativa porque por ejemplo, *Hugo Sin* nos contestó una vez, pero no hemos podido concretar una entrevista. Entonces sería muy importante para nosotros. 
+
+
+Claudia Sastre [01:02:35] Bueno, yo le voy a les voy a mandar mensaje en el chat diciendo que como así que no han respondido que. Y le voy a decir a Mauricio que yo no hablo con Hugo casi nada. Al otro día por ahí salió en el chat diciendo de algún cumpleaños porque lo que hablamos es de cumpleaños y esas cosas. 
+
+
+María José Afanador Llach [01:02:52] Se felicitan y así. 
+
+
+Claudia Sastre [01:02:55] Sí, porque es que fuimos como una familia. Eso fue muy lindo, el *Centro de Cómputo*, el comienzo muy bonito. 
+
+
+Jaime Humberto Borja [01:03:03] Sí, de hecho, eh. Una de las ideas que nos surge el otro día es reunir para la celebración de los 30 años a una parte. Los que puedan.  Sería bonito tener a este grupo, que creo que eran ocho, contaba el otro día *Gonzalo Ulloa*, ocho, nueve tenerlos en una mesa 30 años después. Puede ser una experiencia bonita. 
+
+
+Claudia Sastre [01:03:28] Sería muy lindo. Yo no incluí a los que trabajaban en el área que de biblioteca, pero pues porque ellos al comienzo no tuvieron que ver *internet* en ese momento, eran como un grupo para hacer ahí los que me faltan de de mi lista. 
+
+
+Jaime Humberto Borja [01:03:42] Mhm. 
+
+
+Claudia Sastre [01:03:43] *Diego Londoño* también estaba ahí. 
+
+
+María José Afanador Llach [01:03:47] ¿En la biblioteca? 
+
+
+Claudia Sastre [01:03:49] No, no, no. Diego estuvo trabajando con Gonzalo. Él vive acá en Carolina del Sur. Voy a mandar entonces mensajito de WhatsApp a todos. Y Mauricio Pinilla tienen que entrevistarlo. 
+
+
+María José Afanador Llach [01:04:10] Si nos puedes conseguir su correo para poderlo hacer como una invitación formal sería buenísimo. Te agradeceríamos mucho. 
+
+
+Claudia Sastre [01:04:18] Hace como dos años tuvimos un video que era como una entrevista. Me olvidé de quién la hizo. Estaban Hugo, Gonzalo y Fernando. Eso fue en vivo. No recuerdo quién nos entrevistó y estábamos remotos Mauricio Pinilla. Fue en vivo con gente en el público y en el público estaba Pablo Francisco Arrieta. ¿Tienen el contacto de Erika? A Erika la tengo de amiga en Facebook. Le puedo preguntar. 
+
+
+María José Afanador Llach [01:05:02] Sí, Cualquier contacto, electrónico. 
+
+
+Claudia Sastre [01:05:05] Ella ahora trabaja en Nueva York. Yo creo que tiene un cargo en un banco, creo. Es una duraErika siempre fue muy pila. Me acuerdo. 
+
+
+Jaime Humberto Borja [01:05:19] Súper chévere. Muy bien, pues. Claudia, muchísimas gracias. No sabes la cantidad de información que nos aportas. Nos ayudas a ir construyendo esta historia que es también como comenzar a construir la red, no? Muchos de estos nombres están perdidos de la parte documental. La única forma es comenzar a reconstruir lo que pasó, la red, las formas de construcción de lo que fue *Internet* y la *web*. Muchísimas gracias por toda la información que nos has dado. 
+
+
+Claudia Sastre [01:05:56] Con mucho gusto. Yo me siento cuando ustedes dicen del *internet* en Colombia muy humilde porque o sea el gran trabajo. Yo trabajé en la construcción como la primera *webmaster*, pero el trabajo duro fueron otros. Yo estaba ahí paralela, pero tengo que reconocer que a mí ya me tocó más fácil. Yo ya tuve carretera pavimentada, a ellos les toca trocha. 
+
+
+
+
+
+
+Jaime Humberto Borja [01:06:27] De hecho ser la primera mujer diseñando *páginas web*, eso ya te pone en un lugar. 
+
+
+Claudia Sastre [01:06:34] Fue bonito. 
+
+
+María José Afanador Llach [01:06:36] Sí, es un trabajo pionero la generó tanto así que empezaste a enseñar porque nadie más sabía eso. 
+
+
+
+
+
+
+Claudia Sastre [01:06:45] Fue muy bonito. 
+
+
+Jaime Humberto Borja [01:06:48] Y lo que decía al comienzo, este vínculo de mujeres. Esto de abrir como mujer, conseguir ubicarse en un medio de hombres que hoy día es un tema que se está hablando con mucha flexibilidad, pero hace 30 años era una gran labor.  
+
+
+Claudia Sastre [01:07:08] Yo creo que yo tuve mucha suerte, porque me acuerdo que en esa entrevista en vivo que nos hicieron me preguntaron justamente eso, que cómo era la experiencia de ser una mujer entre tantos hombres. Para mí fue maravillosa. Yo creo que es que me tocó el grupo de hombres más espectacular del universo. Ellos nunca me hicieron sentir que porque era la mujer luche Unos unos hombres muy respetuosos. Me apreciaron a la misma altura, como si yo fuera un hombre más. Yo nunca sentí diferencia. Tal vez la diferencia era que me consentían. Me acuerdo que yo era consentida en el sentido de que me decían Claudita o Claudillapilla, como que me trataban así con cariño. Además que yo era súper jovencita. Yo me gradué más jovencita, entonces yo era como una niñita en ese momento, pero de resto no. Los retos, las posibilidades fueron las mismas. Los quiero muchísimo. 
+
+
+María José Afanador Llach [01:08:22] Chévere. 
+
+
+Laura Manrique [01:08:24] Muchas gracias nuevamente. Te acabo de poner un correo pidiéndote el favor de que nos ayudes a diligenciar el formato , que es un requisito de la universidad. Estamos muy pendientes de tu contacto en caso de que nos puedas dar algunos otros personajes,  con su correo electrónico o su contacto por WhatsApp, como prefieran ellos. 
+
+
+Claudia Sastre [01:08:47] Muy bien, listo. 
+
+
+Laura Manrique [01:08:48] Bueno, muchas. 
+
+
+Claudia Sastre [01:08:48] Gracias por buscarme. Un abrazo. 
+
+
+María José Afanador Llach [01:08:51] Gracias Claudia, porque llegamos. 
+
+
+Claudia Sastre [01:08:54] Que disfruten trabajar en la universidad, que eso fue yo creo que los siete años más hermosos de mi vida, estudié cinco y me quedé trabajando siete y quiero mucho a la universidad. Agradezco mucho. 
+
+
+Jaime Humberto Borja [01:09:06] Si conseguimos *páginas web* de tu elaboración, te les mandamos. 
+
+
+Claudia Sastre [01:09:12] Si, el de las más viejas cuando yo pinte una porquería 
+
+
+Jaime Humberto Borja [01:09:21] Abrazote. 
+
+
+María José Afanador Llach [01:09:21] Gracias, gracias, gracias, gracias. 
+
+
+Laura Manrique [01:09:24] Hasta luego. 
+
+
+María José Afanador Llach [01:09:26] Chao, Chao, chao. Me tengo que salir corriendo. Pero hablamos después. 
+
+
+Jaime Humberto Borja [01:09:31] Sí. 
+
+
+María José Afanador Llach [01:09:32] Listo? Bueno, chao. Chao. 
+
+
+Jaime Humberto Borja [01:09:34] Chao. 
+
+
+[a]No es clara la información
+[b]Este no sé si subrayarlo. No me parece tan relevante
+[c]No se reconoce qué dice exactamente
+[d]Illustrator ya existía para la época, pero habría que confirmarlo si es de interés para la investigación.
+[e]No se específica apellido
+[f]No se específica apellido
+[g]No se especifíca apellida.
+[h]Mención mientras revisa la página recuperada en Archive
+[i]No logro identificar qué dice acá.
+[j]No sé si complementar esto con tráfico web, me parece un término importante
+[k]No sé completa la información
+[l]Acá no se puede saber bien la persona a quién hace referencia. Es el webmaster anterior a ella del Tiempo, pero no recuerda su identidad
