@@ -18,7 +18,8 @@ Para realizar esta extracción de entidades a partir de un documento Word con co
 
 
 1. Preparación de documentos en formato Word
-  **Fundamental**: tras probar dos flujos metodológicos distintos, nos dimos cuenta que para preparar los documentos lo mejor es tenerlos en un Drive. Allí se puede aceptar el control de cambios más fácilmente, mientras que en Word hacer esto a veces bloquea el computador.
+  
+**Fundamental**: tras probar dos flujos metodológicos distintos, nos dimos cuenta que para preparar los documentos lo mejor es tenerlos en un Drive. Allí se puede aceptar el control de cambios más fácilmente, mientras que en Word hacer esto a veces bloquea el computador.
 
 ```mermaid
 
