@@ -34,12 +34,11 @@ En el transcurso de este proyecto, tuvimos la necesidad de procesar datos, organ
 
   
   
+| Flujo metodológico |Python  |	Microsoft Word	|
+|--|--|--|
+|[Procesamiento de entrevistas](https://github.com/Omphalos99/histo-internet-col/blob/main/_entrevistas/Flujo_metodologico_entrevistas.md) | python (módulos re y csv) | 2013 o mayor
+|	|	|
 
-| Flujo metodológico |Python | Microsoft Word |
-
-|----------------|-------------------------------|-----------------------------|
-
-|[Procesamiento de entrevistas](https://github.com/Omphalos99/histo-internet-col/blob/main/_entrevistas/Flujo_metodologico_entrevistas.md)| python (módulos re y csv) | 2013 o mayor |
 
   
   
