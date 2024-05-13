@@ -1,0 +1,581 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "concept",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "BitNet",
+          "BITNET",
+          "Bitnet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BitNet"
+      },
+      {
+        "from": [
+          "Página web",
+          "página  web",
+          "página web"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Página web"
+      },
+      {
+        "from": [
+          "Internet",
+          "internet",
+          "Internet "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Internet"
+      },
+      {
+        "from": [
+          "Centro de Cómputo",
+          "Centro de cómputo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Centro de Cómputo"
+      },
+      {
+        "from": [
+          "Ley 29",
+          "ley 29"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ley 29"
+      },
+      {
+        "from": [
+          "llamada telefónica",
+          "llamada telefónica "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "llamada telefónica"
+      },
+      {
+        "from": [
+          "Coldapaq",
+          "COLDAPAQ"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "COLDAPAQ"
+      },
+      {
+        "from": [
+          "Mainframes",
+          "mainframes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mainframes"
+      },
+      {
+        "from": [
+          "LudoMatica",
+          "Ludomática"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ludomática"
+      },
+      {
+        "from": [
+          "Mauricio Pinilla",
+          "Mauricio (Pinilla)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mauricio Pinilla"
+      },
+      {
+        "from": [
+          "red",
+          "Red"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "red"
+      },
+      {
+        "from": [
+          "telefonía",
+          "telefonía, "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "telefonía"
+      },
+      {
+        "from": [
+          "módem",
+          "modem"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "módem"
+      },
+      {
+        "from": [
+          "Conecta-TE",
+          "Conécta-TE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Conécta-TE"
+      },
+      {
+        "from": [
+          "Antonio Restrepo",
+          " Antonio Restrepo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Antonio Restrepo"
+      },
+      {
+        "from": [
+          "Internet Society",
+          "Internet. ¿Society"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Internet Society"
+      },
+      {
+        "from": [
+          "Gonzalo Ulloa",
+          "Gonzalo Ulloa "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gonzalo Ulloa"
+      },
+      {
+        "from": [
+          "UNIX",
+          "Unix"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "UNIX"
+      },
+      {
+        "from": [
+          "Callback",
+          "callback"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Callback"
+      },
+      {
+        "from": [
+          "IMPSAT",
+          "Impsat"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "IMPSAT"
+      },
+      {
+        "from": [
+          "Maria Emilia Correa",
+          "María Emilia Correa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maria Emilia Correa"
+      },
+      {
+        "from": [
+          "Runcol",
+          "RUNCOL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "RUNCOL"
+      },
+      {
+        "from": [
+          "DECNet",
+          "DECnet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DECNet"
+      },
+      {
+        "from": [
+          "Hugo Sin",
+          "Hugo (Sin)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hugo Sin"
+      },
+      {
+        "from": [
+          "Mini-Internet",
+          "mini-internet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mini-Internet"
+      },
+      {
+        "from": [
+          "CiNet",
+          "Cinet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CiNet"
+      },
+      {
+        "from": [
+          "AV VIllas",
+          "AV Villas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "AV VIllas"
+      },
+      {
+        "from": [
+          "Fernando Salcedo",
+          "Fernando (Salcedo)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fernando Salcedo"
+      },
+      {
+        "from": [
+          "Sonia Cristina",
+          "Sonia, Cristina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sonia Cristina"
+      },
+      {
+        "from": [
+          "telecomunicaciones",
+          "Telecomunicaciones"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "telecomunicaciones"
+      }
+    ],
+    "description": "Mass edit cells in column concept"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "concept",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Internet Society",
+          "Internet.Society"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Internet Society"
+      },
+      {
+        "from": [
+          "llamadas de larga distancia",
+          "llamadas de largadistancia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "llamadas de larga distancia"
+      }
+    ],
+    "description": "Mass edit cells in column concept"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "concept",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "COLDAPAQ",
+          "Coltapack"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "COLDAPAQ"
+      },
+      {
+        "from": [
+          "Pablo Francisco Arrieta",
+          "Pablo Franciso Arrieta"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pablo Francisco Arrieta"
+      },
+      {
+        "from": [
+          "Daisy Urrego",
+          "Deisy Urrego"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Daisy Urrego"
+      },
+      {
+        "from": [
+          "InterRed",
+          "Intered"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "InterRed"
+      },
+      {
+        "from": [
+          "Berkeley",
+          "Berkley"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Berkeley"
+      },
+      {
+        "from": [
+          "María Clara",
+          "María Clara[e]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "María Clara"
+      }
+    ],
+    "description": "Mass edit cells in column concept"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "concept",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Sonia Cristina",
+          "Sonia Cristina Prieto"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sonia Cristina Prieto"
+      },
+      {
+        "from": [
+          "Hugo",
+          "Gugo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hugo"
+      }
+    ],
+    "description": "Mass edit cells in column concept"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "concept",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "equipo",
+          "equipos"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "equipo"
+      },
+      {
+        "from": [
+          "ingeniero de sistemas",
+          "ingenieros de sistemas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ingeniero de sistemas"
+      },
+      {
+        "from": [
+          "servicio",
+          "servicios"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "servicio"
+      },
+      {
+        "from": [
+          "hacker",
+          "hackers"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "hacker"
+      },
+      {
+        "from": [
+          "Gonzalo Romero",
+          "Gonzalo Tomero"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gonzalo Romero"
+      },
+      {
+        "from": [
+          "telegrama",
+          "telegramas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "telegrama"
+      },
+      {
+        "from": [
+          "código",
+          "códigos"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "código"
+      },
+      {
+        "from": [
+          "Página web",
+          "páginas web"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Página web"
+      },
+      {
+        "from": [
+          "Mainframes",
+          "Mainframe"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mainframe"
+      }
+    ],
+    "description": "Mass edit cells in column concept"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "concept",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "terminal",
+          "terminales"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "terminal"
+      },
+      {
+        "from": [
+          "Universidad del Valle",
+          "la universidad del Valle"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Universidad del Valle"
+      },
+      {
+        "from": [
+          "Universidad Nacional Medellín",
+          "Universidad Nacional de Medellín"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Universidad Nacional de Medellín"
+      },
+      {
+        "from": [
+          "correo electrónico",
+          "correos electrónicos"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "correo electrónico"
+      },
+      {
+        "from": [
+          "Banco Occidente",
+          "Banco de Occidente"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Banco de Occidente"
+      },
+      {
+        "from": [
+          "computadores",
+          "computador"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "computador"
+      },
+      {
+        "from": [
+          "operador",
+          "operadores"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "operador"
+      }
+    ],
+    "description": "Mass edit cells in column concept"
+  }
+]
